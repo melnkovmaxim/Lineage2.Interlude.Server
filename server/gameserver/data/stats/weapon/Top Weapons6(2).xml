@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id="13955" name="molot 6 lvl">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<add val='50' order='0x10' stat='rCrit'/>
+     </for>
+</item>
+<item id="9717" name="molot 6 lvl">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<add val='50' order='0x10' stat='rCrit'/>
+     </for>
+</item>
+
+<item id="9726" name="Me4 Mag">
+  <for>
+        <mul order="0x30" stat="mAtk" val="1.99"/> 
+    <set val='476' order='0x08' stat='pAtk'/>
+    <set val='1420' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<mul val='1.1' order='0x30' stat='mAtk'/>
+      <mul val='1.14' order="0x30" stat="mCritRate"  />
+	    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+		<mul val='1.05' order='0x30' stat='mAtk'/>
+
+  </for>
+</item>
+
+<item id="9718" name="Me4">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  </for>
+</item>
+
+<item id="9720" name="KostetbI">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1134' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+		<add val='88' order='0x10' stat='rCrit'/>
+	</for>
+</item>
+
+<item id="9721" name="Dager">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1120' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+
+  </for>
+</item>
+
+<item id="9722" name="Destro dvuruk">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='2222' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='60' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+
+<item id="9723" name="Lance">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  </for>
+</item>
+
+<item id="9724" name="Bow">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.77"/> 
+    <set val='9200' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <add val='88' order='0x10' stat='rCrit'/>
+
+  </for>
+</item>
+
+<item id="9725" name="Duals">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+      </for>
+</item>
+<item id="9719" name="Me4_V2_00_RESERV">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+
+  </for>
+</item>
+<item id="18006" name="molot 6 lvl Fire">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<add val='50' order='0x10' stat='rCrit'/>
+     </for>
+</item>
+<item id="18008" name="Me4 Mag">
+  <for>
+        <mul order="0x30" stat="mAtk" val="1.99"/> 
+    <set val='476' order='0x08' stat='pAtk'/>
+    <set val='1420' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<mul val='1.1' order='0x30' stat='mAtk'/>
+      <mul val='1.14' order="0x30" stat="mCritRate"  />
+	    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+		<mul val='1.05' order='0x30' stat='mAtk'/>
+  </for>
+</item>
+<item id="18007" name="Me4 Fire">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  </for>
+</item>
+<item id="18000" name="KostetbI Fire">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1134' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+		<add val='88' order='0x10' stat='rCrit'/>
+	</for>
+</item>
+<item id="18001" name="Dager">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1120' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  </for>
+</item>
+<item id="18002" name="Destro dvuruk fire">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='2222' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='60' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+  
+</item>
+<item id="18003" name="Lance">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+  </for>
+</item>
+<item id="18005" name="Bow">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.77"/> 
+    <set val='9200' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <add val='88' order='0x10' stat='rCrit'/>
+  </for>
+</item>
+<item id="18004" name="Duals">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.57"/> 
+    <set val='1122' order='0x08' stat='pAtk'/>
+    <set val='274' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+</list>

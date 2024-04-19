@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='25022' name="Element Blue Breastplate">
+  <for>
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25023' name="Element Blue Gaiters">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25024' name="Element Blue Gauntlet">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25025' name="Element Blue Solleret">
+  <for>
+<add order="0x40" stat="pDef" val="5600" />
+<add order="0x40" stat="mDef" val="1600" />
+<add order="0x40" stat="pAtk" val="4800" />
+<add order="0x40" stat="pAtkSpd" val="580" />
+<add order="0x40" stat="runSpd" val="4"/>
+<add order="0x40" stat="maxMp" val="4000"/>
+<add order="0x40" stat="maxHp" val="4000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25026' name="Element Blue Brigandine">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25027' name="Element Blue Leather Leggings">
+  <for>
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25028' name="Element Blue Leather Gloves">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25029' name="Element Blue Leather Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25030' name="Element Blue Tunic">
+  <for>
+<add order="0x40" stat="pDef" val="5600" />
+<add order="0x40" stat="mDef" val="1600" />
+<add order="0x40" stat="pAtk" val="4800" />
+<add order="0x40" stat="pAtkSpd" val="580" />
+<add order="0x40" stat="runSpd" val="4"/>
+<add order="0x40" stat="maxMp" val="4000"/>
+<add order="0x40" stat="maxHp" val="4000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25031' name="Element Blue Stockings">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25032' name="Element Blue Mittens">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25033' name="Element Blue Slippers">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25034' name="Element Blue Helm">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25035' name="Element Blue Circlet">
+  <for>
+		<add order="0x40" stat="pDef" val="15000" />
+		<add order="0x40" stat="mDef" val="2200" />
+		<add order="0x40" stat="mAtk" val="4000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="5200"/>
+		<add order="0x40" stat="maxHp" val="5200"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='25036' name="Element Blue Cap">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+</list>

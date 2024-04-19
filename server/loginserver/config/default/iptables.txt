@@ -1,0 +1,59 @@
+# !! Только для UNIX-систем !!
+# это не панацея, набросок со стандартными правилами; заддосить не смогли, зато сайт уронили - 1.3кк обращений в час.
+# очищаем правила
+/sbin/iptables -F
+/sbin/iptables -t nat -F
+/sbin/iptables -t mangle -F
+
+# other network protection
+echo 1 > /proc/sys/net/ipv4/tcp_syncookies                              # enable syn cookies (prevent against the common 'syn flood attack')
+echo 0 > /proc/sys/net/ipv4/ip_forward                                  # disable Packet forwarning between interfaces
+echo 1 > /proc/sys/net/ipv4/icmp_echo_ignore_broadcasts                 # ignore all ICMP ECHO and TIMESTAMP requests sent to it via broadcast/multicast
+echo 1 > /proc/sys/net/ipv4/conf/all/log_martians                       # log packets with impossible addresses to kernel log
+echo 1 > /proc/sys/net/ipv4/icmp_ignore_bogus_error_responses           # disable logging of bogus responses to broadcast frames
+echo 1 > /proc/sys/net/ipv4/conf/all/rp_filter                          # do source validation by reversed path (Recommended option for single homed hosts)
+echo 0 > /proc/sys/net/ipv4/conf/all/send_redirects                     # don't send redirects
+echo 0 > /proc/sys/net/ipv4/conf/all/accept_source_route                # don't accept packets with SRR option
+
+# запрещаем все
+/sbin/iptables -P INPUT   DROP
+/sbin/iptables -P FORWARD DROP
+/sbin/iptables -P OUTPUT  DROP
+
+# drop Bad Guys
+/sbin/iptables -A INPUT -m recent --rcheck --seconds 60 -m limit --limit 10/second -j DROP
+
+# drop unwanted services
+/sbin/iptables -A INPUT -m multiport -p tcp --dports 25,110,111,119,143,465,563,587,993,995 -j DROP
+/sbin/iptables -A INPUT -m multiport -p tcp --dports 25,110,111,119,143,465,563,587,993,995 -j DROP
+
+# accept everything from loopback
+/sbin/iptables -A INPUT  -i lo -j ACCEPT
+/sbin/iptables -A OUTPUT -o lo -j ACCEPT
+
+# disable ping
+/sbin/iptables -A INPUT  -p icmp -j DROP
+# internet (established and out)
+/sbin/iptables -A OUTPUT -o eth0 -j ACCEPT
+/sbin/iptables -A INPUT  -i eth0 -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+# открываем порт логина 2106
+/sbin/iptables -I INPUT -p tcp --dport 2106 -j ACCEPT
+# закрываем порт гейм сервера 7777
+/sbin/iptables -A INPUT -p tcp --dport 7777 -j DROP
+
+###
+# прочие разрешения
+## коннект к БД, порт 3306
+# запрет для всех остальных
+/sbin/iptables -I INPUT -p tcp --dport 3306 -j DROP
+# разрешить следующим IP
+iptables -I INPUT -p tcp -s ВАШ_IP --dport 3306 -j ACCEPT
+iptables -I INPUT -p tcp -s IP_САЙТА --dport 3306 -j ACCEPT
+iptables -I INPUT -p tcp -s 127.0.0.1 --dport 3306 -j ACCEPT
+
+## коннект к SSH, порт 22
+# запрет для всех остальных
+/sbin/iptables -I INPUT -p tcp --dport 22 -j DROP
+# разрешить следующим IP
+/sbin/iptables -I INPUT -p tcp --dport 22 -s ВАШ_IP -j ACCEPT

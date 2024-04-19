@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="3403" levels="1" name="donat voin">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="4.60"/> <!-- P Def. +8% -->
+    <mul order="0x30" stat="mDef" val="4.40"/> <!-- P Def. +8% -->
+    <mul order="0x30" stat="pAtk" val="6"/> <!-- P. Atk +4% -->
+	<mul order="0x30" stat="pAtkSpd" val="1.48"/>
+	<add order="0x40" stat="runSpd" val="35"/>
+		    <add val='70000' order='0x40' stat='maxHp'/>
+		    <add val='70000' order='0x40' stat='maxCp'/>
+			<add val='70000' order='0x40' stat='maxMp'/>
+  </for>
+</skill>
+<skill id="3407" levels="1" name="donat mag">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="5.10"/>
+    <mul order="0x30" stat="mAtkSpd" val="3.90"/>
+    <add order="0x40" stat="runSpd" val="33"/>
+	<mul order="0x30" stat="mDef" val="4"/>
+	<mul order="0x30" stat="mAtk" val="6.50"/>
+	    <add val='40000' order='0x40' stat='maxHp'/>
+		<add val='45000' order='0x40' stat='maxCp'/>
+		<add val='100000' order='0x40' stat='maxMp'/>
+           <mul val='5.20' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</skill>
+</list>

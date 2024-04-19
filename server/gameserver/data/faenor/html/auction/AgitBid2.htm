@@ -1,0 +1,27 @@
+﻿<html>
+<body>
+<table width=270 border=0>
+<tr><td width=90>Ставка</td>
+<td width=180><font color="aaccff">%AGIT_AUCTION_MINBID%</font> adena</td></tr>
+<tr><td>Ставка</td>
+<td><font color="aaccff">%AGIT_AUCTION_BID%</font> adena</td></tr>
+<tr><td>Окончание аукциона</td>
+<td>%AGIT_AUCTION_END%</td></tr>
+</table>
+<br1>
+Повышать ставку возможно только, если была сделана ставка превышаюшая вашу. Когда отменяете ставку,налог (<font color="LEVEL">10% от ставки</font>) не возврашается.
+<br1>
+Повысить или отменить ставку можно в меню "Мои предложения".
+<br1>
+Хотите сделать ставку?
+<br> 
+<img src="L2UI.SquareBlank" width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="%AGIT_LINK_BACK%" value="Назад" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_bid1" value="Готово" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+</tr>
+</table>
+</body>
+</html>

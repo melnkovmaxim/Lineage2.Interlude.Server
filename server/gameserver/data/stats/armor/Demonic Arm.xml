@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='15022' name="Demonic Lava Breastplate">
+  <for>
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15023' name="Demonic Lava Gaiters">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15024' name="Demonic Lava Gauntlet">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15025' name="Demonic Lava Solleret">
+  <for>
+<add order="0x40" stat="pDef" val="5600" />
+<add order="0x40" stat="mDef" val="1600" />
+<add order="0x40" stat="pAtk" val="4800" />
+<add order="0x40" stat="pAtkSpd" val="580" />
+<add order="0x40" stat="runSpd" val="4"/>
+<add order="0x40" stat="maxMp" val="4000"/>
+<add order="0x40" stat="maxHp" val="4000"/>  
+		<enchant val='0' order='0x0C' stat='pDef'/> 
+  </for>
+</item>
+
+<item id='15026' name="Demonic Lava Brigandine">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15027' name="Demonic Lava Leather Leggings">
+  <for>
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15028' name="Demonic Lava Leather Gloves">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15029' name="Demonic Lava Leather Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15030' name="Demonic Lava Tunic">
+  <for>
+<add order="0x40" stat="pDef" val="5600" />
+<add order="0x40" stat="mDef" val="1600" />
+<add order="0x40" stat="pAtk" val="4800" />
+<add order="0x40" stat="pAtkSpd" val="580" />
+<add order="0x40" stat="runSpd" val="4"/>
+<add order="0x40" stat="maxMp" val="4000"/>
+<add order="0x40" stat="maxHp" val="4000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15031' name="Demonic Lava Stockings">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15032' name="Demonic Lava Mittens">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15033' name="Demonic Lava Slippers">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15034' name="Demonic Lava Helm">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15035' name="Demonic Lava Circlet">
+  <for>
+		<add order="0x40" stat="pDef" val="15000" />
+		<add order="0x40" stat="mDef" val="2200" />
+		<add order="0x40" stat="mAtk" val="4000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="5200"/>
+		<add order="0x40" stat="maxHp" val="5200"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='15036' name="Demonic Lava Cap">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+</list>

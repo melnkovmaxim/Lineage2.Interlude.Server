@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="70000" levels="1" name="Imperial Hellish Fire">
+  <set name="mpInitialConsume" val="500"/>
+  <set name="mpConsume" val="1000"/>
+  <set name="magicLvl" val="70"/>
+  <set name="power" val="5000"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="1"/> 
+  <set name="elementPower" val="20"/>
+  <set name="reuseDelay" val="50000"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="MDAM"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+</skill>
+<skill id="70001" levels="1" name="Imperial Fire Strike">
+  <set name="mpInitialConsume" val="500"/>
+  <set name="mpConsume" val="1500"/>
+  <set name="magicLvl" val="99"/>
+  <set name="power" val="500"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="1"/> 
+  <set name="elementPower" val="200"/>
+  <set name="reuseDelay" val="1200"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="MDAM"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="1600"/>
+  <set name="effectRange" val="1100"/>
+</skill>
+<skill id="70002" levels="1" name="Imperial Phoenix Rise">
+  <set name="mpInitialConsume" val="1250"/>
+  <set name="mpConsume" val="1000"/>
+  <set name="magicLvl" val="70"/>
+  <set name="power" val="5000"/>
+  <set name="target" val="TARGET_PARTY"/>
+  <set name="reuseDelay" val="1200"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="1100"/>
+  <for>
+    <effect name="Buff" time="12000" val="0">
+      <add order="0x40" stat="pAtk" val="5000">
+      </add>
+      <add order="0x40" stat="mAtk" val="5000">
+      </add>
+      <mul order="0x30" stat="maxHp" val="1.5">
+      </mul>
+    </effect>
+  </for>
+</skill>
+<skill id="70003" levels="1" name="Hell Storm">
+  <set name="mpInitialConsume" val="50"/>
+  <set name="mpConsume" val="1000"/>
+  <set name="magicLvl" val="70"/>
+  <set name="power" val="100"/>
+  <set name="target" val="TARGET_AREA"/>
+  <set name="element" val="2"/> 
+  <set name="elementPower" val="2000"/>
+  <set name="reuseDelay" val="800"/>
+  <set name="hitTime" val="600"/>
+  <set name="skillType" val="MDAM"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="1100"/>
+</skill>
+<skill id="70004" levels="1" name="Wind Nova">
+  <set name="mpInitialConsume" val="500"/>
+  <set name="mpConsume" val="1000"/>
+  <set name="magicLvl" val="70"/>
+  <set name="power" val="2000"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="2"/>
+  <set name="elementPower" val="20"/>
+  <set name="reuseDelay" val="1200"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="MDAM"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+</skill>
+<skill id="70005" levels="1" name="Gravyard">
+  <set name="mpInitialConsume" val="500"/>
+  <set name="mpConsume" val="1000"/>
+  <set name="magicLvl" val="70"/>
+  <set name="power" val="50"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="2"/> <!-- Wind -->
+  <set name="elementPower" val="2500"/>
+  <set name="reuseDelay" val="400"/>
+  <set name="hitTime" val="400"/>
+  <set name="skillType" val="MDAM"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+</skill>
+<skill id="70006" levels="1" name="Getsuga Tenshoy"> 
+  <set name="mpConsume" val="500"/>
+  <set name="magicLvl" val="70"/>
+  <set name="power" val="8000"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="SSBoost" val="8.0"/>
+  <set name="overHit" val="true"/>
+  <set name="condition" val="128"/>
+  <set name="reuseDelay" val="3000"/>
+  <set name="hitTime" val="1900"/>
+  <set name="skillType" val="PDAM"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="effectRange" val="1100"/>
+  <set name="baseCritRate" val="50"/>
+</skill>
+<skill id="70007" levels="1" name="CUtten atack">
+  <set name="mpInitialConsume" val="500"/>
+  <set name="mpConsume" val="1500"/>
+  <set name="magicLvl" val="99"/>
+  <set name="power" val="500"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="element" val="1"/> 
+  <set name="elementPower" val="200"/>
+  <set name="reuseDelay" val="1200"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="MDAM"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="1600"/>
+  <set name="effectRange" val="1100"/>
+</skill>
+<skill id="70008" levels="1" name="Nova shield">
+  <set name="mpInitialConsume" val="1250"/>
+  <set name="mpConsume" val="1000"/>
+  <set name="magicLvl" val="70"/>
+  <set name="power" val="500000"/>
+  <set name="target" val="TARGET_PARTY"/>
+  <set name="reuseDelay" val="12000000"/>
+  <set name="hitTime" val="4000"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="1100"/>
+  <for>
+    <effect name="Buff" time="12000" val="0">
+      <add order="0x40" stat="pDef" val="50000000">
+      </add>
+      <add order="0x40" stat="mDef" val="50000000">
+      </add>
+    </effect>
+  </for>
+</skill>
+</list>

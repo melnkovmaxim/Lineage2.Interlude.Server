@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="1313" levels="3" name="P.Def">
+  <set name="mpInitialConsume" val="57"/>
+  <set name="mpConsume" val="284"/>
+  <table name="#power"> 2000 4000 6000 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillRadius" val="1000"/>
+  <set name="reuseDelay" val="5000"/>
+  <set name="hitTime" val="2500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <effect name="Buff" time="600" count="1" val="0">
+    <add order="0x40" stat="pDef" val="#power"/>
+	    </effect>
+  </for>
+</skill>
+<skill id="1314" levels="3" name="M.Def">
+  <set name="mpInitialConsume" val="57"/>
+  <set name="mpConsume" val="284"/>
+  <table name="#power"> 2000 4000 6000 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillRadius" val="1000"/>
+  <set name="reuseDelay" val="5000"/>
+  <set name="hitTime" val="2500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <effect name="Buff" time="600" count="1" val="0">
+    <add order="0x40" stat="mDef" val="#power"/>
+	    </effect>
+  </for>
+</skill>
+<skill id="1315" levels="3" name="P.Atack">
+  <set name="mpInitialConsume" val="57"/>
+  <set name="mpConsume" val="284"/>
+  <table name="#power"> 15000 30000 45000 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillRadius" val="1000"/>
+  <set name="reuseDelay" val="5000"/>
+  <set name="hitTime" val="2500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <effect name="Buff" time="600" count="1" val="0">
+    <add order="0x40" stat="pAtk" val="#power"/>
+	    </effect>
+  </for>
+</skill>
+<skill id="1368" levels="3" name="M.Atak">
+  <set name="mpInitialConsume" val="57"/>
+  <set name="mpConsume" val="284"/>
+  <table name="#power"> 15000 30000 45000 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillRadius" val="1000"/>
+  <set name="reuseDelay" val="5000"/>
+  <set name="hitTime" val="2500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <effect name="Buff" time="600" count="1" val="0">
+    <add order="0x40" stat="mAtk" val="#power"/>
+	    </effect>
+  </for>
+</skill>
+<skill id="1370" levels="3" name="Run.Sped">
+  <set name="mpInitialConsume" val="57"/>
+  <set name="mpConsume" val="284"/>
+  <table name="#power"> 50 100 150 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillRadius" val="1000"/>
+  <set name="reuseDelay" val="5000"/>
+  <set name="hitTime" val="2500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <effect name="Buff" time="600" count="1" val="0">    
+	<add order="0x40" stat="runSpd" val="#power"/>
+	    </effect>
+  </for>
+</skill>
+<skill id="1371" levels="3" name="HP">
+  <set name="mpInitialConsume" val="57"/>
+  <set name="mpConsume" val="284"/>
+  <table name="#power"> 10000 20000 30000 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillRadius" val="1000"/>
+  <set name="reuseDelay" val="5000"/>
+  <set name="hitTime" val="2500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <effect name="Buff" time="600" count="1" val="0">
+    <add order="0x40" stat="maxHp" val="#power"/>
+	    </effect>
+  </for>
+</skill>
+<skill id="1372" levels="3" name="CP">
+  <set name="mpInitialConsume" val="57"/>
+  <set name="mpConsume" val="284"/>
+  <table name="#power"> 5000 10000 15000 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillRadius" val="1000"/>
+  <set name="reuseDelay" val="5000"/>
+  <set name="hitTime" val="2500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <effect name="Buff" time="600" count="1" val="0">
+    <add order="0x40" stat="maxCp" val="#power"/>
+  </effect>
+  </for>
+</skill>
+<skill id="7100" levels="10" name="P.atack">
+  <table name="#power"> 1.01 1.02 1.03 1.03 1.04 1.04 1.05 1.06 1.07 1.08 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pAtk" val="#power"/>
+  </for>
+</skill>
+<skill id="7101" levels="10" name="P.def">
+  <table name="#power"> 1.01 1.02 1.03 1.04 1.04 1.05 1.05 1.06 1.07 1.08 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="#power"/>
+  </for>
+</skill>
+<skill id="7102" levels="10" name="m.atack">
+  <table name="#power"> 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="mAtk" val="#power"/>
+  </for>
+</skill>
+<skill id="7103" levels="10" name="m.def">
+  <table name="#power"> 1.01 1.02 1.03 1.03 1.03 1.04 1.04 1.05 1.05 1.06 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="mDef" val="#power"/>
+  </for>
+</skill>
+<skill id="7104" levels="1" name="all rune">
+  <table name="#power"> 1.10 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <mul order="0x30" stat="pAtk" val="#power"/>
+  <mul order="0x30" stat="mAtk" val="#power"/>
+    <mul order="0x30" stat="mDef" val="1.07"/>
+	<mul order="0x30" stat="pDef" val="1.07"/>
+  </for>
+</skill>
+<skill id="6100" levels="1" name="ShadowRunWarrior">
+  <set name="mpConsume" val="284"/>
+  <set name="power" val="0.0"/>
+  <set name="magicLvl" val="1"/> 
+  <set name="target" val="TARGET_SELF"/>
+  <set name="reuseDelay" val="300000"/>
+  <set name="hitTime" val="500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="staticReuse" val="true"/> 
+  <for>
+    <effect count="1" name="Buff" time="30" val="0" stackOrder="2" stackType="HPregen">
+		<mul order="0x30" stat="pAtk" val="1.5" />
+        <add order="0x40" stat="pAtkSpd" val="2000" />
+		<add order="0x40" stat="runSpd" val="40"/>				
+    </effect>
+  </for>
+</skill>
+<skill id="6101" levels="1" name="ShadowRunWarrior">
+  <set name="mpConsume" val="284"/>
+  <set name="power" val="0.0"/>
+  <set name="magicLvl" val="1"/> 
+  <set name="target" val="TARGET_SELF"/>
+  <set name="reuseDelay" val="300000"/>
+  <set name="hitTime" val="500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="staticReuse" val="true"/> 
+  <for>
+    <effect count="1" name="Buff" time="30" val="0" stackOrder="2" stackType="HPregen">
+		<mul order="0x30" stat="pDef" val="2.6" />
+		<mul order="0x30" stat="mDef" val="2.6" />
+		<add order="0x40" stat="runSpd" val="20"/>	
+    </effect>
+  </for>
+</skill>
+<skill id="6102" levels="1" name="ShadowRunWarrior">
+  <set name="mpConsume" val="284"/>
+  <set name="power" val="0.0"/>
+  <set name="magicLvl" val="1"/> 
+  <set name="target" val="TARGET_SELF"/>
+  <set name="reuseDelay" val="150000"/>
+  <set name="hitTime" val="500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="staticReuse" val="true"/> 
+  <for>
+    <effect count="1" name="Buff" time="30" val="0" stackOrder="2" stackType="HPregen">
+		<add order="0x40" stat="pDef" val="25000" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="50000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+        <add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="30"/>
+	    <mul val='0.1' order='0x30' stat='mAtk'/>		
+    </effect>
+  </for>
+</skill>
+<skill id="6103" levels="1" name="ShadowRunWarrior">
+  <set name="mpConsume" val="284"/>
+  <set name="power" val="0.0"/>
+  <set name="magicLvl" val="1"/> 
+  <set name="target" val="TARGET_SELF"/>
+  <set name="reuseDelay" val="300000"/>
+  <set name="hitTime" val="500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="staticReuse" val="true"/> 
+  <for>
+    <effect count="1" name="Buff" time="30" val="0" stackOrder="2" stackType="HPregen">
+		<mul order="0x30" stat="pAtk" val="1.5" />
+        <add order="0x40" stat="pAtkSpd" val="2000" />
+		<mul order="0x30" stat="pDef" val="1.6" />
+		<mul order="0x30" stat="mDef" val="1.6" />		
+		<add order="0x40" stat="runSpd" val="40"/>		
+    </effect>
+  </for>
+</skill>
+<skill id="6104" levels="1" name="ShadowRunMage">
+  <set name="mpConsume" val="284"/>
+  <set name="power" val="0.0"/>
+  <set name="magicLvl" val="1"/> 
+  <set name="target" val="TARGET_SELF"/>
+  <set name="reuseDelay" val="150000"/>
+  <set name="hitTime" val="500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="staticReuse" val="true"/> 
+  <for>
+    <effect count="1" name="Buff" time="30" val="0" stackOrder="2" stackType="HPregen">
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="mAtk" val="50000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+        <add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="30"/>
+		<mul val='0.1' order='0x30' stat='pAtk'/>
+    </effect>
+  </for>
+</skill>
+<skill id="6105" levels="1" name="ShadowRunMage">
+  <set name="mpConsume" val="284"/>
+  <set name="power" val="0.0"/>
+  <set name="magicLvl" val="1"/> 
+  <set name="target" val="TARGET_SELF"/>
+  <set name="reuseDelay" val="150000"/>
+  <set name="hitTime" val="500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="staticReuse" val="true"/> 
+  <for>
+    <effect count="1" name="Buff" time="30" val="0" stackOrder="2" stackType="HPregen">
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="50000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+        <add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="30"/>
+		<mul val='0.1' order='0x30' stat='pAtk'/>
+    </effect>
+  </for>
+</skill>
+<skill id="6106" levels="1" name="ShadowRunMage">
+  <set name="mpConsume" val="284"/>
+  <set name="power" val="0.0"/>
+  <set name="magicLvl" val="1"/> 
+  <set name="target" val="TARGET_SELF"/>
+  <set name="reuseDelay" val="300000"/>
+  <set name="hitTime" val="500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="staticReuse" val="true"/> 
+  <for>
+    <effect count="1" name="Buff" time="30" val="0" stackOrder="2" stackType="HPregen">
+		<mul order="0x30" stat="mAtk" val="2.1" /> <!-- Изменили с 1.7 на 2.1 --> <!-- Фикс Баланса --> <!-- Добавили для баланса крита 14.04.2020-->
+		<mul order="0x30" stat="mCritRate" val="57.7"/>
+        <add order="0x40" stat="mAtkSpd" val="2000" />
+		<add order="0x40" stat="runSpd" val="40"/>	
+    </effect>
+  </for>
+</skill>
+<skill id="6107" levels="1" name="ShadowRunMage">
+  <set name="mpConsume" val="284"/>
+  <set name="power" val="0.0"/>
+  <set name="magicLvl" val="1"/> 
+  <set name="target" val="TARGET_SELF"/>
+  <set name="reuseDelay" val="300000"/>
+  <set name="hitTime" val="500"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="staticReuse" val="true"/> 
+  <for>
+    <effect count="1" name="Buff" time="30" val="0" stackOrder="2" stackType="HPregen">
+		<mul order="0x30" stat="mAtk" val="2.1" /> <!-- Изменили с 1.7 на 2.1 --> <!-- Фикс Баланса --> <!-- Добавили для баланса крита 14.04.2020-->
+		<mul order="0x30" stat="mCritRate" val="57.7"/>
+		<mul order="0x30" stat="pDef" val="1.6" />
+		<mul order="0x30" stat="mDef" val="1.6" />		
+        <add order="0x40" stat="mAtkSpd" val="2000" />
+		<add order="0x40" stat="runSpd" val="40"/>	
+    </effect>
+  </for>
+</skill>
+
+
+</list>

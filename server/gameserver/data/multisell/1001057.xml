@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<list>
+<item id="1"> 
+   <ingredient id="11975" count="7000" enchant="0"/>
+   <ingredient id="11974" count="55" enchant="0"/>
+<ingredient id="13017" count="20" enchant="0"/>
+   <ingredient id="11973" count="7000" enchant="0"/>
+<ingredient id="14555" count="20" enchant="0"/>
+   <ingredient id="11972" count="100" enchant="0"/>   
+   <production id="12001" count="1" enchant="0"/>
+   </item> 
+</list>

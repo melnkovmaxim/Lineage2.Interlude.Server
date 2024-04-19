@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- <a action="bypass -h npc_%objectId%_donateSkillsShop">link</a>, NPC TYPE L2Donate
+  <class id='ид_профы'>
+    список доступных скиллов
+    <skill id='ид_скилла,уровень' price='ид_монеты,количество,название' period='0' icon='иконка' info='информация о скилле'/> периоды: 0 - до конца месяца; -1 - бесконечный; больше 0 - дни
+  </class>
+-->
+<list>
+  <class id='97'>
+    <skill id='1068,1' price='4037,5,Coin Of Luck' period='0' icon='icon.skill1068' info='информация о скилле'/>
+    <skill id='1085,1' price='4037,5,Coin Of Luck' period='0' icon='icon.skill1085' info='информация о скилле'/>
+    <skill id='1303,1' price='4037,5,Coin Of Luck' period='0' icon='icon.skill1303' info='информация о скилле'/>
+    <skill id='1357,1' price='4037,5,Coin Of Luck' period='0' icon='icon.skill1357' info='информация о скилле'/>
+    <skill id='1355,1' price='4037,5,Coin Of Luck' period='12' icon='icon.skill1355' info='информация о скилле'/>
+    <skill id='1388,1' price='4037,5,Coin Of Luck' period='-1' icon='icon.skill1388' info='информация о скилле'/>
+  </class>
+  <class id='88'>
+    <skill id='1068,1' price='4037,5,Coin Of Luck' period='0' icon='icon.skill1068' info='информация о скилле'/>
+    <skill id='1085,1' price='4037,5,Coin Of Luck' period='0' icon='icon.skill1085' info='информация о скилле'/>
+  </class>
+</list>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='19900' name="Snow">
+  <for>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='19901' name="santa cost">
+  <for>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='19902' name="ring of frost">
+  <for>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='19903' name="ring of santa helper">
+  <for>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='19904' name="earring of frost">
+  <for>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='19905' name="earring of happy">
+  <for>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='19906' name="neck of laplandia">
+  <for>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+</list>

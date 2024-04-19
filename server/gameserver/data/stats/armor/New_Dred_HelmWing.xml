@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='11458' name="Dont_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='11459' name="Krilba_Gefest">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='11460' name="Helm_assasins">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='26031' name="Dreds Demonic">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='11461' name="New_Don_Dreds">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+
+<item id='26030' name="Zaken MeGAAAA">
+  <for>
+  <mul val='1.60' order='0x30' stat='mDef'/>
+   <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.85' order='0x30' stat='mAtk'/>
+  <mul val='2.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='3.40' order='0x30' stat='pAtk'/>
+  <mul val='2.40' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="cAtk" val="1.65"/>
+<add order="0x40" stat="maxHp" val="60000"/>
+<add order="0x40" stat="maxMp" val="5000"/>
+<add order="0x40" stat="maxCp" val="60000"/>
+  </for>
+</item>
+<item id='26032' name="Don Helms">
+  <for>
+    <add val='100' order='0x10' stat='pDef'/>
+  <mul val='1.60' order='0x30' stat='mAtk'/>
+  <mul val='1.60' order='0x30' stat='pAtk'/>
+  <mul val='1.60' order='0x30' stat='mDef'/>
+  <mul val='1.60' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='27800' name="Fire Helms">
+  <for>
+  <mul val='1.60' order='0x30' stat='mDef'/>
+   <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.85' order='0x30' stat='mAtk'/>
+  </for>
+</item>
+<item id='27801' name="Fire Wing">
+  <for>
+  <mul val='1.60' order='0x30' stat='mDef'/>
+   <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.85' order='0x30' stat='mAtk'/>
+  </for>
+</item>
+<item id='27802' name="Fire Helms Demonic1">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='25005' name="XBOCT">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+    </for>
+</item>
+
+
+</list>

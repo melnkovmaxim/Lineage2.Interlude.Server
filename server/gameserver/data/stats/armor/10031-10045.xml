@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<list>		
+	<item id="10031" name="Twilight  Helmet">
+		<for>
+			<add order="0x10" stat="pDef" val="126" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10032" name="Twilight  Breastplate">
+		<for>
+			<add order="0x10" stat="pDef" val="335" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10033" name="Twilight  Gaiter">
+		<for>
+			<add order="0x10" stat="pDef" val="209" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10034" name="Twilight  Gauntlet">
+		<for>
+			<add order="0x10" stat="pDef" val="84" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10035" name="Twilight  Boots">
+		<for>
+			<add order="0x10" stat="pDef" val="84" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10036" name="Twilight  Leather Helmet">
+		<for>
+			<add order="0x10" stat="pDef" val="126" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10037" name="Twilight  Leather Breastplate">
+		<for>
+			<add order="0x10" stat="pDef" val="251" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10038" name="Twilight  Leather Legging">
+		<for>
+			<add order="0x10" stat="pDef" val="157" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10039" name="Twilight  Leather Gloves">
+		<for>
+			<add order="0x10" stat="pDef" val="84" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10040" name="Twilight  Leather Boots">
+		<for>
+			<add order="0x10" stat="pDef" val="84" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10041" name="Twilight  Circlet">
+		<for>
+			<add order="0x10" stat="pDef" val="126" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10042" name="Twilight  Tunic">
+		<for>
+			<add order="0x10" stat="pDef" val="168" />
+			<add order="0x40" stat="maxMp" val="649" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10043" name="Twilight  Stockings">
+		<for>
+			<add order="0x10" stat="pDef" val="105" />
+			<add order="0x40" stat="maxMp" val="427" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10044" name="Twilight  Gloves">
+		<for>
+			<add order="0x10" stat="pDef" val="84" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10045" name="Twilight  Shoes">
+		<for>
+			<add order="0x10" stat="pDef" val="84" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+</list>	

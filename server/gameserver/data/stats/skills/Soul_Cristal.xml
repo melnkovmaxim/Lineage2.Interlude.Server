@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="13552" levels="4" name="М.Атака">
+  <table name="#atkCountMax"> 70 72 73 74 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="atkCountMax" val="#atkCountMax"/>
+    <mul order="0x30" stat="pvpPhysDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05"/>
+    <mul order="0x30" stat="pvpMagicalDmg" val="7.05"/>
+  </for>
+</skill>
+</list>

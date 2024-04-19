@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <chest type='1' description='21-41 levels'>
+    <item id='955' count='1' chance='10'/> <!-- Scroll: Enchant Weapon (Grade D) -->
+    <item id='956' count='1' chance='89'/> <!-- Scroll: Enchant Armor (Grade D) -->
+  </chest>
+  <chest type='2' description='42-51 levels'>
+    <item id='951' count='1' chance='12'/> <!-- Scroll: Enchant Weapon (Grade C) -->
+    <item id='952' count='1' chance='88'/> <!-- Scroll: Enchant Armor (Grade C) -->
+  </chest>
+  <chest type='3' description='52-63 levels'>
+    <item id='947' count='1' chance='13'/> <!-- Scroll: Enchant Weapon (Grade B) -->
+    <item id='948' count='1' chance='86'/> <!-- Scroll: Enchant Armor (Grade B) -->
+  </chest>
+  <chest type='4' description='64-72 levels'>
+    <item id='729' count='1' chance='11'/> <!-- Scroll: Enchant Weapon (Grade A) -->
+    <item id='730' count='1' chance='88'/> <!-- Scroll: Enchant Armor (Grade A) -->
+  </chest>
+  <chest type='5' description='72-80 levels'>
+    <item id='959' count='1' chance='9'/> <!-- Scroll: Enchant Weapon (Grade S) -->
+    <item id='960' count='1' chance='90'/> <!-- Scroll: Enchant Armor (Grade S) -->
+  </chest>
+</list>

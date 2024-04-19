@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="3400" levels="1" name="4 lvl heavy">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+		<add order="0x40" stat="pDef" val="16000" />
+		<add order="0x40" stat="mDef" val="5500" />
+		<add order="0x40" stat="pAtk" val="22000" />
+		<add order="0x40" stat="pAtkSpd" val="3400" />
+		<add order="0x40" stat="runSpd" val="20"/>
+		<add order="0x40" stat="maxMp" val="10000"/>	
+		<add order="0x40" stat="maxHp" val="10000"/>
+  </for>
+</skill>
+<skill id="3401" levels="1" name="4 lvl light">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+		<add order="0x40" stat="pDef" val="16000" />
+		<add order="0x40" stat="mDef" val="5500" />
+		<add order="0x40" stat="pAtk" val="22000" />
+		<add order="0x40" stat="pAtkSpd" val="3400" />
+		<add order="0x40" stat="runSpd" val="20"/>
+		<add order="0x40" stat="maxMp" val="10000"/>	
+		<add order="0x40" stat="maxHp" val="10000"/>
+  </for>
+</skill>
+<skill id="3402" levels="1" name="4 lvl roba">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+		<add order="0x40" stat="pDef" val="18000" />
+		<add order="0x40" stat="mDef" val="8000" />
+		<add order="0x40" stat="mAtk" val="10000" />
+		<add order="0x40" stat="mAtkSpd" val="3500" />
+		<add order="0x40" stat="runSpd" val="10"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/>
+  </for>
+</skill>
+</list>

@@ -1,0 +1,2297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <door id='19210001' name='gludio_castle_outter_001' type='normal_type' castle='1'>
+	<pos xyz='-18481,113065,-2476' range='-18481,113059,-2799;-18351,113059,-2799;-18351,113071,-2799;-18481,113071,-2799'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='19210002' name='gludio_castle_outter_002' type='normal_type' castle='1'>
+	<pos xyz='-18219,113065,-2476' range='-18350,113059,-2799;-18219,113059,-2799;-18219,113071,-2799;-18350,113071,-2799'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='19210005' name='gludio_castle_inner_001' type='normal_type' castle='1'>
+	<pos xyz='-18244,110520,-2289' range='-18244,110514,-2547;-18114,110514,-2547;-18114,110526,-2547;-18244,110526,-2547'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='19210006' name='gludio_castle_inner_002' type='normal_type' castle='1'>
+	<pos xyz='-17981,110520,-2289' range='-18112,110514,-2547;-17981,110514,-2547;-17981,110526,-2547;-18112,110526,-2547'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='19210008' name='gludio_castle_station' type='normal_type' castle='1'>
+	<pos xyz='-18997,108062,-1817' range='-19003,108057,-2069;-18991,108057,-2069;-18991,108207,-2069;-19003,108207,-2069'/>
+	<stat height='250' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='19210009' name='gludio_castle_small_001' type='normal_type' castle='1'>
+	<pos xyz='-17939,107109,-2289' range='-17939,107011,-2408;-17939,107011,-2408;-17939,107109,-2408;-17939,107109,-2408'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='19210007' name='gludio_castle_small_002' type='normal_type' castle='1'>
+	<pos xyz='-19235,108276,-2289' range='-19332,108276,-2408;-19332,108276,-2408;-19235,108276,-2408;-19235,108276,-2408'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='19210003' name='gludio_castle_wall_001' type='wall_type' castle='1'>
+	<pos xyz='-19912,111381,-2688' range='-19975,111082,-2922;-19849,111082,-2922;-19848,111680,-2922;-19975,111680,-2922'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='19210004' name='gludio_castle_wall_002' type='wall_type' castle='1'>
+	<pos xyz='-16586,111382,-2688' range='-16649,111083,-2922;-16522,111083,-2922;-16522,111681,-2922;-16649,111681,-2922'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  
+  <door id='20220001' name='dion_castle_outter_001' type='normal_type' castle='2'>
+	<pos xyz='22441,156684,-2670' range='22449,156690,-2994;22302,156690,-2994;22302,156677,-2994;22449,156678,-2994'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20220002' name='dion_castle_outter_002' type='normal_type' castle='2'>
+	<pos xyz='22179,156684,-2670' range='22171,156678,-2994;22317,156677,-2994;22317,156690,-2994;22171,156691,-2994'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20220005' name='dion_castle_inner_001' type='normal_type' castle='2'>
+	<pos xyz='22205,159230,-2476' range='22213,159236,-2735;22067,159236,-2735;22067,159224,-2735;22213,159224,-2735'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20220006' name='dion_castle_inner_002' type='normal_type' castle='2'>
+	<pos xyz='21943,159230,-2476' range='21935,159224,-2735;22081,159224,-2735;22081,159236,-2735;21935,159236,-2735'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20220003' name='dion_castle_wall_001' type='wall_type' castle='2'>
+	<pos xyz='23873,158368,-2882' range='23809,158060,-3116;23936,158060,-3116;23937,158676,-3116;23810,158676,-3116'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='20220004' name='dion_castle_wall_002' type='wall_type' castle='2'>
+	<pos xyz='20546,158368,-2882' range='20482,158069,-3116;20610,158069,-3116;20610,158667,-3116;20482,158667,-3116'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='20220008' name='dion_castle_station' type='normal_type' castle='2'>
+	<pos xyz='22905,161547,-2006' range='22911,161535,-2258;22911,161701,-2258;22900,161701,-2258;22900,161535,-2258'/>
+	<stat height='250' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20220007' name='dion_castle_small_001' type='normal_type' castle='2'>
+	<pos xyz='23194,161470,-2483' range='23299,161470,-2602;23299,161470,-2602;23187,161470,-2602;23187,161470,-2602'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20220009' name='dion_castle_small_002' type='normal_type' castle='2'>
+	<pos xyz='21899,162737,-2483' range='21899,162628,-2602;21899,162628,-2602;21899,162743,-2601;21899,162743,-2601'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='22190001' name='oren_castle_outter_001' type='normal_type' castle='4'>
+	<pos xyz='78925,36824,-2267' range='78918,36816,-2591;78931,36959,-2591;78918,36959,-2591;78931,36816,-2591'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22190002' name='oren_castle_outter_002' type='normal_type' castle='4'>
+	<pos xyz='78925,37085,-2267' range='78919,37091,-2591;78919,36950,-2591;78931,36950,-2591;78931,37091,-2591'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22190005' name='oren_castle_inner_001' type='normal_type' castle='4'>
+	<pos xyz='81470,37060,-2076' range='81476,37060,-2335;81476,37200,-2335;81464,37200,-2335;81464,37060,-2335'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22190006' name='oren_castle_inner_002' type='normal_type' castle='4'>
+	<pos xyz='81470,37322,-2076' range='81465,37331,-2335;81464,37182,-2335;81476,37182,-2335;81476,37331,-2335'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22190003' name='oren_castle_wall_001' type='wall_type' castle='4'>
+	<pos xyz='80616,35391,-2482' range='80317,35454,-2716;80317,35328,-2716;80923,35327,-2716;80923,35455,-2716'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='22190004' name='oren_castle_wall_002' type='wall_type' castle='4'>
+	<pos xyz='80616,38718,-2482' range='80308,38781,-2716;80309,38654,-2716;80924,38655,-2716;80923,38782,-2716'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='22190008' name='oren_castle_station' type='normal_type' castle='4'>
+	<pos xyz='83796,36337,-1604' range='83785,36331,-1856;83949,36331,-1856;83949,36342,-1856;83784,36343,-1856'/>
+	<stat height='250' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22190007' name='oren_castle_small_001' type='normal_type' castle='4'>
+	<pos xyz='83719,36069,-2083' range='83719,35964,-2202;83719,35965,-2202;83719,36075,-2202;83719,36075,-2202'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22190009' name='oren_castle_small_002' type='normal_type' castle='4'>
+	<pos xyz='84887,37365,-2083' range='84992,37365,-2202;84992,37365,-2202;84880,37365,-2202;84880,37365,-2202'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='23220001' name='giran_castle_outter_001' type='normal_type' castle='3'>
+	<pos xyz='112857,144729,-2540' range='112851,144720,-2864;112863,144867,-2864;112850,144867,-2864;112863,144720,-2864'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23220002' name='giran_castle_outter_002' type='normal_type' castle='3'>
+	<pos xyz='112857,144990,-2540' range='112851,144997,-2864;112851,144852,-2864;112863,144852,-2864;112863,144997,-2864'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23220005' name='giran_castle_inner_001' type='normal_type' castle='3'>
+	<pos xyz='115402,144965,-2349' range='115408,144957,-2607;115408,145104,-2607;115396,145104,-2607;115396,144957,-2607'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23220006' name='giran_castle_inner_002' type='normal_type' castle='3'>
+	<pos xyz='115402,145227,-2349' range='115396,145235,-2607;115396,145088,-2607;115408,145088,-2607;115408,145235,-2607'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23220003' name='giran_castle_wall_001' type='wall_type' castle='3'>
+	<pos xyz='114540,143296,-2755' range='114232,143359,-2991;114232,143232,-2991;114847,143232,-2991;114847,143359,-2991'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='23220004' name='giran_castle_wall_002' type='wall_type' castle='3'>
+	<pos xyz='114540,146623,-2755' range='114232,146687,-2989;114232,146560,-2989;114848,146560,-2989;114848,146687,-2989'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='23220008' name='giran_castle_station' type='normal_type' castle='3'>
+	<pos xyz='117720,144242,-1877' range='117715,144236,-2129;117865,144236,-2129;117865,144248,-2129;117715,144248,-2129'/>
+	<stat height='250' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23220007' name='giran_castle_small_001' type='normal_type' castle='3'>
+	<pos xyz='117643,143974,-2356' range='117643,143869,-2475;117643,143869,-2475;117643,143981,-2475;117643,143981,-2475'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23220009' name='giran_castle_small_002' type='normal_type' castle='3'>
+	<pos xyz='118811,145270,-2356' range='118916,145270,-2475;118916,145270,-2475;118805,145270,-2475;118805,145270,-2475'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='24180001' name='aden_castle_outter_001' type='normal_type' castle='5'>
+	<pos xyz='147278,8483,-241' range='147277,8475,-495;147463,8475,-495;147463,8492,-495;147278,8491,-495'/>
+	<stat height='495' hp='271536' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180002' name='aden_castle_outter_002' type='normal_type' castle='5'>
+	<pos xyz='147634,8483,-241' range='147449,8474,-495;147635,8475,-495;147634,8492,-495;147448,8492,-495'/>
+	<stat height='495' hp='271536' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180013' name='aden_castle_left_001' type='normal_type' castle='5'>
+	<pos xyz='146001,4493,-256' range='145992,4493,-427;146009,4493,-427;146010,4612,-427;145992,4612,-427'/>
+	<stat height='335' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180012' name='aden_castle_left_002' type='normal_type' castle='5'>
+	<pos xyz='146001,4721,-256' range='145992,4601,-427;146010,4601,-427;146010,4721,-427;145993,4721,-427'/>
+	<stat height='335' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180008' name='aden_castle_left_003' type='normal_type' castle='5'>
+	<pos xyz='146606,5262,48' range='146600,5328,-44;146600,5262,-44;146613,5262,-44;146613,5328,-44'/>
+	<stat height='185' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180007' name='aden_castle_left_004' type='normal_type' castle='5'>
+	<pos xyz='146607,5384,48' range='146600,5318,-44;146601,5385,-44;146613,5385,-44;146613,5318,-44'/>
+	<stat height='185' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180014' name='aden_castle_right_001' type='normal_type' castle='5'>
+	<pos xyz='148908,4721,-256' range='148899,4722,-427;148917,4722,-427;148917,4602,-427;148899,4602,-427'/>
+	<stat height='335' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180015' name='aden_castle_right_002' type='normal_type' castle='5'>
+	<pos xyz='148908,4493,-256' range='148900,4612,-427;148917,4612,-427;148916,4492,-427;148900,4492,-427'/>
+	<stat height='335' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180009' name='aden_castle_right_003' type='normal_type' castle='5'>
+	<pos xyz='148324,5384,48' range='148317,5319,-44;148317,5385,-44;148330,5385,-44;148330,5319,-44'/>
+	<stat height='185' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180010' name='aden_castle_right_004' type='normal_type' castle='5'>
+	<pos xyz='148323,5262,48' range='148316,5327,-44;148317,5261,-44;148330,5261,-44;148329,5327,-44'/>
+	<stat height='185' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180005' name='aden_castle_inner_001' type='normal_type' castle='5'>
+	<pos xyz='147571,6210,-278' range='147450,6202,-430;147572,6202,-430;147572,6219,-430;147450,6218,-430'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180004' name='aden_castle_inner_002' type='normal_type' castle='5'>
+	<pos xyz='147341,6210,-278' range='147461,6202,-430;147341,6202,-430;147341,6218,-430;147461,6218,-430'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180003' name='aden_castle_wall_in' type='wall_type' castle='5'>
+	<pos xyz='146770,6977,-271' range='146440,6895,-496;147100,6895,-496;147063,7104,-496;146440,7104,-496'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180011' name='aden_castle_wall_right' type='wall_type' castle='5'>
+	<pos xyz='149711,5503,-442' range='149886,5118,-751;150048,5119,-751;149537,5888,-751;149375,5888,-751'/>
+	<stat height='565' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180006' name='aden_castle_wall_left' type='wall_type' castle='5'>
+	<pos xyz='145200,5504,-442' range='144863,5120,-751;145025,5119,-751;145536,5888,-751;145374,5889,-751'/>
+	<stat height='565' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180016' name='aden_castle_terrace' type='normal_type' castle='5'>
+	<pos xyz='147511,2240,322' range='147398,2243,201;147513,2243,201;147513,2245,201;147398,2245,201'/>
+	<stat height='243' hp='90521' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180019' name='aden_castle_side_door1' type='normal_type' castle='5'>
+	<pos xyz='149208,3077,1356' range='149208,3199,1234;149208,3072,1234;149215,3072,1234;149215,3199,1234'/>
+	<stat height='243' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180018' name='aden_castle_side_door2' type='normal_type' castle='5'>
+	<pos xyz='150044,3783,21' range='150040,3903,-101;150040,3775,-101;150055,3776,-101;150055,3902,-101'/>
+	<stat height='243' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180021' name='aden_castle_side_door3' type='normal_type' castle='5'>
+	<pos xyz='145694,3076,1355' range='145688,3199,1234;145688,3072,1234;145711,3072,1234;145711,3199,1234'/>
+	<stat height='243' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24180020' name='aden_castle_side_door4' type='normal_type' castle='5'>
+	<pos xyz='144859,3783,21' range='144848,3902,-102;144848,3775,-102;144878,3776,-102;144880,3901,-102'/>
+	<stat height='243' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  
+  <door id='23250002' name='innadrile_castle_outter_001' type='normal_type' castle='6'>
+	<pos xyz='116130,245462,-766' range='116123,245456,-1090;116268,245456,-1090;116268,245468,-1090;116123,245468,-1090'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23250001' name='innadrile_castle_outter_002' type='normal_type' castle='6'>
+	<pos xyz='116392,245462,-766' range='116399,245469,-1090;116254,245468,-1090;116254,245456,-1090;116399,245456,-1090'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23250006' name='innadrile_castle_inner_001' type='normal_type' castle='6'>
+	<pos xyz='115894,248008,-572' range='115886,248002,-831;116033,248002,-831;116033,248014,-831;115886,248014,-831'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23250005' name='innadrile_castle_inner_002' type='normal_type' castle='6'>
+	<pos xyz='116155,248008,-572' range='116162,248014,-831;116018,248014,-831;116018,248002,-831;116162,248003,-831'/>
+	<stat height='255' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23250003' name='innadrile_castle_wall_001' type='wall_type' castle='6'>
+	<pos xyz='117824,247146,-978' range='117745,246830,-1212;117910,246832,-1212;117910,247462,-1212;117747,247467,-1212'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='23250004' name='innadrile_castle_wall_002' type='wall_type' castle='6'>
+	<pos xyz='114497,247146,-978' range='114417,246834,-1212;114573,246833,-1212;114576,247457,-1212;114419,247461,-1212'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='23250008' name='innadrile_castle_station' type='normal_type' castle='6'>
+	<pos xyz='116856,250326,-102' range='116862,250315,-354;116862,250478,-354;116850,250478,-354;116850,250315,-354'/>
+	<stat height='250' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23250007' name='innadrile_castle_small_001' type='normal_type' castle='6'>
+	<pos xyz='117145,250249,-579' range='117249,250249,-698;117249,250249,-698;117138,250249,-698;117138,250249,-698'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23250009' name='innadrile_castle_small_002' type='normal_type' castle='6'>
+	<pos xyz='115849,251516,-579' range='115849,251411,-698;115849,251411,-698;115849,251523,-697;115849,251523,-697'/>
+	<stat height='128' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='24160010' name='godad_castle_outter_001' type='normal_type' castle='7'>
+	<pos xyz='147290,-45571,-1945' range='147273,-45584,-2116;147480,-45583,-2116;147480,-45552,-2116;147272,-45553,-2116'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160009' name='godad_castle_outter_002' type='normal_type' castle='7'>
+	<pos xyz='147642,-45571,-1945' range='147448,-45584,-2116;147663,-45583,-2116;147663,-45553,-2116;147449,-45552,-2116'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160017' name='godad_castle_ctr_001' type='normal_type' castle='7'>
+	<pos xyz='150248,-48577,-1659' range='150148,-48600,-1775;150363,-48600,-1775;150363,-48550,-1775;150148,-48549,-1775'/>
+	<stat height='256' hp='31650' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160018' name='godad_castle_ctr_002' type='normal_type' castle='7'>
+	<pos xyz='144682,-48577,-1659' range='144582,-48600,-1775;144797,-48600,-1775;144797,-48550,-1775;144582,-48549,-1775'/>
+	<stat height='256' hp='31650' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160015' name='godad_castle_station_001' type='normal_type' castle='7'>
+	<pos xyz='148750,-49120,-588' range='148650,-49143,-715;148866,-49142,-715;148865,-49092,-715;148651,-49092,-715'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160016' name='godad_castle_station_002' type='normal_type' castle='7'>
+	<pos xyz='146180,-49121,-588' range='146080,-49144,-715;146296,-49143,-715;146295,-49093,-715;146081,-49093,-715'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160011' name='godad_castle_side_door_001' type='normal_type' castle='7'>
+	<pos xyz='149143,-48368,-2223' range='149158,-48384,-2411;149158,-48098,-2411;149129,-48098,-2411;149129,-48384,-2411'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160012' name='godad_castle_side_door_002' type='normal_type' castle='7'>
+	<pos xyz='145792,-48368,-2223' range='145809,-48384,-2410;145810,-48098,-2410;145778,-48098,-2410;145778,-48384,-2410'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160013' name='godad_castle_side_door_003' type='normal_type' castle='7'>
+	<pos xyz='148997,-47794,-1511' range='148940,-47715,-1625;149021,-47889,-1625;149055,-47873,-1625;148974,-47698,-1625'/>
+	<stat height='256' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160014' name='godad_castle_side_door_004' type='normal_type' castle='7'>
+	<pos xyz='145930,-47793,-1511' range='145954,-47698,-1625;145873,-47873,-1625;145906,-47889,-1625;145987,-47714,-1625'/>
+	<stat height='256' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24160021' name='godad_castle_wall_001' type='wall_type' castle='7'>
+	<pos xyz='150106,-47522,-2288' range='149870,-47957,-2572;150635,-47800,-2572;150332,-47039,-2572;149637,-47345,-2572'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='24160022' name='godad_castle_wall_002' type='wall_type' castle='7'>
+	<pos xyz='144824,-47522,-2289' range='144296,-47803,-2572;145059,-47957,-2572;145286,-47357,-2572;144600,-47011,-2572'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  
+  <door id='20160001' name='rune_castle_outter_001' type='normal_type' castle='8'>
+	<pos xyz='18484,-49321,-1022' range='18458,-49337,-1251;18507,-49336,-1251;18506,-49136,-1251;18458,-49136,-1251'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20160002' name='rune_castle_outter_002' type='normal_type' castle='8'>
+	<pos xyz='18484,-48982,-1022' range='18458,-49167,-1251;18506,-49167,-1251;18506,-48968,-1251;18459,-48967,-1251'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20160003' name='rune_castle_inner_001' type='normal_type' castle='8'>
+	<pos xyz='15769,-49251,-901' range='15752,-49264,-1088;15785,-49263,-1088;15785,-49136,-1088;15752,-49136,-1088'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20160004' name='rune_castle_inner_002' type='normal_type' castle='8'>
+	<pos xyz='15769,-49053,-901' range='15752,-49167,-1088;15785,-49168,-1088;15785,-49039,-1088;15754,-49039,-1088'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20160006' name='rune_castle_inner_003' type='normal_type' castle='8'>
+	<pos xyz='12861,-51116,-771' range='12984,-51139,-1115;12983,-51098,-1115;12746,-51096,-1115;12746,-51140,-1115'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='20160007' name='rune_castle_wall_001' type='wall_type' castle='8'>
+	<pos xyz='17258,-51539,-879' range='17170,-51780,-1121;17521,-51464,-1121;17312,-51277,-1120;16996,-51567,-1121'/>
+	<stat height='480' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='20160008' name='rune_castle_wall_002' type='wall_type' castle='8'>
+	<pos xyz='17258,-46763,-879' range='17309,-47020,-1121;17522,-46832,-1121;17171,-46522,-1121;16983,-46722,-1121'/>
+	<stat height='480' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  <door id='20160009' name='rune_castle_wall_003' type='wall_type' castle='8'>
+	<pos xyz='13841,-51703,-764' range='13672,-52034,-1121;14216,-51822,-1121;13983,-51354,-1119;13526,-51526,-1120'/>
+	<stat height='768' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  
+  <door id='22130001' name='schutt_castle_outter_001' type='normal_type' castle='9'>
+	<pos xyz='77733,-149635,-213' range='77539,-149648,-381;77754,-149648,-381;77754,-149617,-381;77539,-149616,-381'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130002' name='schutt_castle_outter_002' type='normal_type' castle='9'>
+	<pos xyz='77381,-149635,-213' range='77363,-149649,-382;77571,-149648,-381;77571,-149616,-381;77362,-149617,-381'/>
+	<stat height='320' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130010' name='schutt_castle_ctr_001' type='normal_type' castle='9'>
+	<pos xyz='80339,-152641,73' range='80238,-152664,-43;80454,-152664,-43;80454,-152613,-43;80238,-152613,-43'/>
+	<stat height='256' hp='31650' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130011' name='schutt_castle_ctr_002' type='normal_type' castle='9'>
+	<pos xyz='74773,-152641,73' range='74672,-152664,-43;74888,-152664,-43;74888,-152613,-43;74672,-152613,-43'/>
+	<stat height='256' hp='31650' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130014' name='schutt_castle_station_001' type='normal_type' castle='9'>
+	<pos xyz='78841,-153184,1144' range='78740,-153207,1017;78957,-153207,1017;78956,-153156,1017;78741,-153156,1017'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130015' name='schutt_castle_station_002' type='normal_type' castle='9'>
+	<pos xyz='76271,-153185,1144' range='76170,-153208,1017;76387,-153208,1017;76386,-153157,1017;76171,-153157,1017'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130006' name='schutt_castle_side_door_001' type='normal_type' castle='9'>
+	<pos xyz='79234,-152432,-491' range='79250,-152448,-676;79250,-152162,-676;79220,-152162,-676;79220,-152449,-676'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130007' name='schutt_castle_side_door_002' type='normal_type' castle='9'>
+	<pos xyz='75883,-152432,-491' range='75901,-152449,-676;75902,-152162,-676;75869,-152162,-676;75869,-152449,-677'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130008' name='schutt_castle_side_door_003' type='normal_type' castle='9'>
+	<pos xyz='79088,-151859,221' range='79030,-151779,97;79113,-151955,97;79147,-151939,97;79065,-151762,97'/>
+	<stat height='256' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130009' name='schutt_castle_side_door_004' type='normal_type' castle='9'>
+	<pos xyz='76021,-151858,221' range='76046,-151763,97;75964,-151938,97;75996,-151954,97;76079,-151779,97'/>
+	<stat height='256' hp='253200' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22130005' name='schutt_castle_wall_002' type='wall_type' castle='9'>
+	<pos xyz='74915,-151587,-555' range='74229,-151818,-839;75150,-152016,-839;75377,-151421,-839;74543,-150961,-839'/>
+	<stat height='460' hp='543072' pdef='837' mdef='674' open_method='npc'/>
+  </door>
+  
+  <door id='21210001' name='partisan001' type='normal_type' clanhall='21'>
+	<pos xyz='43643,108908,-1970' range='43643,108840,-2015;43650,108840,-2015;43651,108915,-2015;43643,108915,-2015'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21210002' name='partisan002' type='normal_type' clanhall='21'>
+	<pos xyz='43643,108783,-1970' range='43643,108778,-2015;43651,108778,-2015;43651,108853,-2015;43643,108853,-2015'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='22170001' name='Bandit_001' type='normal_type' clanhall='35'>
+	<pos xyz='85621,-18127,-1670' range='85414,-18299,-1821;85633,-18123,-1821;85629,-18118,-1821;85411,-18295,-1821'/>
+	<stat height='350' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22170002' name='Bandit_002' type='normal_type' clanhall='35'>
+	<pos xyz='85213,-18458,-1670' range='85208,-18466,-1821;85425,-18291,-1821;85422,-18288,-1821;85206,-18463,-1821'/>
+	<stat height='350' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='22170003' name='Bandit_003' type='normal_type' clanhall='35'>
+	<pos xyz='80818,-15357,-1762' range='80815,-15445,-1829;80821,-15445,-1829;80821,-15349,-1829;80816,-15349,-1829'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='22170004' name='Bandit_004' type='normal_type' clanhall='35'>
+	<pos xyz='80818,-15518,-1762' range='80815,-15525,-1829;80820,-15525,-1829;80820,-15431,-1829;80815,-15431,-1829'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='25170001' name='Devastated_castle_outter_001' type='normal_type' clanhall='34'>
+	<pos xyz='178212,-15038,-2135' range='178211,-15038,-2294;178342,-15038,-2294;178341,-15017,-2294;178211,-15017,-2294'/>
+	<stat height='318' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='25170002' name='Devastated_castle_outter_002' type='normal_type' clanhall='34'>
+	<pos xyz='178468,-15038,-2135' range='178339,-15038,-2295;178469,-15038,-2294;178469,-15017,-2294;178339,-15017,-2294'/>
+	<stat height='318' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='25170005' name='Devastated_castle_001' type='normal_type' clanhall='34'>
+	<pos xyz='178302,-18573,-2287' range='178302,-18611,-2272;178309,-18611,-2272;178309,-18573,-2272;178302,-18573,-2272'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='25170006' name='Devastated_castle_002' type='normal_type' clanhall='34'>
+	<pos xyz='178302,-18648,-2287' range='178302,-18648,-2272;178309,-18648,-2272;178309,-18610,-2272;178302,-18610,-2272'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='25170003' name='Devastated_castle_003' type='normal_type' clanhall='34'>
+	<pos xyz='178120,-18225,-2286' range='178120,-18225,-2262;178183,-18225,-2262;178183,-18211,-2262;178120,-18211,-2262'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='25170004' name='Devastated_castle_004' type='normal_type' clanhall='34'>
+	<pos xyz='178245,-18225,-2286' range='178182,-18225,-2262;178245,-18225,-2262;178245,-18212,-2262;178182,-18211,-2262'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='19210017' name='gludio_castle_agit_001_001' type='normal_type' clanhall='22'>
+	<pos xyz='-15981,123746,-3096' range='-15981,123746,-3131;-15946,123734,-3131;-15945,123737,-3131;-15981,123747,-3131'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='19210018' name='gludio_castle_agit_001_002' type='normal_type' clanhall='22'>
+	<pos xyz='-15909,123724,-3096' range='-15909,123725,-3131;-15944,123736,-3131;-15945,123733,-3131;-15909,123723,-3131'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='19210011' name='gludio_castle_agit_002_001' type='normal_type' clanhall='23'>
+	<pos xyz='-14790,125632,-3123' range='-14791,125632,-3158;-14791,125595,-3158;-14789,125595,-3158;-14789,125632,-3158'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='19210012' name='gludio_castle_agit_002_002' type='normal_type' clanhall='23'>
+	<pos xyz='-14790,125557,-3123' range='-14789,125557,-3158;-14789,125594,-3158;-14791,125594,-3158;-14791,125557,-3158'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='19210013' name='gludio_castle_agit_003_001' type='normal_type' clanhall='24'>
+	<pos xyz='-14116,125602,-3122' range='-14115,125602,-3157;-14115,125639,-3157;-14117,125639,-3157;-14117,125602,-3157'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='19210014' name='gludio_castle_agit_003_002' type='normal_type' clanhall='24'>
+	<pos xyz='-14116,125677,-3122' range='-14117,125677,-3157;-14117,125640,-3157;-14115,125640,-3157;-14115,125677,-3157'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='19210015' name='gludio_castle_agit_004_001' type='normal_type' clanhall='25'>
+	<pos xyz='-12600,123885,-3096' range='-12600,123886,-3131;-12637,123886,-3131;-12637,123884,-3131;-12600,123884,-3131'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='19210016' name='gludio_castle_agit_004_002' type='normal_type' clanhall='25'>
+	<pos xyz='-12676,123885,-3096' range='-12676,123884,-3131;-12639,123884,-3131;-12639,123886,-3131;-12676,123886,-3131'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='17220009' name='gludin_agit_001_001' type='normal_type' clanhall='26'>
+	<pos xyz='-83971,151880,-3111' range='-83971,151882,-3152;-84009,151882,-3152;-84009,151879,-3152;-83971,151879,-3152'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220010' name='gludin_agit_001_002' type='normal_type' clanhall='26'>
+	<pos xyz='-84046,151880,-3111' range='-84046,151879,-3152;-84008,151879,-3152;-84008,151881,-3152;-84046,151881,-3152'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220005' name='gludin_agit_002_001' type='normal_type' clanhall='27'>
+	<pos xyz='-83878,153063,-3149' range='-83878,153064,-3149;-83917,153064,-3149;-83916,153062,-3149;-83878,153062,-3149'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220006' name='gludin_agit_002_002' type='normal_type' clanhall='27'>
+	<pos xyz='-83955,153063,-3149' range='-83955,153061,-3149;-83916,153062,-3149;-83917,153065,-3149;-83955,153065,-3149'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220007' name='gludin_agit_002_003' type='normal_type' clanhall='27'>
+	<pos xyz='-83927,153598,-3149' range='-83927,153597,-3190;-83889,153597,-3190;-83889,153599,-3190;-83927,153599,-3190'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220008' name='gludin_agit_002_004' type='normal_type' clanhall='27'>
+	<pos xyz='-83850,153598,-3149' range='-83850,153599,-3190;-83888,153599,-3190;-83889,153597,-3190;-83850,153597,-3190'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220003' name='gludin_agit_003_001' type='normal_type' clanhall='28'>
+	<pos xyz='-83961,155257,-3149' range='-83962,155257,-3191;-83962,155218,-3191;-83960,155218,-3191;-83960,155257,-3191'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220004' name='gludin_agit_003_002' type='normal_type' clanhall='28'>
+	<pos xyz='-83961,155180,-3149' range='-83960,155180,-3191;-83960,155219,-3191;-83962,155218,-3191;-83962,155180,-3191'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220001' name='gludin_agit_003_001' type='normal_type' clanhall='28'>
+	<pos xyz='-84495,155208,-3150' range='-84494,155208,-3192;-84494,155246,-3192;-84497,155246,-3192;-84496,155208,-3192'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220002' name='gludin_agit_003_002' type='normal_type' clanhall='28'>
+	<pos xyz='-84495,155286,-3150' range='-84496,155286,-3192;-84496,155248,-3192;-84494,155248,-3192;-84494,155286,-3192'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220011' name='gludin_agit_004_001' type='normal_type' clanhall='29'>
+	<pos xyz='-79736,150062,-3026' range='-79735,150062,-3067;-79735,150100,-3067;-79737,150100,-3067;-79737,150062,-3067'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220012' name='gludin_agit_004_002' type='normal_type' clanhall='29'>
+	<pos xyz='-79736,150138,-3026' range='-79737,150138,-3067;-79737,150099,-3067;-79735,150099,-3067;-79735,150138,-3067'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220013' name='gludin_agit_005_001' type='normal_type' clanhall='30'>
+	<pos xyz='-79739,151522,-3027' range='-79738,151522,-3068;-79738,151561,-3068;-79740,151561,-3068;-79740,151522,-3068'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='17220014' name='gludin_agit_005_002' type='normal_type' clanhall='30'>
+	<pos xyz='-79739,151597,-3027' range='-79740,151597,-3068;-79740,151558,-3068;-79738,151558,-3068;-79738,151597,-3068'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='20220013' name='dion_castle_agit_001_001' type='normal_type' clanhall='31'>
+	<pos xyz='17616,145184,-3025' range='17616,145183,-3066;17648,145204,-3066;17646,145206,-3066;17616,145185,-3066'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='20220014' name='dion_castle_agit_001_002' type='normal_type' clanhall='31'>
+	<pos xyz='17678,145226,-3025' range='17678,145227,-3066;17646,145207,-3066;17648,145204,-3066;17679,145226,-3066'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='20220011' name='dion_castle_agit_002_001' type='normal_type' clanhall='32'>
+	<pos xyz='18879,143353,-2998' range='18878,143353,-3039;18874,143316,-3039;18877,143315,-3039;18880,143353,-3039'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='20220012' name='dion_castle_agit_002_002' type='normal_type' clanhall='32'>
+	<pos xyz='18872,143278,-2998' range='18873,143278,-3039;18877,143315,-3039;18874,143316,-3039;18871,143278,-3039'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='20220015' name='dion_castle_agit_003_001' type='normal_type' clanhall='33'>
+	<pos xyz='20118,145994,-3099' range='20118,145992,-3140;20155,145992,-3140;20155,145996,-3140;20118,145996,-3140'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='20220016' name='dion_castle_agit_003_002' type='normal_type' clanhall='33'>
+	<pos xyz='20193,145994,-3099' range='20193,145995,-3140;20156,145995,-3140;20156,145993,-3140;20193,145993,-3140'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='24180024' name='aden_castle_agit_001_001' type='normal_type' clanhall='36'>
+	<pos xyz='149438,23176,-2100' range='149439,23135,-2152;149439,23176,-2152;149437,23176,-2152;149437,23135,-2152'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180025' name='aden_castle_agit_001_002' type='normal_type' clanhall='36'>
+	<pos xyz='149438,23095,-2100' range='149437,23136,-2152;149437,23095,-2152;149439,23095,-2152;149439,23136,-2152'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180026' name='aden_castle_agit_002_001' type='normal_type' clanhall='37'>
+	<pos xyz='150299,23695,-2089' range='150301,23653,-2141;150301,23695,-2141;150297,23695,-2141;150298,23653,-2141'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180027' name='aden_castle_agit_002_002' type='normal_type' clanhall='37'>
+	<pos xyz='150299,23614,-2089' range='150297,23655,-2141;150297,23614,-2141;150301,23614,-2141;150301,23656,-2141'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180022' name='aden_castle_agit_003_001' type='normal_type' clanhall='38'>
+	<pos xyz='145358,25385,-2089' range='145360,25343,-2142;145360,25385,-2142;145356,25385,-2142;145356,25344,-2142'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180023' name='aden_castle_agit_003_002' type='normal_type' clanhall='38'>
+	<pos xyz='145358,25304,-2089' range='145356,25345,-2142;145356,25304,-2142;145360,25304,-2142;145360,25345,-2142'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180028' name='aden_castle_agit_004_001' type='normal_type' clanhall='39'>
+	<pos xyz='150444,26583,-2225' range='150445,26542,-2278;150446,26583,-2278;150443,26583,-2278;150443,26542,-2278'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180029' name='aden_castle_agit_004_002' type='normal_type' clanhall='39'>
+	<pos xyz='150444,26502,-2225' range='150443,26543,-2278;150443,26502,-2278;150445,26502,-2278;150445,26543,-2278'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180030' name='aden_castle_agit_005_001' type='normal_type' clanhall='41'>
+	<pos xyz='144358,28238,-2217' range='144359,28197,-2270;144359,28238,-2270;144357,28238,-2270;144357,28197,-2270'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180031' name='aden_castle_agit_005_002' type='normal_type' clanhall='41'>
+	<pos xyz='144358,28157,-2217' range='144357,28198,-2270;144357,28157,-2270;144359,28157,-2270;144359,28198,-2270'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180032' name='aden_castle_agit_006_001' type='normal_type' clanhall='40'>
+	<pos xyz='144294,27130,-2228' range='144295,27089,-2280;144295,27130,-2280;144293,27130,-2280;144293,27090,-2280'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24180033' name='aden_castle_agit_006_002' type='normal_type' clanhall='40'>
+	<pos xyz='144294,27049,-2228' range='144293,27090,-2280;144293,27049,-2280;144295,27049,-2280;144295,27090,-2280'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='24160001' name='godad_castle_agit_001_001' type='normal_type' clanhall='47'>
+	<pos xyz='146438,-55458,-2792' range='146450,-55504,-2820;146443,-55453,-2821;146432,-55455,-2821;146438,-55506,-2821'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24160002' name='godad_castle_agit_001_002' type='normal_type' clanhall='47'>
+	<pos xyz='146449,-55547,-2792' range='146437,-55499,-2819;146444,-55552,-2819;146455,-55550,-2819;146449,-55497,-2819'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24160003' name='godad_castle_agit_002_001' type='normal_type' clanhall='48'>
+	<pos xyz='147071,-56472,-2792' range='147117,-56489,-2815;147070,-56465,-2815;147065,-56475,-2815;147111,-56500,-2815'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24160004' name='godad_castle_agit_002_002' type='normal_type' clanhall='48'>
+	<pos xyz='147151,-56514,-2792' range='147105,-56498,-2818;147151,-56522,-2818;147158,-56511,-2818;147111,-56486,-2818'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24160005' name='godad_castle_agit_003_001' type='normal_type' clanhall='49'>
+	<pos xyz='148262,-56520,-2792' range='148302,-56490,-2823;148255,-56515,-2823;148262,-56529,-2823;148310,-56505,-2823'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24160006' name='godad_castle_agit_003_002' type='normal_type' clanhall='49'>
+	<pos xyz='148342,-56478,-2792' range='148303,-56508,-2824;148348,-56483,-2824;148342,-56470,-2824;148296,-56494,-2824'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24160007' name='godad_castle_agit_004_001' type='normal_type' clanhall='50'>
+	<pos xyz='148971,-55557,-2792' range='148971,-55509,-2812;148965,-55560,-2812;148976,-55561,-2812;148982,-55511,-2812'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24160008' name='godad_castle_agit_004_002' type='normal_type' clanhall='50'>
+	<pos xyz='148982,-55468,-2792' range='148982,-55520,-2821;148988,-55465,-2821;148978,-55464,-2821;148970,-55518,-2821'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='22220007' name='giran_castle_agit_001_001' type='normal_type' clanhall='42'>
+	<pos xyz='78622,148327,-3553' range='78622,148331,-3614;78570,148331,-3614;78570,148323,-3614;78623,148324,-3614'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220008' name='giran_castle_agit_001_002' type='normal_type' clanhall='42'>
+	<pos xyz='78521,148327,-3553' range='78520,148323,-3614;78572,148323,-3614;78572,148330,-3614;78520,148331,-3614'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220009' name='giran_castle_agit_002_001' type='normal_type' clanhall='43'>
+	<pos xyz='81831,145368,-3489' range='81827,145369,-3546;81828,145316,-3546;81835,145316,-3546;81835,145369,-3546'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220010' name='giran_castle_agit_002_002' type='normal_type' clanhall='43'>
+	<pos xyz='81831,145267,-3489' range='81834,145265,-3546;81835,145319,-3546;81828,145319,-3546;81828,145265,-3546'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220012' name='giran_castle_agit_003_001' type='normal_type' clanhall='44'>
+	<pos xyz='83618,145281,-3360' range='83621,145280,-3417;83622,145332,-3417;83615,145332,-3417;83614,145280,-3417'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220011' name='giran_castle_agit_003_002' type='normal_type' clanhall='44'>
+	<pos xyz='83618,145382,-3360' range='83614,145383,-3417;83614,145331,-3417;83622,145330,-3417;83623,145383,-3417'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220006' name='giran_castle_agit_004_001' type='normal_type' clanhall='45'>
+	<pos xyz='81196,151556,-3490' range='81200,151555,-3546;81200,151607,-3546;81192,151607,-3546;81192,151555,-3546'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220005' name='giran_castle_agit_004_002' type='normal_type' clanhall='45'>
+	<pos xyz='81196,151657,-3490' range='81193,151658,-3546;81192,151605,-3546;81200,151605,-3546;81200,151658,-3546'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220003' name='giran_castle_agit_005_001' type='normal_type' clanhall='46'>
+	<pos xyz='81873,151943,-3488' range='81871,151944,-3545;81870,151892,-3545;81877,151892,-3545;81876,151944,-3545'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22220004' name='giran_castle_agit_005_002' type='normal_type' clanhall='46'>
+	<pos xyz='81873,151842,-3488' range='81876,151842,-3545;81877,151893,-3545;81870,151894,-3545;81870,151842,-3545'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='21160002' name='rune_castle_agit_001_001' type='normal_type' clanhall='51'>
+	<pos xyz='37743,-50424,910' range='37716,-50451,900;37770,-50451,900;37770,-50397,900;37716,-50397,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160001' name='rune_castle_agit_001_002' type='normal_type' clanhall='51'>
+	<pos xyz='37708,-50424,910' range='37681,-50451,900;37735,-50451,900;37735,-50397,900;37681,-50397,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160004' name='rune_castle_agit_002_001' type='normal_type' clanhall='52'>
+	<pos xyz='38585,-50123,910' range='38558,-50150,900;38612,-50150,900;38612,-50096,900;38558,-50096,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160003' name='rune_castle_agit_002_002' type='normal_type' clanhall='52'>
+	<pos xyz='38550,-50140,910' range='38523,-50167,900;38577,-50167,900;38577,-50113,900;38523,-50113,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160006' name='rune_castle_agit_003_001' type='normal_type' clanhall='53'>
+	<pos xyz='39148,-49482,910' range='39121,-49509,900;39175,-49509,900;39175,-49455,900;39121,-49455,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160005' name='rune_castle_agit_003_002' type='normal_type' clanhall='53'>
+	<pos xyz='39130,-49515,910' range='39103,-49542,900;39157,-49542,900;39157,-49488,900;39103,-49488,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160008' name='rune_castle_agit_004_001' type='normal_type' clanhall='54'>
+	<pos xyz='39338,-48222,908' range='39311,-48249,898;39365,-48249,898;39365,-48195,898;39311,-48195,898'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160007' name='rune_castle_agit_004_002' type='normal_type' clanhall='54'>
+	<pos xyz='39338,-48266,908' range='39311,-48293,898;39365,-48293,898;39365,-48239,898;39311,-48239,898'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160010' name='rune_castle_agit_005_001' type='normal_type' clanhall='55'>
+	<pos xyz='39140,-46969,910' range='39113,-46996,900;39167,-46996,900;39167,-46942,900;39113,-46942,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160009' name='rune_castle_agit_005_002' type='normal_type' clanhall='55'>
+	<pos xyz='39161,-47001,910' range='39134,-47028,900;39188,-47028,900;39188,-46974,900;39134,-46974,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160012' name='rune_castle_agit_006_001' type='normal_type' clanhall='56'>
+	<pos xyz='38562,-46347,910' range='38535,-46374,900;38589,-46374,900;38589,-46320,900;38535,-46320,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160011' name='rune_castle_agit_006_002' type='normal_type' clanhall='56'>
+	<pos xyz='38601,-46360,910' range='38574,-46387,900;38628,-46387,900;38628,-46333,900;38574,-46333,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160014' name='rune_castle_agit_007_001' type='normal_type' clanhall='57'>
+	<pos xyz='37718,-46046,910' range='37691,-46073,900;37745,-46073,900;37745,-46019,900;37691,-46019,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='21160013' name='rune_castle_agit_007_002' type='normal_type' clanhall='57'>
+	<pos xyz='37762,-46049,910' range='37735,-46076,900;37789,-46076,900;37789,-46022,900;37735,-46022,900'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='22130017' name='schutt_castle_agit_001_001' type='normal_type' clanhall='58'>
+	<pos xyz='86104,-143237,-1352' range='86105,-143190,-1352;86098,-143240,-1353;86108,-143241,-1353;86114,-143191,-1352'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22130018' name='schutt_castle_agit_001_002' type='normal_type' clanhall='58'>
+	<pos xyz='86115,-143148,-1352' range='86114,-143196,-1352;86120,-143145,-1352;86110,-143144,-1352;86104,-143195,-1352'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22130019' name='schutt_castle_agit_002_001' type='normal_type' clanhall='59'>
+	<pos xyz='86730,-142226,-1352' range='86769,-142199,-1352;86725,-142223,-1352;86730,-142232,-1352;86775,-142209,-1352'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22130020' name='schutt_castle_agit_002_002' type='normal_type' clanhall='59'>
+	<pos xyz='86809,-142184,-1352' range='86770,-142211,-1352;86814,-142187,-1352;86809,-142177,-1352;86765,-142201,-1352'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22130021' name='schutt_castle_agit_003_001' type='normal_type' clanhall='60'>
+	<pos xyz='87920,-142192,-1352' range='87964,-142209,-1352;87919,-142186,-1352;87915,-142195,-1352;87960,-142218,-1352'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22130022' name='schutt_castle_agit_003_002' type='normal_type' clanhall='60'>
+	<pos xyz='87999,-142234,-1352' range='87955,-142216,-1352;88000,-142239,-1352;88004,-142230,-1352;87960,-142207,-1352'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22130023' name='schutt_castle_agit_004_001' type='normal_type' clanhall='61'>
+	<pos xyz='88621,-143156,-1352' range='88633,-143203,-1352;88626,-143153,-1352;88615,-143154,-1352;88621,-143205,-1352'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='22130024' name='schutt_castle_agit_004_002' type='normal_type' clanhall='61'>
+	<pos xyz='88633,-143246,-1352' range='88621,-143198,-1352;88627,-143249,-1353;88639,-143248,-1352;88632,-143197,-1352'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  
+  <door id='24160019' name='godad_castle_inner_001' type='normal_type'>
+	<pos xyz='148751,-48603,-2290' range='148736,-48534,-2415;148736,-48680,-2414;148763,-48679,-2414;148764,-48528,-2414'/>
+	<stat height='256' hp='543072' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='24160020' name='godad_castle_inner_002' type='normal_type'>
+	<pos xyz='146180,-48603,-2290' range='146165,-48528,-2414;146165,-48680,-2414;146192,-48679,-2414;146193,-48528,-2414'/>
+	<stat height='256' hp='543072' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='24160023' name='godad_castle_inner_003' type='normal_type'>
+	<pos xyz='147464,-46200,-1987' range='147366,-46217,-2112;147562,-46217,-2112;147562,-46171,-2112;147367,-46171,-2112'/>
+	<stat height='256' hp='543072' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='20160005' name='rune_castle_gate_001' type='normal_type'>
+	<pos xyz='15344,-49152,-720' range='15320,-49268,-1093;15360,-49268,-1093;15361,-49027,-1093;15320,-49027,-1093'/>
+	<stat height='256' hp='253200' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='22130012' name='schutt_castle_inner_001' type='normal_type'>
+	<pos xyz='78842,-152667,-558' range='78826,-152598,-681;78826,-152745,-682;78854,-152744,-682;78855,-152592,-681'/>
+	<stat height='256' hp='543072' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='22130013' name='schutt_castle_inner_002' type='normal_type'>
+	<pos xyz='76271,-152667,-558' range='76255,-152592,-681;76255,-152745,-682;76283,-152744,-682;76284,-152592,-681'/>
+	<stat height='256' hp='543072' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='22130003' name='schutt_castle_inner_003' type='normal_type'>
+	<pos xyz='77555,-150264,-255' range='77456,-150282,-376;77653,-150282,-376;77653,-150235,-375;77457,-150235,-376'/>
+	<stat height='256' hp='543072' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='24190001' name='aden_colosseum_001_001' type='normal_type'>
+	<pos xyz='147086,46721,-3434' range='147075,46641,-3434;147099,46641,-3434;147099,46800,-3434;147075,46799,-3434'/>
+	<stat height='256' hp='550000' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='24190002' name='aden_colosseum_001_002' type='normal_type'>
+	<pos xyz='148045,46721,-3435' range='148034,46642,-3435;148055,46642,-3435;148057,46800,-3435;148036,46798,-3435'/>
+	<stat height='256' hp='550000' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='24190003' name='aden_colosseum_002_001' type='normal_type'>
+	<pos xyz='150951,46721,-3435' range='150939,46641,-3435;150961,46640,-3435;150961,46797,-3435;150941,46797,-3435'/>
+	<stat height='256' hp='550000' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  <door id='24190004' name='aden_colosseum_002_002' type='normal_type'>
+	<pos xyz='151911,46721,-3435' range='151903,46644,-3435;151917,46644,-3435;151918,46798,-3435;151904,46798,-3435'/>
+	<stat height='256' hp='550000' pdef='644' mdef='518' open_method='npc' is_open='1'/>
+  </door>
+  
+  <door id='20210002' name='kuruma001' type='child_type' level='3'>
+	<pos xyz='17820,112427,-6456' range='17705,112402,-6627;17938,112406,-6625;17938,112448,-6625;17705,112452,-6627'/>
+	<stat height='338' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='300'/>
+  </door>
+  <door id='20210001' name='kuruma002' type='child_type' level='3'>
+	<pos xyz='17624,112427,-6456' range='17506,112406,-6625;17741,112402,-6625;17741,112452,-6625;17506,112449,-6625'/>
+	<stat height='338' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='300'/>
+  </door>
+  <door id='20210003' name='kuruma003' type='child_type' level='3'>
+	<pos xyz='17721,112427,-6579' range='17624,112397,-6627;17818,112396,-6628;17819,112458,-6628;17623,112459,-6627'/>
+	<stat height='98' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='300'/>
+  </door>
+  
+  <door id='23180001' name='hubris_3F_001' type='normal_type'>
+	<pos xyz='113876,16952,-1979' range='113832,16890,-2156;113937,16996,-2156;113920,17013,-2156;113814,16908,-2156'/>
+	<stat height='355' hp='150000' pdef='476' mdef='383' open_method='time' close_time='120' open_time='120'/>
+  </door>
+  <door id='23180002' name='hubris_3F_002' type='normal_type'>
+	<pos xyz='113771,16849,-1979' range='113728,16788,-2156;113833,16893,-2156;113815,16910,-2156;113710,16806,-2156'/>
+	<stat height='355' hp='150000' pdef='476' mdef='383' open_method='time' close_time='120' open_time='120'/>
+  </door>
+  <door id='23180003' name='hubris_8F_001' type='normal_type'>
+	<pos xyz='113252,15914,4114' range='113178,15931,3937;113316,15874,3937;113326,15897,3937;113187,15954,3937'/>
+	<stat height='355' hp='150000' pdef='476' mdef='383' open_method='time' close_time='120' open_time='120'/>
+  </door>
+  <door id='23180004' name='hubris_8F_002' type='normal_type'>
+	<pos xyz='113117,15970,4115' range='113043,15987,3938;113181,15930,3938;113191,15953,3938;113053,16010,3938'/>
+	<stat height='355' hp='150000' pdef='476' mdef='383' open_method='time' close_time='120' open_time='120'/>
+  </door>
+  <door id='23180006' name='hubris_11F_001' type='normal_type'>
+	<pos xyz='113367,15868,7145' range='113323,15806,6968;113429,15912,6968;113411,15930,6968;113305,15824,6968'/>
+	<stat height='355' hp='150000' pdef='476' mdef='383' open_method='time' close_time='120' open_time='120'/>
+  </door>
+  <door id='23180005' name='hubris_11F_002' type='normal_type'>
+	<pos xyz='113263,15764,7145' range='113219,15703,6968;113325,15808,6968;113307,15826,6968;113201,15720,6968'/>
+	<stat height='355' hp='150000' pdef='476' mdef='383' open_method='time' close_time='120' open_time='120'/>
+  </door>
+  
+  <door id='21240001' name='Devil_001' type='normal_type'>
+	<pos xyz='42000,208377,-3666' range='41864,208294,-3785;41868,208287,-3785;42006,208377,-3785;42002,208383,-3785'/>
+	<stat height='245' hp='150000' pdef='100000' mdef='10000' open_method='time' close_time='120' open_time='120'/>
+  </door>
+  <door id='21240002' name='Devil_002' type='normal_type'>
+	<pos xyz='43745,212594,-3623' range='43741,212433,-3742;43749,212433,-3742;43749,212600,-3742;43741,212600,-3742'/>
+	<stat height='245' hp='150000' pdef='100000' mdef='10000' open_method='time' close_time='120' open_time='120'/>
+  </door>  
+  <door id='21240003' name='Devil_003' type='normal_type' level='3'>
+	<pos xyz='42166,213285,-3643' range='42246,213285,-3760;42246,213285,-3760;42085,213285,-3760;42085,213285,-3760'/>
+	<stat height='245' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='120'/>
+  </door>
+  <door id='21240004' name='Devil_004' type='normal_type' level='3'>
+	<pos xyz='51110,206106,-3912' range='51270,206103,-4031;51270,206110,-4031;51105,206110,-4031;51105,206102,-4031'/>
+	<stat height='245' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='120'/>
+  </door>
+  <door id='21240005' name='Devil_005' type='normal_type' level='3'>
+	<pos xyz='52910,206720,-3692' range='52910,206638,-3808;52910,206638,-3808;52910,206801,-3808;52910,206801,-3808'/>
+	<stat height='245' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='120'/>
+  </door>  
+  <door id='21240006' name='Devil_006' type='normal_type' level='7'>
+	<pos xyz='52423,219103,-3209' range='52423,219032,-3312;52423,219032,-3312;52423,219174,-3312;52423,219174,-3312'/>
+	<stat height='245' hp='150000' pdef='1000000' mdef='383' open_method='skill' close_time='120'/>
+  </door>
+  
+  <door id='22250001' name='Eva_001' type='normal_type'>
+	<pos xyz='86225,247062,-8584' range='86087,246961,-8845;86364,247159,-8845;86362,247162,-8845;86085,246964,-8845'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250002' name='Eva_002' type='normal_type'>
+	<pos xyz='88490,253870,-8584' range='88546,253708,-8845;88440,254031,-8845;88436,254030,-8845;88539,253707,-8845'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250003' name='Eva_003' type='normal_type'>
+	<pos xyz='76872,253953,-8584' range='76928,254117,-8856;76816,253789,-8856;76820,253788,-8856;76925,254118,-8856'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250004' name='Eva_004' type='normal_type'>
+	<pos xyz='79032,247128,-8583' range='78897,247225,-8838;79164,247032,-8838;79162,247031,-8838;78900,247228,-8838'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250005' name='Eva_005' type='normal_type'>
+	<pos xyz='82737,246602,-9092' range='82578,246602,-9359;82896,246602,-9359;82896,246602,-9359;82578,246602,-9359'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250006' name='Eva_006' type='normal_type'>
+	<pos xyz='87902,250377,-9092' range='87851,250218,-9361;87963,250535,-9361;87952,250540,-9361;87845,250221,-9361'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250007' name='Eva_007' type='normal_type'>
+	<pos xyz='85913,256377,-9092' range='86047,256280,-9352;85779,256477,-9352;85778,256475,-9352;86046,256278,-9352'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250008' name='Eva_008' type='normal_type'>
+	<pos xyz='79561,256348,-9092' range='79696,256447,-9348;79427,256254,-9348;79428,256253,-9348;79699,256444,-9348'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250009' name='Eva_009' type='normal_type'>
+	<pos xyz='77616,250360,-9093' range='77560,250521,-9360;77661,250195,-9360;77671,250197,-9360;77570,250525,-9360'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250010' name='Eva_010' type='normal_type'>
+	<pos xyz='80101,248387,-9610' range='79968,248483,-9883;80232,248290,-9883;80233,248291,-9883;79970,248485,-9883'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250011' name='Eva_011' type='normal_type'>
+	<pos xyz='85343,248343,-9610' range='85206,248243,-9869;85481,248439,-9869;85478,248443,-9869;85204,248246,-9869'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250012' name='Eva_012' type='normal_type'>
+	<pos xyz='87018,253388,-9610' range='87076,253226,-9875;86969,253544,-9875;86965,253542,-9875;87067,253223,-9875'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250013' name='Eva_013' type='normal_type'>
+	<pos xyz='82767,256485,-9610' range='82932,256486,-9873;82603,256485,-9873;82603,256485,-9873;82932,256484,-9873'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250014' name='Eva_014' type='normal_type'>
+	<pos xyz='78490,253390,-9610' range='78539,253551,-9884;78435,253231,-9884;78439,253230,-9884;78548,253546,-9884'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250015' name='Eva_015' type='normal_type'>
+	<pos xyz='79252,253096,-10118' range='79302,253256,-10386;79196,252938,-10386;79201,252936,-10386;79308,253253,-10386'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250016' name='Eva_016' type='normal_type'>
+	<pos xyz='79275,250855,-10118' range='79220,251014,-10386;79326,250697,-10386;79328,250698,-10386;79225,251017,-10386'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250017' name='Eva_017' type='normal_type'>
+	<pos xyz='80600,249045,-10118' range='80464,249140,-10370;80733,248949,-10370;80735,248952,-10370;80467,249143,-10370'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250018' name='Eva_018' type='normal_type'>
+	<pos xyz='82836,248341,-10118' range='82672,248340,-10391;82999,248341,-10391;82999,248341,-10391;82672,248341,-10391'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250019' name='Eva_019' type='normal_type'>
+	<pos xyz='84906,249034,-10116' range='84770,248927,-10379;85050,249131,-10379;85041,249141,-10379;84761,248938,-10379'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250020' name='Eva_020' type='normal_type'>
+	<pos xyz='86246,250887,-10118' range='86298,251048,-10368;86186,250728,-10368;86193,250724,-10368;86307,251045,-10368'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250021' name='Eva_021' type='normal_type'>
+	<pos xyz='86213,253196,-10118' range='86157,253357,-10380;86260,253034,-10380;86268,253038,-10380;86165,253360,-10380'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250022' name='Eva_022' type='normal_type'>
+	<pos xyz='84889,254972,-10118' range='84750,255068,-10376;85023,254873,-10376;85027,254877,-10376;84754,255073,-10376'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250023' name='Eva_023' type='normal_type'>
+	<pos xyz='82726,255659,-10118' range='82561,255659,-10387;82891,255659,-10387;82891,255659,-10387;82561,255659,-10387'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  <door id='22250024' name='Eva_024' type='normal_type'>
+	<pos xyz='80590,254949,-10118' range='80724,255050,-10372;80454,254853,-10372;80457,254851,-10372;80727,255047,-10372'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='time' close_time='20' open_time='300'/>
+  </door>
+  
+  <door id='22250025' name='Eva_025' type='normal_type' level='1'>
+	<pos xyz='81959,255493,-10734' range='81657,255505,-10888;82264,255508,-10888;82264,255478,-10888;81657,255480,-10888'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='120'/>
+  </door>
+  <door id='22250026' name='Eva_026' type='normal_type' level='1'>
+	<pos xyz='83496,255494,-10734' range='83194,255511,-10891;83795,255509,-10891;83795,255479,-10891;83194,255481,-10891'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='120'/>
+  </door>
+  <door id='22250027' name='Eva_027' type='normal_type' level='1'>
+	<pos xyz='83549,248505,-10734' range='83247,248523,-10886;83848,248520,-10886;83848,248490,-10886;83247,248494,-10886'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='120'/>
+  </door>
+  <door id='22250028' name='Eva_028' type='normal_type' level='1'>
+	<pos xyz='82012,248506,-10734' range='81713,248521,-10888;82312,248520,-10888;82312,248490,-10888;81713,248491,-10888'/>
+	<stat height='512' hp='150000' pdef='476' mdef='383' open_method='skill' close_time='120'/>
+  </door>
+  
+  <door id='25150011' name='royal_rush_door_1' type='normal_type'>
+	<pos xyz='181195,-85594,-7069' range='181185,-85775,-7261;181256,-85772,-7261;181254,-85412,-7261;181184,-85414,-7261'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150012' name='royal_rush_door_1a' type='normal_type'>
+	<pos xyz='182981,-85580,-7071' range='182971,-85759,-7259;183041,-85755,-7259;183045,-85401,-7259;182970,-85399,-7259'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150013' name='royal_rush_door_1b' type='normal_type'>
+	<pos xyz='184798,-85582,-7070' range='184787,-85758,-7259;184854,-85759,-7259;184857,-85401,-7259;184790,-85401,-7259'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150014' name='royal_rush_door_1c' type='normal_type'>
+	<pos xyz='186575,-85576,-7073' range='186560,-85758,-7265;186639,-85755,-7265;186643,-85390,-7265;186564,-85391,-7265'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150015' name='royal_rush_door_1d' type='normal_type'>
+	<pos xyz='188363,-85576,-7067' range='188344,-85767,-7259;188425,-85772,-7259;188426,-85388,-7259;188346,-85383,-7259'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150016' name='royal_rush_door_1e' type='normal_type'>
+	<pos xyz='190165,-85576,-7072' range='190153,-85760,-7265;190229,-85754,-7265;190232,-85393,-7265;190151,-85398,-7265'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150001' name='royal_rush_door_2' type='normal_type'>
+	<pos xyz='179512,-88979,-7067' range='179505,-89153,-7253;179566,-89155,-7253;179567,-88806,-7253;179506,-88805,-7253'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150002' name='royal_rush_door_2a' type='normal_type'>
+	<pos xyz='181248,-88979,-7066' range='181244,-89155,-7254;181304,-89154,-7254;181302,-88804,-7254;181240,-88805,-7254'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150003' name='royal_rush_door_2b' type='normal_type'>
+	<pos xyz='183053,-88979,-7071' range='183038,-89164,-7261;183113,-89166,-7261;183120,-88798,-7261;183039,-88796,-7261'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150004' name='royal_rush_door_2c' type='normal_type'>
+	<pos xyz='184884,-88968,-7054' range='184873,-89148,-7243;184946,-89148,-7243;184943,-88790,-7243;184871,-88790,-7243'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150005' name='royal_rush_door_2d' type='normal_type'>
+	<pos xyz='186685,-88965,-7072' range='186678,-89151,-7261;186741,-89146,-7261;186742,-88788,-7261;186680,-88793,-7261'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150006' name='royal_rush_door_2e' type='normal_type'>
+	<pos xyz='188472,-88968,-7070' range='188464,-89146,-7261;188527,-89147,-7261;188526,-88793,-7261;188463,-88793,-7261'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150031' name='royal_rush_door_3' type='normal_type'>
+	<pos xyz='173218,-86614,-7073' range='173033,-86673,-7268;173397,-86673,-7268;173400,-86604,-7268;173036,-86604,-7268'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150032' name='royal_rush_door_3a' type='normal_type'>
+	<pos xyz='173218,-84780,-7069' range='173032,-84846,-7268;173399,-84844,-7268;173404,-84768,-7268;173032,-84770,-7268'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150033' name='royal_rush_door_3b' type='normal_type'>
+	<pos xyz='173210,-82974,-7069' range='173034,-83033,-7259;173385,-83033,-7259;173388,-82967,-7259;173034,-82966,-7259'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150034' name='royal_rush_door_3c' type='normal_type'>
+	<pos xyz='173212,-81165,-7067' range='173034,-81217,-7254;173387,-81221,-7254;173388,-81156,-7254;173035,-81152,-7254'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150035' name='royal_rush_door_3d' type='normal_type'>
+	<pos xyz='173215,-79393,-7062' range='173036,-79450,-7253;173391,-79449,-7253;173391,-79384,-7253;173035,-79385,-7253'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150036' name='royal_rush_door_3e' type='normal_type'>
+	<pos xyz='173196,-77563,-7065' range='173019,-77619,-7253;173368,-77621,-7253;173369,-77559,-7253;173020,-77558,-7253'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150021' name='royal_rush_door_4' type='normal_type'>
+	<pos xyz='175610,-82701,-7061' range='175429,-82761,-7251;175788,-82759,-7251;175790,-82691,-7251;175429,-82693,-7251'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150022' name='royal_rush_door_4a' type='normal_type'>
+	<pos xyz='175610,-80956,-7070' range='175421,-81018,-7260;175802,-81024,-7260;175805,-80943,-7260;175424,-80937,-7260'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150023' name='royal_rush_door_4b' type='normal_type'>
+	<pos xyz='175601,-79162,-7069' range='175426,-79217,-7259;175776,-79217,-7259;175777,-79155,-7259;175428,-79155,-7259'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150024' name='royal_rush_door_4c' type='normal_type'>
+	<pos xyz='175602,-77330,-7074' range='175425,-77384,-7265;175776,-77387,-7265;175778,-77322,-7265;175426,-77319,-7265'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150025' name='royal_rush_door_4d' type='normal_type'>
+	<pos xyz='175597,-75538,-7069' range='175415,-75595,-7258;175773,-75595,-7258;175777,-75529,-7258;175419,-75530,-7258'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150026' name='royal_rush_door_4e' type='normal_type'>
+	<pos xyz='175588,-73721,-7067' range='175401,-73778,-7257;175767,-73781,-7257;175767,-73712,-7257;175406,-73714,-7257'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='24210004' name='valakas_door_01' type='normal_type'>
+	<pos xyz='190917,-115528,-1519' range='190891,-115626,-1619;190943,-115626,-1619;190944,-115430,-1619;190892,-115430,-1619'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc' close_time='3600'/>
+  </door>
+  <door id='24210005' name='valakas_door_02' type='normal_type'>
+	<pos xyz='189479,-108511,-952' range='189570,-108551,-1056;189579,-108510,-1056;189388,-108473,-1056;189380,-108508,-1056'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc' close_time='3600'/>
+  </door>
+  <door id='24210006' name='valakas_door_03' type='normal_type'>
+	<pos xyz='191458,-108107,-955' range='191357,-108119,-1058;191369,-108153,-1058;191557,-108095,-1058;191548,-108058,-1058'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc' close_time='3600'/>
+  </door>
+  
+  <door id='23170001' name='border_door_01' type='normal_type'>
+	<pos xyz='114044,-17952,-1748' range='113988,-18062,-1900;114122,-17851,-1900;114101,-17839,-1900;113966,-18046,-1900'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc' close_time='180'/>
+  </door>
+  <door id='24170001' name='border_door_02' type='normal_type'>
+	<pos xyz='157981,-25122,-1195' range='157859,-25097,-1344;158095,-25172,-1344;158104,-25144,-1344;157870,-25069,-1344'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc' close_time='180'/>
+  </door>
+  
+  <door id='21170001' name='rune_fortress_the_dead_gate_011' type='normal_type' clanhall='64'>
+	<pos xyz='57857,-29480,707' range='57849,-29465,544;57849,-29498,544;57969,-29498,543;57969,-29465,544'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21170002' name='rune_fortress_the_dead_gate_012' type='normal_type' clanhall='64'>
+	<pos xyz='58061,-29479,707' range='58070,-29498,543;58071,-29465,544;57954,-29498,543;57954,-29465,544'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21170003' name='rune_fortress_the_dead_room_021' type='normal_type' clanhall='64'>
+	<pos xyz='56977,-27193,639' range='56972,-27188,550;56972,-27258,550;56981,-27259,550;56982,-27188,550'/>
+	<stat height='318' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21170004' name='rune_fortress_the_dead_room_022' type='normal_type' clanhall='64'>
+	<pos xyz='56977,-27318,639' range='56971,-27251,550;56972,-27323,550;56981,-27323,551;56981,-27251,550'/>
+	<stat height='318' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21170005' name='rune_fortress_the_dead_door_031' type='normal_type' clanhall='64'>
+	<pos xyz='57902,-26392,654' range='57893,-26382,564;57893,-26401,564;57976,-26400,563;57976,-26384,564'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21170006' name='rune_fortress_the_dead_door_032' type='normal_type' clanhall='64'>
+	<pos xyz='58024,-26391,654' range='58036,-26400,563;58037,-26384,564;57953,-26400,563;57954,-26383,564'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='21150001' name='beast_arena_agit_002_001' type='normal_type' clanhall='63'>
+	<pos xyz='59980,-94117,-1304' range='59945,-94174,-1382;59953,-94178,-1382;59985,-94119,-1382;59976,-94114,-1382'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21150002' name='beast_arena_agit_002_002' type='normal_type' clanhall='63'>
+	<pos xyz='59922,-94227,-1304' range='59917,-94227,-1382;59925,-94231,-1382;59957,-94170,-1382;59949,-94166,-1382'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21150003' name='beast_arena_agit_001_001' type='normal_type' clanhall='63'>
+	<pos xyz='55334,-93268,-1267' range='55333,-93274,-1396;55338,-93272,-1396;55299,-93143,-1396;55294,-93146,-1396'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21150004' name='beast_arena_agit_001_002' type='normal_type' clanhall='63'>
+	<pos xyz='55263,-93038,-1267' range='55299,-93158,-1396;55304,-93156,-1396;55265,-93031,-1396;55257,-93034,-1396'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21150005' name='beast_arena_agit_003_001' type='normal_type' clanhall='63'>
+	<pos xyz='58500,-93965,-1380' range='58323,-94077,-1391;58685,-93905,-1391;58665,-93846,-1391;58304,-94023,-1391'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21150006' name='beast_arena_agit_003_002' type='normal_type' clanhall='63'>
+	<pos xyz='56863,-93651,-1383' range='57010,-93780,-1394;56731,-93497,-1394;56697,-93530,-1394;56977,-93815,-1394'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21150007' name='beast_arena_agit_004_001' type='normal_type' clanhall='63'>
+	<pos xyz='56629,-91998,-1380' range='56555,-92178,-1391;56731,-91821,-1391;56694,-91807,-1391;56516,-92158,-1391'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21150008' name='beast_arena_agit_004_002' type='normal_type' clanhall='63'>
+	<pos xyz='58173,-91247,-1380' range='58373,-91272,-1391;57987,-91198,-1391;57979,-91236,-1391;58362,-91316,-1391'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='21150009' name='beast_arena_agit_005_001' type='normal_type' clanhall='63'>
+	<pos xyz='59320,-92518,-1380' range='59368,-92713,-1391;59313,-92322,-1391;59264,-92328,-1391;59320,-92718,-1391'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='24140001' name='rainbow_springs_agit_002_001' type='normal_type' clanhall='62'>
+	<pos xyz='140727,-124476,-1894' range='140728,-124478,-1913;140754,-124440,-1913;140750,-124437,-1913;140725,-124476,-1913'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24140002' name='rainbow_springs_agit_002_002' type='normal_type' clanhall='62'>
+	<pos xyz='140777,-124401,-1894' range='140776,-124399,-1923;140750,-124437,-1923;140754,-124440,-1923;140779,-124401,-1923'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24140003' name='rainbow_springs_agit_001_001' type='normal_type' clanhall='62'>
+	<pos xyz='141148,-124309,-1894' range='141146,-124310,-1921;141185,-124336,-1921;141187,-124332,-1921;141148,-124306,-1921'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24140004' name='rainbow_springs_agit_001_002' type='normal_type' clanhall='62'>
+	<pos xyz='141223,-124359,-1893' range='141225,-124358,-1920;141187,-124332,-1920;141184,-124336,-1920;141223,-124361,-1920'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24140005' name='rainbow_springs_agit_003_001' type='normal_type' clanhall='62'>
+	<pos xyz='141280,-124737,-1894' range='141279,-124735,-1949;141253,-124774,-1949;141257,-124777,-1949;141282,-124737,-1949'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24140006' name='rainbow_springs_agit_003_002' type='normal_type' clanhall='62'>
+	<pos xyz='141230,-124812,-1894' range='141231,-124814,-1947;141258,-124775,-1947;141254,-124772,-1947;141228,-124812,-1947'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24140007' name='rainbow_springs_agit_004_001' type='normal_type' clanhall='62'>
+	<pos xyz='140702,-123836,-1932' range='140715,-123885,-1941;140704,-123835,-1942;140700,-123836,-1942;140708,-123886,-1942'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24140008' name='rainbow_springs_agit_004_002' type='normal_type' clanhall='62'>
+	<pos xyz='140721,-123934,-1931' range='140723,-123934,-1941;140715,-123884,-1941;140709,-123886,-1941;140719,-123935,-1941'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='24140003' name='spa_agit_001_001' type='normal_type'>
+	<pos xyz='141148,-124309,-1894' range='141146,-124310,-1921;141185,-124336,-1921;141187,-124332,-1921;141148,-124306,-1921'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24140004' name='spa_agit_001_002' type='normal_type'>
+	<pos xyz='141223,-124359,-1893' range='141225,-124358,-1920;141187,-124332,-1920;141184,-124336,-1920;141223,-124361,-1920'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24140001' name='spa_agit_002_001' type='normal_type'>
+	<pos xyz='140727,-124476,-1894' range='140728,-124478,-1913;140754,-124440,-1913;140750,-124437,-1913;140725,-124476,-1913'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24140002' name='spa_agit_002_002' type='normal_type'>
+	<pos xyz='140777,-124401,-1894' range='140776,-124399,-1923;140750,-124437,-1923;140754,-124440,-1923;140779,-124401,-1923'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24140005' name='spa_agit_003_001' type='normal_type'>
+	<pos xyz='141280,-124737,-1894' range='141279,-124735,-1949;141253,-124774,-1949;141257,-124777,-1949;141282,-124737,-1949'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24140006' name='spa_agit_003_002' type='normal_type'>
+	<pos xyz='141230,-124812,-1894' range='141231,-124814,-1947;141258,-124775,-1947;141254,-124772,-1947;141228,-124812,-1947'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='click'/>
+  </door>
+  <door id='24140007' name='spa_agit_004_001' type='normal_type'>
+	<pos xyz='140702,-123836,-1932' range='140715,-123885,-1941;140704,-123835,-1942;140700,-123836,-1942;140708,-123886,-1942'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='24140008' name='spa_agit_004_002' type='normal_type'>
+	<pos xyz='140721,-123934,-1931' range='140723,-123934,-1941;140715,-123884,-1941;140709,-123886,-1941;140719,-123935,-1941'/>
+	<stat height='450' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='19160009' name='anteroom1' type='normal_type' level='3'>
+	<pos xyz='-17860,-38970,-10720' range='-17780,-38970,-10720;-17780,-38960,-10720;-17932,-38960,-10720;-17932,-38970,10720'/>
+	<stat height='212' hp='60000' pdef='180000' mdef='180000' open_method='skill' close_time='20'/>
+  </door>
+  <door id='19160008' name='anteroom2' type='normal_type' level='3'>
+	<pos xyz='-18140,-39823,-10720' range='-18131,-39746,-10720;-18151,-39746,-10720;-18151,-39903,-10720;-18135,-39903,10720'/>
+	<stat height='212' hp='60000' pdef='180000' mdef='180000' open_method='skill' close_time='20'/>
+  </door>
+  <door id='19160007' name='anteroom3' type='normal_type' level='3'>
+	<pos xyz='-18140,-41690,-10720' range='-18131,-41619,-10720;-18151,-41619,-10720;-18151,-41778,-10720;-18135,-41778,10720'/>
+	<stat height='212' hp='60000' pdef='180000' mdef='180000' open_method='skill' close_time='20'/>
+  </door>
+  <door id='19160006' name='anteroom4' type='normal_type' level='3'>
+	<pos xyz='-17860,-42541,-10720' range='-17780,-42541,-10720;-17780,-42561,-10720;-17932,-42561,-10720;-17932,-42541,10720'/>
+	<stat height='212' hp='60000' pdef='180000' mdef='180000' open_method='skill' close_time='20'/>
+  </door>
+  <door id='19160005' name='anteroom5' type='normal_type' level='3'>
+	<pos xyz='-14867,-42541,-10720' range='-14956,-42541,-10720;-14956,-42561,-10720;-14789,-42561,-10720;-14789,-42541,10720'/>
+	<stat height='212' hp='60000' pdef='180000' mdef='180000' open_method='skill' close_time='20'/>
+  </door>
+  <door id='19160004' name='anteroom6' type='normal_type' level='3'>
+	<pos xyz='-14598,-41690,-10720' range='-14598,-41619,-10720;-14570,-41619,-10720;-14570,-41778,-10720;-14598,-41778,10720'/>
+	<stat height='212' hp='60000' pdef='180000' mdef='180000' open_method='skill' close_time='20'/>
+  </door>
+  <door id='19160003' name='anteroom7' type='normal_type' level='3'>
+	<pos xyz='-14598,-39823,-10720' range='-14598,-39746,-10720;-14570,-39746,-10720;-14570,-39903,-10720;-14598,-39903,10720'/>
+	<stat height='212' hp='60000' pdef='180000' mdef='180000' open_method='skill' close_time='20'/>
+  </door>
+  <door id='19160002' name='anteroom8' type='normal_type' level='3'>
+	<pos xyz='-14870,-38970,-10720' range='-14781,-38970,-10720;-14781,-38960,-10720;-14952,-38960,-10720;-14952,-38970,10720'/>
+	<stat height='212' hp='60000' pdef='180000' mdef='180000' open_method='skill' close_time='20'/>
+  </door>
+  
+  <door id='19160010' name='chapel_door1' type='normal_type'>
+	<pos xyz='-16355,-44130,-10720' range='-16612,-44130,-10720;-16612,-44160,-10720;-16121,-44160,-10720;-16121,-44130,-10720'/>
+	<stat height='333' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  <door id='19160011' name='chapel_door2' type='normal_type'>
+	<pos xyz='-16355,-44130,-10720' range='-16612,-44130,-10720;-16612,-44160,-10720;-16121,-44160,-10720;-16121,-44130,-10720'/>
+	<stat height='333' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  
+  <door id='19160013' name='darkness_door1' type='normal_type'>
+	<pos xyz='-18255,-52487,-11008' range='-18255,-52342,-11008;-18280,-52342,-11008;-18280,-52643,-11008;-18255,-52643,-11008'/>
+	<stat height='333' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  <door id='19160012' name='darkness_door2' type='normal_type'>
+	<pos xyz='-14534,-52487,-11008' range='-14504,-52342,-11008;-14534,-52342,-11008;-14534,-52643,-11008;-14504,-52643,-11008'/>
+	<stat height='333' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  
+  <door id='19160014' name='altar_low1' type='normal_type'>
+	<pos xyz='-14833,-54978,-10600' range='-14955,-54978,-10600;-14709,-54978,-10600;-14709,-54958,-10600;-14955,-54958,-10600'/>
+	<stat height='333' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  <door id='19160015' name='altar_low2' type='normal_type'>
+	<pos xyz='-17959,-54978,-10600' range='-18073,-54978,-10600;-17828,-54978,-10600;-17828,-54958,-10600;-18073,-54958,-10600'/>
+	<stat height='333' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  <door id='19160016' name='altar_top1' type='normal_type'>
+	<pos xyz='-15355,-54843,-10448' range='-15355,-54960,-10448;-15355,-54781,-10448;-15385,-54781,-10448;-15385,-54960,-10448'/>
+	<stat height='333' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  <door id='19160017' name='altar_top2' type='normal_type'>
+	<pos xyz='-17421,-54843,-10448' range='-17421,-54960,-10448;-17421,-54781,-10448;-17451,-54781,-10448;-17451,-54960,-10448'/>
+	<stat height='333' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  
+  <door id='25150058' name='Godad_fritezza_door01a' type='normal_type'>
+	<pos xyz='173416,-75326,-4884' range='173071,-75586,-5166;173191,-75649,-5166;173737,-75102,-5166;173681,-74984,-5166'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150051' name='Godad_fritezza_door01b' type='normal_type'>
+	<pos xyz='173133,-76024,-4884' range='173059,-76456,-5166;173219,-76456,-5166;173215,-75593,-5166;173055,-75593,-5166'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150052' name='Godad_fritezza_door01c' type='normal_type'>
+	<pos xyz='173402,-76721,-4884' range='173649,-77061,-5166;173713,-76935,-5166;173198,-76410,-5166;173050,-76483,-5166'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150054' name='Godad_fritezza_door01d' type='normal_type'>
+	<pos xyz='174792,-76730,-4884' range='175130,-76444,-5166;175023,-76423,-5166;174474,-76957,-5166;174532,-77073,-5166'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150053' name='Godad_fritezza_door01e' type='normal_type'>
+	<pos xyz='174100,-77007,-4884' range='174532,-77061,-5166;174485,-76948,-5166;173726,-76941,-5166;173672,-77063,-5166'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150055' name='Godad_fritezza_door01f' type='normal_type'>
+	<pos xyz='175076,-76037,-4884' range='175135,-75608,-5166;175011,-75654,-5166;175019,-76423,-5166;175133,-76464,-5166'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150057' name='Godad_fritezza_door01g' type='normal_type'>
+	<pos xyz='174108,-75056,-4884' range='173673,-74995,-5166;173718,-75120,-5166;174494,-75126,-5166;174548,-74988,-5166'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150056' name='Godad_fritezza_door01h' type='normal_type'>
+	<pos xyz='174805,-75336,-4884' range='174538,-74997,-5166;174491,-75109,-5166;175031,-75655,-5166;175148,-75602,-5166'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150042' name='Godad_Catacomb_door02b' type='normal_type'>
+	<pos xyz='174064,-77591,-4968' range='173886,-77648,-5160;174242,-77648,-5160;174242,-77586,-5160;173885,-77585,-5160'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150043' name='Godad_Catacomb_door02a' type='normal_type'>
+	<pos xyz='174063,-80203,-4968' range='173885,-80260,-5160;174241,-80260,-5160;174241,-80198,-5160;173884,-80197,-5160'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150045' name='Godad_Catacomb_door02c' type='normal_type'>
+	<pos xyz='174063,-83355,-4961' range='173885,-83412,-5153;174241,-83412,-5153;174241,-83350,-5153;173884,-83349,-5153'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150068' name='Godad_fritezza_door02a' type='normal_type'>
+	<pos xyz='173376,-81776,-4877' range='173308,-82196,-5161;173449,-82190,-5161;173443,-81387,-5161;173311,-81386,-5161'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150069' name='Godad_fritezza_door02_1a' type='normal_type'>
+	<pos xyz='173501,-82497,-4891' range='173588,-82774,-5158;173701,-82734,-5158;173446,-82170,-5158;173307,-82178,-5158'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150064' name='Godad_fritezza_door02_1b' type='normal_type'>
+	<pos xyz='174641,-81073,-4891' range='174717,-81443,-5158;174847,-81381,-5158;174560,-80769,-5158;174442,-80824,-5158'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150062' name='Godad_fritezza_door02_1c' type='normal_type'>
+	<pos xyz='174631,-82513,-4891' range='174423,-82767,-5157;174845,-82200,-5157;174543,-82819,-5157;174704,-82143,-5157'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150067' name='Godad_fritezza_door02_1d' type='normal_type'>
+	<pos xyz='173511,-81056,-4891' range='173319,-81357,-5168;173433,-81421,-5168;173709,-80801,-5168;173586,-80766,-5168'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150070' name='Godad_fritezza_door02_2a' type='normal_type'>
+	<pos xyz='173634,-83018,-4891' range='173574,-83268,-5160;173687,-83264,-5160;173692,-82763,-5160;173578,-82767,-5160'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150065' name='Godad_fritezza_door02_2b' type='normal_type'>
+	<pos xyz='174508,-80552,-4891' range='174453,-80810,-5160;174569,-80821,-5160;174568,-80307,-5160;174450,-80304,-5160'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150061' name='Godad_fritezza_door02_2c' type='normal_type'>
+	<pos xyz='174507,-83018,-4891' range='174447,-83266,-5160;174563,-83261,-5160;174566,-82757,-5160;174449,-82752,-5160'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150066' name='Godad_fritezza_door02_2d' type='normal_type'>
+	<pos xyz='173635,-80552,-4891' range='173581,-80806,-5160;173690,-80807,-5160;173691,-80297,-5160;173582,-80297,-5160'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150063' name='Godad_fritezza_door02b' type='normal_type'>
+	<pos xyz='174766,-81794,-4877' range='174701,-82175,-5159;174831,-82220,-5159;174833,-81379,-5159;174709,-81433,-5159'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='25150046' name='Godad_fritezzaroomDoor' type='normal_type'>
+	<pos xyz='174237,-86037,-4923' range='173998,-86081,-5153;174475,-86080,-5153;174475,-85991,-5153;173998,-85991,-5153'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='18200004' name='fortress_1820_indoor_001' type='normal_type'>
+	<pos xyz='-51513,90260,-2851' range='-51504,90349,-2851;-51521,90252,-2851;-51504,90252,-2851;-51521,90349,-2851'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200005' name='fortress_1820_indoor_002' type='normal_type'>
+	<pos xyz='-51513,90416,-2851' range='-51521,90327,-2851;-51521,90427,-2851;-51503,90426,-2851;-51504,90327,-2851'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200007' name='fortress_1820_indoor_003' type='normal_type'>
+	<pos xyz='-55123,91933,-2819' range='-55131,91845,-2819;-55129,91943,-2819;-55114,91944,-2819;-55115,91846,-2819'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200008' name='fortress_1820_indoor_004' type='normal_type'>
+	<pos xyz='-51147,91962,-2811' range='-51221,92020,-2811;-51143,91946,-2811;-51131,91961,-2811;-51209,92036,-2811'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200009' name='fortress_1820_indoor_005' type='normal_type'>
+	<pos xyz='-51257,92072,-2811' range='-51185,92013,-2811;-51273,92075,-2811;-51259,92089,-2811;-51198,91997,-2811'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200006' name='fortress_1820_indoor_006' type='normal_type'>
+	<pos xyz='-55123,91777,-2819' range='-55118,91766,-2819;-55114,91865,-2819;-55131,91865,-2819;-55130,91765,-2819'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200012' name='fortress_1820_indoor_007' type='normal_type'>
+	<pos xyz='-53155,91822,-2849' range='-53241,91813,-2849;-53145,91813,-2849;-53144,91832,-2849;-53241,91828,-2849'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200011' name='fortress_1820_indoor_008' type='normal_type'>
+	<pos xyz='-53311,91822,-2849' range='-53225,91813,-2849;-53310,91815,-2849;-53310,91830,-2849;-53226,91829,-2849'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200003' name='fortress_1820_indoor_009' type='normal_type'>
+	<pos xyz='-53155,90621,-2849' range='-53241,90612,-2849;-53145,90612,-2849;-53144,90631,-2849;-53241,90627,-2849'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200002' name='fortress_1820_indoor_010' type='normal_type'>
+	<pos xyz='-53311,90621,-2849' range='-53225,90612,-2849;-53310,90614,-2849;-53310,90629,-2849;-53226,90628,-2849'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18200001' name='fortress_1820_wall_door_001' type='wall_type'>
+	<pos xyz='-54247,89585,-2870' range='-54367,89535,-2870;-54139,89542,-2870;-54139,89639,-2870;-54367,89640,-2870'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='18200010' name='fortress_1820_wall_door_002' type='wall_type'>
+	<pos xyz='-52256,92985,-2869' range='-52376,92935,-2869;-52148,92942,-2869;-52148,93039,-2869;-52376,93040,-2869'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+  <door id='18220007' name='fortress_1822_indoor_001' type='normal_type'>
+	<pos xyz='-52772,158023,-2053' range='-52786,157941,-2053;-52762,158021,-2053;-52780,158027,-2053;-52807,157946,-2053'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18220006' name='fortress_1822_indoor_002' type='normal_type'>
+	<pos xyz='-52817,157874,-2053' range='-52783,157953,-2053;-52810,157868,-2053;-52828,157875,-2053;-52803,157958,-2053'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18220008' name='fortress_1822_wall_door_001' type='wall_type'>
+	<pos xyz='-54738,157112,-2102' range='-54729,157015,-2102;-54799,157036,-2102;-54745,157207,-2102;-54676,157186,-2102'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='18220001' name='fortress_1822_wall_door_002' type='wall_type'>
+	<pos xyz='-50796,155913,-2102' range='-50800,155822,-2102;-50749,155983,-2102;-50792,155997,-2102;-50844,155836,-2102'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='18220002' name='fortress_1822_indoor_003' type='normal_type'>
+	<pos xyz='-52209,156244,-2081' range='-52176,156322,-2081;-52203,156239,-2081;-52220,156245,-2081;-52194,156327,-2081'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18220003' name='fortress_1822_indoor_004' type='normal_type'>
+	<pos xyz='-52164,156393,-2081' range='-52179,156310,-2081;-52149,156391,-2081;-52175,156401,-2081;-52197,156316,-2081'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18220004' name='fortress_1822_indoor_005' type='normal_type'>
+	<pos xyz='-53358,156593,-2081' range='-53327,156671,-2081;-53353,156588,-2081;-53367,156593,-2081;-53341,156674,-2081'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='18220005' name='fortress_1822_indoor_006' type='normal_type'>
+	<pos xyz='-53313,156742,-2081' range='-53331,156660,-2081;-53302,156740,-2081;-53319,156746,-2081;-53345,156664,-2081'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='19240009' name='fortress_1924_indoor_001' type='normal_type'>
+	<pos xyz='-22105,219879,-3264' range='-22114,219800,-3264;-22114,219879,-3264;-22097,219879,-3264;-22097,219800,-3264'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240008' name='fortress_1924_indoor_002' type='normal_type'>
+	<pos xyz='-22105,219723,-3264' range='-22114,219802,-3264;-22115,219723,-3264;-22096,219723,-3264;-22097,219802,-3264'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240001' name='fortress_1924_indoor_003' type='normal_type'>
+	<pos xyz='-22326,218064,-3237' range='-22337,218143,-3237;-22338,218063,-3237;-22314,218064,-3237;-22315,218143,-3237'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240002' name='fortress_1924_indoor_004' type='normal_type'>
+	<pos xyz='-22326,218220,-3237' range='-22337,218138,-3237;-22338,218219,-3237;-22313,218220,-3237;-22315,218138,-3237'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240012' name='fortress_1924_indoor_005' type='normal_type'>
+	<pos xyz='-23211,221739,-3227' range='-23221,221660,-3227;-23220,221739,-3227;-23203,221739,-3227;-23202,221660,-3227'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240010' name='fortress_1924_wall_door_001' type='wall_type'>
+	<pos xyz='-20241,219888,-3288' range='-20250,219967,-3289;-20252,219808,-3289;-20232,219809,-3289;-20230,219968,-3289'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='19240005' name='fortress_1924_wall_door_002' type='wall_type'>
+	<pos xyz='-25126,219880,-3291' range='-25137,219960,-3292;-25137,219801,-3292;-25116,219801,-3292;-25115,219960,-3292'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='19240004' name='fortress_1924_indoor_006' type='normal_type'>
+	<pos xyz='-23550,218940,-3263' range='-23558,218852,-3263;-23556,218950,-3263;-23541,218951,-3263;-23542,218852,-3263'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240003' name='fortress_1924_indoor_007' type='normal_type'>
+	<pos xyz='-23550,218784,-3263' range='-23545,218773,-3263;-23541,218872,-3263;-23558,218872,-3263;-23557,218772,-3263'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240007' name='fortress_1924_indoor_008' type='normal_type'>
+	<pos xyz='-23306,219879,-3264' range='-23314,219800,-3264;-23313,219879,-3264;-23297,219879,-3264;-23297,219800,-3264'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240006' name='fortress_1924_indoor_009' type='normal_type'>
+	<pos xyz='-23306,219723,-3264' range='-23314,219802,-3264;-23315,219723,-3264;-23298,219723,-3264;-23297,219802,-3264'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='19240011' name='fortress_1924_indoor_010' type='normal_type'>
+	<pos xyz='-23211,221583,-3227' range='-23221,221662,-3227;-23221,221583,-3227;-23200,221583,-3227;-23201,221662,-3227'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+   <door id='20200008' name='fortress_2020_wall_door_001' type='wall_type'>
+	<pos xyz='10493,96565,-3475' range='10373,96515,-3475;10601,96522,-3475;10601,96619,-3475;10373,96620,-3475'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='20200005' name='fortress_2020_indoor_001' type='normal_type'>
+	<pos xyz='10128,95094,-3426' range='10120,95006,-3426;10122,95104,-3426;10137,95105,-3426;10136,95006,-3426'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20200004' name='fortress_2020_indoor_002' type='normal_type'>
+	<pos xyz='10128,94938,-3426' range='10133,94927,-3426;10137,95026,-3426;10120,95026,-3426;10121,94926,-3426'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20200002' name='fortress_2020_indoor_003' type='normal_type'>
+	<pos xyz='11459,94386,-3454' range='11545,94377,-3454;11460,94379,-3454;11460,94394,-3454;11544,94393,-3454'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20200003' name='fortress_2020_indoor_004' type='normal_type'>
+	<pos xyz='11615,94386,-3454' range='11529,94377,-3454;11625,94377,-3454;11626,94396,-3454;11529,94392,-3454'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20200006' name='fortress_2020_indoor_005' type='normal_type'>
+	<pos xyz='11459,95587,-3454' range='11545,95578,-3454;11460,95580,-3454;11460,95595,-3454;11544,95594,-3454'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20200007' name='fortress_2020_indoor_006' type='normal_type'>
+	<pos xyz='11615,95587,-3454' range='11529,95578,-3454;11625,95578,-3454;11626,95597,-3454;11529,95593,-3454'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20200001' name='fortress_2020_wall_door_002' type='wall_type'>
+	<pos xyz='12503,93513,-3475' range='12383,93463,-3475;12611,93470,-3475;12611,93567,-3475;12383,93568,-3475'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+  <door id='20220023' name='fortress_2022_indoor_001' type='normal_type'>
+	<pos xyz='5012,149830,-2917' range='5019,149751,-2917;5019,149830,-2917;5006,149830,-2917;5005,149751,-2917'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220022' name='fortress_2022_indoor_002' type='normal_type'>
+	<pos xyz='5012,149674,-2917' range='5019,149753,-2917;5019,149675,-2917;5004,149674,-2917;5005,149753,-2917'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220026' name='fortress_2022_wall_door_001' type='wall_type'>
+	<pos xyz='7439,150734,-2938' range='7455,150655,-2938;7455,150814,-2938;7424,150813,-2938;7421,150655,-2938'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='20220018' name='fortress_2022_indoor_003' type='normal_type'>
+	<pos xyz='4895,147966,-2918' range='4816,147956,-2918;4895,147954,-2918;4896,147976,-2918;4816,147976,-2918'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220017' name='fortress_2022_indoor_004' type='normal_type'>
+	<pos xyz='4739,147966,-2918' range='4818,147956,-2918;4739,147957,-2918;4739,147977,-2918;4819,147976,-2918'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220020' name='fortress_2022_indoor_005' type='normal_type'>
+	<pos xyz='6381,148325,-2889' range='6389,148245,-2889;6391,148325,-2889;6374,148325,-2889;6373,148246,-2889'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220028' name='fortress_2022_indoor_006' type='normal_type'>
+	<pos xyz='5292,151876,-2879' range='5213,151884,-2879;5292,151868,-2879;5292,151884,-2879;5212,151868,-2879'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220019' name='fortress_2022_indoor_007' type='normal_type'>
+	<pos xyz='6381,148169,-2889' range='6389,148248,-2889;6389,148170,-2889;6372,148170,-2889;6373,148248,-2889'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220027' name='fortress_2022_indoor_008' type='normal_type'>
+	<pos xyz='5136,151876,-2879' range='5216,151868,-2879;5137,151868,-2879;5136,151885,-2879;5216,151884,-2879'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220025' name='fortress_2022_indoor_009' type='normal_type'>
+	<pos xyz='6213,149830,-2917' range='6221,149751,-2917;6221,149830,-2917;6206,149830,-2917;6207,149751,-2917'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20220021' name='fortress_2022_wall_door_002' type='wall_type'>
+	<pos xyz='4016,148732,-2938' range='4031,148653,-2938;4030,148811,-2938;4002,148811,-2938;4001,148653,-2938'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='20220024' name='fortress_2022_indoor_010' type='normal_type'>
+	<pos xyz='6213,149674,-2917' range='6221,149753,-2917;6221,149674,-2917;6206,149674,-2917;6207,149753,-2917'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='20230006' name='fortress_2023_indoor_001' type='normal_type'>
+	<pos xyz='17540,187015,-2923' range='17603,186960,-2923;17529,187004,-2923;17542,187029,-2923;17618,186980,-2923'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20230007' name='fortress_2023_indoor_002' type='normal_type'>
+	<pos xyz='17670,186928,-2923' range='17594,186964,-2923;17667,186917,-2923;17681,186938,-2923;17610,186985,-2923'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20230010' name='fortress_2023_wall_door_001' type='wall_type'>
+	<pos xyz='17826,189764,-2972' range='17722,189772,-2972;17878,189671,-2972;17937,189755,-2972;17780,189860,-2972'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='20230003' name='fortress_2023_wall_door_002' type='wall_type'>
+	<pos xyz='15546,186351,-2972' range='15444,186361,-2972;15599,186252,-2972;15652,186327,-2972;15489,186435,-2972'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='20230004' name='fortress_2023_indoor_003' type='normal_type'>
+	<pos xyz='16181,187607,-2952' range='16245,187550,-2952;16172,187598,-2952;16184,187620,-2952;16259,187569,-2952'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20230005' name='fortress_2023_indoor_004' type='normal_type'>
+	<pos xyz='16311,187520,-2952' range='16235,187556,-2952;16307,187509,-2952;16321,187528,-2952;16249,187577,-2952'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20230008' name='fortress_2023_indoor_005' type='normal_type'>
+	<pos xyz='16848,188605,-2952' range='16911,188548,-2952;16838,188595,-2952;16852,188619,-2952;16926,188568,-2952'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='20230009' name='fortress_2023_indoor_006' type='normal_type'>
+	<pos xyz='16978,188519,-2952' range='16903,188554,-2952;16975,188508,-2952;16987,188525,-2952;16917,188574,-2952'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='21220004' name='fortress_2122_indoor_001' type='normal_type'>
+	<pos xyz='61655,138596,-1754' range='61733,138566,-1754;61650,138582,-1754;61655,138608,-1754;61738,138592,-1754'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='21220001' name='fortress_2122_wall_door_001' type='wall_type'>
+	<pos xyz='58984,138135,-1803' range='58888,138108,-1803;59061,138073,-1803;59082,138160,-1803;58907,138199,-1803'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='21220008' name='fortress_2122_wall_door_002' type='wall_type'>
+	<pos xyz='61544,140749,-1803' range='61449,140715,-1803;61618,140681,-1803;61644,140780,-1803;61469,140815,-1803'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='21220002' name='fortress_2122_indoor_002' type='normal_type'>
+	<pos xyz='60086,138861,-1782' range='60172,138851,-1782;60087,138854,-1782;60087,138869,-1782;60171,138868,-1782'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='21220003' name='fortress_2122_indoor_003' type='normal_type'>
+	<pos xyz='60239,138830,-1782' range='60153,138821,-1782;60250,138821,-1782;60250,138840,-1782;60153,138836,-1782'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='21220006' name='fortress_2122_indoor_004' type='normal_type'>
+	<pos xyz='60321,140039,-1782' range='60399,140008,-1782;60315,140025,-1782;60321,140052,-1782;60406,140035,-1782'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='21220007' name='fortress_2122_indoor_005' type='normal_type'>
+	<pos xyz='60474,140008,-1782' range='60390,140010,-1782;60472,139996,-1782;60479,140020,-1782;60396,140037,-1782'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='21220005' name='fortress_2122_indoor_006' type='normal_type'>
+	<pos xyz='61809,138565,-1754' range='61724,138568,-1754;61809,138550,-1754;61816,138578,-1754;61730,138593,-1754'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='22150004' name='fortress_2215_indoor_001' type='normal_type'>
+	<pos xyz='70848,-94272,-1428' range='70855,-94279,-1428;70889,-94199,-1428;70871,-94190,-1428;70838,-94272,-1428'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22150005' name='fortress_2215_indoor_002' type='normal_type'>
+	<pos xyz='70907,-94128,-1428' range='70866,-94202,-1428;70899,-94120,-1428;70918,-94129,-1428;70884,-94210,-1428'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22150007' name='fortress_2215_indoor_003' type='normal_type'>
+	<pos xyz='72470,-94242,-1456' range='72388,-94216,-1456;72471,-94250,-1456;72476,-94236,-1456;72393,-94202,-1456'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22150006' name='fortress_2215_indoor_004' type='normal_type'>
+	<pos xyz='72326,-94182,-1456' range='72400,-94222,-1456;72321,-94188,-1456;72326,-94174,-1456;72406,-94207,-1456'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22150003' name='fortress_2215_indoor_005' type='normal_type'>
+	<pos xyz='72010,-95351,-1456' range='71929,-95326,-1456;72011,-95361,-1456;72018,-95345,-1456;71934,-95312,-1456'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22150002' name='fortress_2215_indoor_006' type='normal_type'>
+	<pos xyz='71866,-95291,-1456' range='71942,-95331,-1456;71861,-95299,-1456;71867,-95283,-1456;71947,-95318,-1456'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22150001' name='fortress_2215_wall_door_001' type='wall_type'>
+	<pos xyz='72491,-96493,-1478' range='72376,-96500,-1478;72568,-96584,-1478;72609,-96485,-1478;72416,-96406,-1478'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='22150008' name='fortress_2215_wall_door_002' type='wall_type'>
+	<pos xyz='71795,-92905,-1477' range='71680,-92912,-1477;71872,-92996,-1477;71913,-92897,-1477;71720,-92818,-1477'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+  <door id='22160004' name='fortress_2216_indoor_001' type='normal_type'>
+	<pos xyz='69532,-61953,-2814' range='69608,-61995,-2814;69529,-61961,-2814;69535,-61945,-2814;69615,-61978,-2814'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160005' name='fortress_2216_indoor_002' type='normal_type'>
+	<pos xyz='69676,-62013,-2814' range='69594,-61990,-2814;69673,-62024,-2814;69680,-62003,-2814;69601,-61973,-2814'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160008' name='fortress_2216_indoor_003' type='normal_type'>
+	<pos xyz='69992,-60844,-2814' range='70067,-60884,-2814;69987,-60852,-2814;69994,-60835,-2814;70072,-60869,-2814'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160009' name='fortress_2216_indoor_004' type='normal_type'>
+	<pos xyz='70136,-60904,-2814' range='70054,-60878,-2814;70133,-60912,-2814;70140,-60894,-2814;70061,-60864,-2814'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160007' name='fortress_2216_indoor_005' type='normal_type'>
+	<pos xyz='67994,-61214,-2776' range='67912,-61188,-2776;67992,-61221,-2776;67997,-61207,-2776;67918,-61175,-2776'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160006' name='fortress_2216_indoor_006' type='normal_type'>
+	<pos xyz='67850,-61154,-2776' range='67926,-61193,-2776;67848,-61163,-2776;67853,-61146,-2776;67931,-61181,-2776'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160011' name='fortress_2216_indoor_007' type='normal_type'>
+	<pos xyz='71584,-61743,-2786' range='71502,-61717,-2786;71582,-61751,-2786;71588,-61733,-2786;71510,-61704,-2786'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160010' name='fortress_2216_indoor_008' type='normal_type'>
+	<pos xyz='71440,-61683,-2786' range='71516,-61723,-2786;71436,-61691,-2786;71443,-61676,-2786;71521,-61709,-2786'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160003' name='fortress_2216_indoor_009' type='normal_type'>
+	<pos xyz='68703,-62462,-2814' range='68663,-62537,-2814;68696,-62454,-2814;68712,-62461,-2814;68678,-62543,-2814'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160002' name='fortress_2216_indoor_010' type='normal_type'>
+	<pos xyz='68644,-62606,-2814' range='68649,-62614,-2814;68684,-62530,-2814;68668,-62524,-2814;68634,-62607,-2814'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22160012' name='fortress_2216_wall_door_001' type='wall_type'>
+	<pos xyz='70698,-59119,-2834' range='70583,-59126,-2834;70775,-59210,-2834;70816,-59111,-2834;70623,-59032,-2834'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='22160001' name='fortress_2216_wall_door_002' type='wall_type'>
+	<pos xyz='68834,-63635,-2834' range='68719,-63642,-2834;68911,-63726,-2834;68952,-63627,-2834;68759,-63548,-2834'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+   <door id='22180001' name='fortress_2218_wall_door_001' type='wall_type'>
+	<pos xyz='74199,2788,-3093' range='74150,2726,-3093;74273,2827,-3093;74255,2850,-3093;74131,2748,-3093'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='22180006' name='fortress_2218_indoor_001' type='normal_type'>
+	<pos xyz='74141,4890,-3044' range='74208,4934,-3044;74147,4884,-3044;74137,4896,-3044;74198,4947,-3044'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22180002' name='fortress_2218_indoor_002' type='normal_type'>
+	<pos xyz='73181,3762,-3073' range='73246,3807,-3073;73185,3757,-3073;73177,3767,-3073;73238,3818,-3073'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22180003' name='fortress_2218_indoor_003' type='normal_type'>
+	<pos xyz='73302,3861,-3073' range='73245,3806,-3073;73307,3855,-3073;73296,3867,-3073;73236,3816,-3073'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22180004' name='fortress_2218_indoor_004' type='normal_type'>
+	<pos xyz='72419,4690,-3073' range='72485,4735,-3073;72423,4685,-3073;72414,4696,-3073;72476,4746,-3073'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22180005' name='fortress_2218_indoor_005' type='normal_type'>
+	<pos xyz='72540,4789,-3073' range='72484,4734,-3073;72545,4783,-3073;72534,4796,-3073;72474,4745,-3073'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22180008' name='fortress_2218_wall_door_002' type='wall_type'>
+	<pos xyz='71596,5960,-3093' range='71548,5898,-3093;71670,5999,-3093;71652,6022,-3093;71528,5920,-3093'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='22180007' name='fortress_2218_indoor_006' type='normal_type'>
+	<pos xyz='74263,4990,-3044' range='74207,4933,-3044;74269,4981,-3044;74257,4997,-3044;74197,4946,-3044'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='22200007' name='fortress_2220_indoor_001' type='normal_type'>
+	<pos xyz='79805,91263,-2912' range='79759,91328,-2912;79795,91258,-2912;79816,91267,-2912;79777,91337,-2912'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200006' name='fortress_2220_indoor_002' type='normal_type'>
+	<pos xyz='79731,91401,-2912' range='79760,91326,-2912;79723,91397,-2912;79740,91405,-2912;79778,91335,-2912'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200005' name='fortress_2220_indoor_003' type='normal_type'>
+	<pos xyz='78746,90697,-2912' range='78703,90764,-2912;78738,90694,-2912;78754,90701,-2912;78713,90769,-2912'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200004' name='fortress_2220_indoor_004' type='normal_type'>
+	<pos xyz='78672,90834,-2912' range='78704,90762,-2912;78666,90832,-2912;78678,90838,-2912;78715,90768,-2912'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200010' name='fortress_2220_indoor_005' type='normal_type'>
+	<pos xyz='79034,92957,-2916' range='79041,92947,-2916;79110,92985,-2916;79099,93006,-2916;79029,92968,-2916'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200011' name='fortress_2220_indoor_006' type='normal_type'>
+	<pos xyz='79172,93030,-2916' range='79096,93005,-2916;79167,93043,-2916;79180,93016,-2916;79106,92984,-2916'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200001' name='fortress_2220_wall_door_001' type='wall_type'>
+	<pos xyz='78090,89321,-2934' range='78027,89378,-2935;78105,89241,-2935;78153,89266,-2935;78078,89406,-2935'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='22200012' name='fortress_2220_wall_door_002' type='wall_type'>
+	<pos xyz='80167,92700,-2934' range='80092,92752,-2935;80168,92614,-2935;80234,92646,-2935;80165,92787,-2935'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='22200009' name='fortress_2220_indoor_007' type='normal_type'>
+	<pos xyz='77888,91945,-2887' range='77837,92009,-2887;77875,91938,-2887;77900,91951,-2887;77863,92021,-2887'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200008' name='fortress_2220_indoor_008' type='normal_type'>
+	<pos xyz='77815,92083,-2887' range='77840,92005,-2887;77801,92078,-2887;77827,92090,-2887;77865,92018,-2887'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200003' name='fortress_2220_indoor_009' type='normal_type'>
+	<pos xyz='80660,89400,-2877' range='80584,89372,-2877;80654,89413,-2877;80668,89387,-2877;80595,89351,-2877'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22200002' name='fortress_2220_indoor_010' type='normal_type'>
+	<pos xyz='80522,89327,-2877' range='80600,89353,-2877;80517,89338,-2877;80529,89314,-2877;80588,89373,-2877'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='22230008' name='fortress_2223_wall_door_001' type='wall_type'>
+	<pos xyz='73037,187834,-2630' range='72997,187750,-2630;73130,187840,-2630;73081,187924,-2630;72945,187829,-2630'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='22230001' name='fortress_2223_wall_door_002' type='wall_type'>
+	<pos xyz='73057,184177,-2630' range='73011,184083,-2630;73167,184188,-2630;73110,184271,-2630;72951,184169,-2630'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='22230004' name='fortress_2223_indoor_001' type='normal_type'>
+	<pos xyz='73382,185443,-2609' range='73460,185478,-2609;73389,185428,-2609;73371,185453,-2609;73442,185503,-2609'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22230005' name='fortress_2223_indoor_002' type='normal_type'>
+	<pos xyz='73512,185530,-2609' range='73453,185472,-2609;73522,185519,-2609;73505,185543,-2609;73433,185498,-2609'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22230006' name='fortress_2223_indoor_003' type='normal_type'>
+	<pos xyz='72715,186442,-2609' range='72789,186477,-2609;72722,186432,-2609;72709,186450,-2609;72777,186497,-2609'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22230007' name='fortress_2223_indoor_004' type='normal_type'>
+	<pos xyz='72845,186528,-2609' range='72784,186473,-2609;72852,186520,-2609;72839,186537,-2609;72772,186493,-2609'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22230002' name='fortress_2223_indoor_005' type='normal_type'>
+	<pos xyz='71908,185170,-2581' range='71945,185091,-2581;71896,185169,-2581;71917,185181,-2581;71965,185106,-2581'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='22230003' name='fortress_2223_indoor_006' type='normal_type'>
+	<pos xyz='71995,185040,-2581' range='72006,185045,-2581;71958,185115,-2581;71938,185100,-2581;71988,185032,-2581'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='23130001' name='fortress_2313_wall_door01_snow_001' type='wall_type'>
+	<pos xyz='107495,-140524,-3009' range='107513,-140617,-3009;107565,-140464,-3009;107477,-140435,-3009;107427,-140591,-3009'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23130003' name='fortress_2313_indoorsnw_001' type='normal_type'>
+	<pos xyz='108932,-140975,-2984' range='108916,-141055,-2984;108942,-140979,-2984;108921,-140971,-2984;108900,-141050,-2984'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23130002' name='fortress_2313_indoorsnw_002' type='normal_type'>
+	<pos xyz='108887,-141124,-2984' range='108918,-141051,-2984;108894,-141127,-2984;108879,-141122,-2984;108902,-141046,-2984'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23130008' name='fortress_2313_indoorsnw_003' type='normal_type'>
+	<pos xyz='110255,-139851,-2959' range='110242,-139930,-2959;110266,-139854,-2959;110245,-139846,-2959;110224,-139926,-2959'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23130007' name='fortress_2313_indoorsnw_004' type='normal_type'>
+	<pos xyz='110210,-140000,-2959' range='110243,-139926,-2959;110219,-140004,-2959;110201,-139997,-2959;110226,-139920,-2959'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23130005' name='fortress_2313_indoorsnw_006' type='normal_type'>
+	<pos xyz='110082,-141324,-2984' range='110069,-141403,-2984;110093,-141327,-2984;110072,-141319,-2984;110051,-141399,-2984'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23130004' name='fortress_2313_indoorsnw_007' type='normal_type'>
+	<pos xyz='110037,-141473,-2984' range='110070,-141399,-2984;110046,-141477,-2984;110028,-141470,-2984;110053,-141393,-2984'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23130006' name='fortress_2313_wall_door01_snow_002' type='wall_type'>
+	<pos xyz='111423,-141714,-3009' range='111441,-141807,-3009;111493,-141654,-3009;111405,-141625,-3009;111355,-141781,-3009'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+  <door id='23140001' name='frozen_barrier_2314_spear_001' type='normal_type'>
+	<pos xyz='113932,-126022,-3472' range='113916,-126163,-3663;114018,-126136,-3664;113967,-125900,-3665;113857,-125928,-3663'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23140002' name='frozen_barrier_2314_spear_002' type='normal_type'>
+	<pos xyz='115292,-125745,-3472' range='115272,-125871,-3664;115377,-125840,-3664;115319,-125612,-3663;115218,-125637,-3663'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+  <door id='23160002' name='fortress_2316_indoor_001' type='normal_type'>
+	<pos xyz='100609,-56727,-645' range='100698,-56737,-645;100609,-56737,-645;100609,-56716,-645;100698,-56718,-645'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23160006' name='fortress_2316_indoor_002' type='normal_type'>
+	<pos xyz='101317,-55397,-673' range='101328,-55307,-673;101323,-55400,-673;101311,-55399,-673;101306,-55307,-673'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23160007' name='fortress_2316_indoor_003' type='normal_type'>
+	<pos xyz='101317,-55241,-673' range='101329,-55329,-673;101328,-55236,-673;101305,-55235,-673;101306,-55329,-673'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23160004' name='fortress_2316_indoor_004' type='normal_type'>
+	<pos xyz='100116,-55397,-673' range='100128,-55309,-673;100124,-55404,-673;100109,-55403,-673;100107,-55309,-673'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23160005' name='fortress_2316_indoor_005' type='normal_type'>
+	<pos xyz='100116,-55241,-673' range='100128,-55330,-673;100127,-55234,-673;100107,-55235,-673;100107,-55330,-673'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23160001' name='fortress_2316_wall_door_001' type='wall_type'>
+	<pos xyz='99133,-56363,-693' range='99088,-56267,-693;99087,-56468,-693;99173,-56469,-693;99179,-56268,-693'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23160008' name='fortress_2316_wall_door_002' type='wall_type'>
+	<pos xyz='102190,-54353,-695' range='102145,-54257,-695;102144,-54458,-695;102230,-54459,-695;102236,-54258,-695'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23160003' name='fortress_2316_indoor_006' type='normal_type'>
+	<pos xyz='100765,-56727,-645' range='100763,-56719,-645;100678,-56718,-645;100678,-56737,-645;100764,-56736,-645'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='23170012' name='fortress_2317_wall_door_001' type='wall_type'>
+	<pos xyz='110348,-13549,-1047' range='110232,-13599,-1047;110459,-13592,-1047;110459,-13495,-1047;110231,-13494,-1047'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23170003' name='fortress_2317_indoor_001' type='normal_type'>
+	<pos xyz='109949,-15889,-995' range='109852,-15901,-995;109958,-15900,-995;109958,-15875,-995;109852,-15875,-995'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23170009' name='fortress_2317_indoor_002' type='normal_type'>
+	<pos xyz='111446,-14549,-1023' range='111360,-14558,-1023;111456,-14558,-1023;111457,-14539,-1023;111360,-14543,-1023'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23170008' name='fortress_2317_indoor_003' type='normal_type'>
+	<pos xyz='111290,-14549,-1023' range='111376,-14558,-1023;111291,-14556,-1023;111291,-14541,-1023;111375,-14542,-1023'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23170005' name='fortress_2317_indoor_004' type='normal_type'>
+	<pos xyz='111446,-15750,-1023' range='111360,-15759,-1023;111456,-15759,-1023;111457,-15740,-1023;111360,-15744,-1023'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23170004' name='fortress_2317_indoor_005' type='normal_type'>
+	<pos xyz='111290,-15750,-1023' range='111376,-15759,-1023;111291,-15757,-1023;111291,-15742,-1023;111375,-15743,-1023'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='23170001' name='fortress_2317_wall_door_002' type='wall_type'>
+	<pos xyz='112349,-16973,-1045' range='112232,-17023,-1045;112460,-17016,-1045;112460,-16919,-1045;112232,-16918,-1045'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+  <door id='23170006' name='fortress_2317_indoor_006' type='normal_type'>
+	<pos xyz='109582,-14431,-1024' range='109587,-14442,-1024;109591,-14343,-1024;109574,-14343,-1024;109575,-14443,-1024'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23170007' name='fortress_2317_indoor_007' type='normal_type'>
+	<pos xyz='109582,-14275,-1024' range='109574,-14363,-1024;109576,-14265,-1024;109591,-14264,-1024;109590,-14362,-1024'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23170010' name='fortress_2317_indoor_008' type='normal_type'>
+	<pos xyz='113492,-14829,-987' range='113500,-14734,-987;113484,-14842,-987;113500,-14842,-987;113484,-14735,-987'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23170002' name='fortress_2317_indoor_009' type='normal_type'>
+	<pos xyz='109793,-15889,-995' range='109884,-15901,-995;109787,-15900,-995;109786,-15878,-995;109884,-15875,-995'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23170011' name='fortress_2317_indoor_010' type='normal_type'>
+	<pos xyz='113492,-14673,-987' range='113483,-14761,-987;113484,-14658,-987;113501,-14659,-987;113502,-14761,-987'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='23200010' name='fortress_2320_indoor_001' type='normal_type'>
+	<pos xyz='127222,95984,-2130' range='127294,95925,-2130;127206,95987,-2130;127220,96001,-2130;127281,95909,-2130'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200011' name='fortress_2320_indoor_002' type='normal_type'>
+	<pos xyz='127332,95874,-2130' range='127258,95932,-2130;127336,95858,-2130;127348,95873,-2130;127270,95948,-2130'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200004' name='fortress_2320_indoor_003' type='normal_type'>
+	<pos xyz='126966,94172,-2170' range='126975,94261,-2170;126958,94164,-2170;126975,94164,-2170;126958,94261,-2170'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200005' name='fortress_2320_indoor_004' type='normal_type'>
+	<pos xyz='126966,94328,-2170' range='126958,94239,-2170;126958,94339,-2170;126976,94338,-2170;126975,94239,-2170'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200007' name='fortress_2320_indoor_005' type='normal_type'>
+	<pos xyz='123356,95845,-2138' range='123348,95757,-2138;123350,95855,-2138;123365,95856,-2138;123364,95758,-2138'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200001' name='fortress_2320_wall_door_001' type='wall_type'>
+	<pos xyz='124213,93493,-2191' range='124093,93443,-2191;124321,93450,-2191;124321,93547,-2191;124093,93548,-2191'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23200012' name='fortress_2320_wall_door_002' type='wall_type'>
+	<pos xyz='126193,96897,-2190' range='126073,96847,-2190;126301,96854,-2190;126301,96951,-2190;126073,96952,-2190'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23200009' name='fortress_2320_indoor_006' type='normal_type'>
+	<pos xyz='125324,95734,-2168' range='125238,95725,-2168;125334,95725,-2168;125335,95744,-2168;125238,95740,-2168'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200008' name='fortress_2320_indoor_007' type='normal_type'>
+	<pos xyz='125168,95734,-2168' range='125254,95725,-2168;125169,95727,-2168;125169,95742,-2168;125253,95741,-2168'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200003' name='fortress_2320_indoor_008' type='normal_type'>
+	<pos xyz='125324,94533,-2168' range='125238,94524,-2168;125334,94524,-2168;125335,94543,-2168;125238,94539,-2168'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200002' name='fortress_2320_indoor_009' type='normal_type'>
+	<pos xyz='125168,94533,-2168' range='125254,94524,-2168;125169,94526,-2168;125169,94541,-2168;125253,94540,-2168'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23200006' name='fortress_2320_indoor_010' type='normal_type'>
+	<pos xyz='123356,95689,-2138' range='123361,95678,-2138;123365,95777,-2138;123348,95777,-2138;123349,95677,-2138'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='23210009' name='fortress_2321_indoor_001' type='normal_type'>
+	<pos xyz='127569,123491,-2571' range='127561,123402,-2571;127561,123502,-2571;127579,123501,-2571;127578,123402,-2571'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210006' name='fortress_2321_indoor_002' type='normal_type'>
+	<pos xyz='126001,122743,-2613' range='126087,122734,-2613;126002,122736,-2613;126002,122751,-2613;126086,122750,-2613'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210007' name='fortress_2321_indoor_003' type='normal_type'>
+	<pos xyz='126157,122743,-2613' range='126071,122734,-2613;126167,122734,-2613;126168,122753,-2613;126071,122749,-2613'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210010' name='fortress_2321_indoor_004' type='normal_type'>
+	<pos xyz='126001,123944,-2613' range='126087,123935,-2613;126002,123937,-2613;126002,123952,-2613;126086,123951,-2613'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210011' name='fortress_2321_indoor_005' type='normal_type'>
+	<pos xyz='126157,123944,-2613' range='126071,123935,-2613;126167,123935,-2613;126168,123954,-2613;126071,123950,-2613'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210002' name='fortress_2321_indoor_006' type='normal_type'>
+	<pos xyz='126760,121727,-2613' range='126769,121816,-2613;126752,121719,-2613;126769,121719,-2613;126752,121816,-2613'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210003' name='fortress_2321_indoor_007' type='normal_type'>
+	<pos xyz='126760,121883,-2613' range='126752,121794,-2613;126752,121894,-2613;126770,121893,-2613;126769,121794,-2613'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210005' name='fortress_2321_indoor_008' type='normal_type'>
+	<pos xyz='124381,122888,-2583' range='124295,122879,-2583;124391,122879,-2583;124392,122898,-2583;124295,122894,-2583'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210004' name='fortress_2321_indoor_009' type='normal_type'>
+	<pos xyz='124224,122888,-2583' range='124310,122879,-2583;124225,122881,-2583;124225,122896,-2583;124309,122895,-2583'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210012' name='fortress_2321_wall_door_001' type='wall_type'>
+	<pos xyz='126066,125563,-2634' range='125946,125513,-2634;126174,125520,-2634;126174,125617,-2634;125946,125618,-2634'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23210008' name='fortress_2321_indoor_010' type='normal_type'>
+	<pos xyz='127569,123335,-2571' range='127578,123424,-2571;127561,123327,-2571;127578,123327,-2571;127561,123424,-2571'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23210001' name='fortress_2321_wall_door_002' type='wall_type'>
+	<pos xyz='126069,120674,-2634' range='125949,120624,-2634;126177,120631,-2634;126177,120728,-2634;125949,120729,-2634'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+  <door id='23240004' name='fortress_2324_indoor_001' type='normal_type'>
+	<pos xyz='119430,203983,-3333' range='119459,203908,-3333;119422,203978,-3333;119438,203987,-3333;119476,203917,-3333'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23240005' name='fortress_2324_indoor_002' type='normal_type'>
+	<pos xyz='119503,203846,-3333' range='119458,203911,-3333;119495,203842,-3333;119513,203850,-3333;119475,203920,-3333'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23240002' name='fortress_2324_indoor_003' type='normal_type'>
+	<pos xyz='117846,204706,-3361' range='117852,204709,-3361;117890,204639,-3361;117877,204632,-3361;117840,204702,-3361'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23240003' name='fortress_2324_indoor_004' type='normal_type'>
+	<pos xyz='117920,204568,-3361' range='117926,204571,-3361;117889,204641,-3361;117875,204634,-3361;117913,204565,-3361'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23240006' name='fortress_2324_indoor_005' type='normal_type'>
+	<pos xyz='118905,205272,-3361' range='118913,205276,-3361;118950,205205,-3361;118935,205198,-3361;118899,205268,-3361'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23240007' name='fortress_2324_indoor_006' type='normal_type'>
+	<pos xyz='118979,205134,-3361' range='118987,205137,-3361;118949,205208,-3361;118934,205200,-3361;118971,205130,-3361'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='23240001' name='fortress_2324_wall_door_001' type='wall_type'>
+	<pos xyz='116614,203941,-3382' range='116564,204005,-3382;116638,203865,-3382;116664,203877,-3382;116586,204017,-3382'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='23240008' name='fortress_2324_wall_door_002' type='wall_type'>
+	<pos xyz='120248,205879,-3382' range='120195,205939,-3382;120273,205801,-3382;120298,205815,-3382;120225,205955,-3382'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  
+   <door id='24150008' name='fortress_2415_wall_door_001' type='wall_type'>
+	<pos xyz='161354,-71814,-2916' range='161350,-71924,-2916;161461,-71769,-2916;161356,-71702,-2916;161250,-71859,-2916'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='24150003' name='fortress_2415_wall_door_002' type='wall_type'>
+	<pos xyz='157297,-69092,-2916' range='157280,-69194,-2916;157390,-69038,-2916;157308,-68988,-2916;157204,-69144,-2916'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='24150001' name='fortress_2415_indoor_001' type='normal_type'>
+	<pos xyz='158498,-72104,-2865' range='158555,-72041,-2865;158507,-72116,-2865;158484,-72100,-2865;158532,-72026,-2865'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150002' name='fortress_2415_indoor_002' type='normal_type'>
+	<pos xyz='158585,-71973,-2865' range='158550,-72051,-2865;158600,-71979,-2865;158572,-71960,-2865;158525,-72035,-2865'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150005' name='fortress_2415_indoor_003' type='normal_type'>
+	<pos xyz='158693,-69910,-2892' range='158657,-69985,-2892;158706,-69914,-2892;158685,-69901,-2892;158639,-69972,-2892'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150004' name='fortress_2415_indoor_004' type='normal_type'>
+	<pos xyz='158607,-70040,-2892' range='158663,-69976,-2892;158615,-70048,-2892;158596,-70035,-2892;158644,-69965,-2892'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150007' name='fortress_2415_indoor_005' type='normal_type'>
+	<pos xyz='159692,-70577,-2892' range='159658,-70654,-2892;159706,-70583,-2892;159683,-70567,-2892;159632,-70638,-2892'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150006' name='fortress_2415_indoor_006' type='normal_type'>
+	<pos xyz='159605,-70707,-2892' range='159662,-70645,-2892;159613,-70716,-2892;159593,-70702,-2892;159638,-70629,-2892'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150010' name='fortress_2415_indoor_007' type='normal_type'>
+	<pos xyz='160872,-70640,-2899' range='160807,-70584,-2899;160867,-70651,-2899;160881,-70629,-2899;160794,-70605,-2899'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150009' name='fortress_2415_indoor_008' type='normal_type'>
+	<pos xyz='160742,-70553,-2899' range='160805,-70612,-2899;160731,-70562,-2899;160745,-70539,-2899;160820,-70592,-2899'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150012' name='fortress_2415_indoor_009' type='normal_type'>
+	<pos xyz='159984,-69074,-2853' range='159919,-69016,-2853;159982,-69086,-2853;159996,-69065,-2853;159908,-69035,-2853'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24150011' name='fortress_2415_indoor_010' type='normal_type'>
+	<pos xyz='159855,-68987,-2853' range='159919,-69043,-2853;159843,-68995,-2853;159856,-68974,-2853;159932,-69024,-2853'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='24190012' name='fortress_2419_indoor_001' type='normal_type'>
+	<pos xyz='156134,56278,-3253' range='156093,56211,-3253;156141,56272,-3253;156127,56283,-3253;156078,56221,-3253'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24190011' name='fortress_2419_indoor_002' type='normal_type'>
+	<pos xyz='156035,56156,-3253' range='156094,56212,-3253;156042,56151,-3253;156029,56162,-3253;156080,56223,-3253'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24190010' name='fortress_2419_wall_door_001' type='wall_type'>
+	<pos xyz='156501,54106,-3303' range='156462,54032,-3304;156564,54156,-3304;156537,54179,-3304;156436,54053,-3304'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='24190005' name='fortress_2419_wall_door_002' type='wall_type'>
+	<pos xyz='153328,56710,-3303' range='153289,56636,-3303;153390,56760,-3303;153364,56781,-3303;153263,56657,-3303'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='24190007' name='fortress_2419_indoor_003' type='normal_type'>
+	<pos xyz='154484,55745,-3282' range='154441,55678,-3282;154492,55739,-3282;154477,55750,-3282;154427,55689,-3282'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24190006' name='fortress_2419_indoor_004' type='normal_type'>
+	<pos xyz='154385,55624,-3282' range='154443,55681,-3282;154391,55620,-3282;154379,55630,-3282;154428,55691,-3282'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24190009' name='fortress_2419_indoor_005' type='normal_type'>
+	<pos xyz='155412,54983,-3282' range='155368,54917,-3282;155419,54978,-3282;155406,54988,-3282;155356,54927,-3282'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='24190008' name='fortress_2419_indoor_006' type='normal_type'>
+	<pos xyz='155313,54862,-3282' range='155370,54920,-3282;155319,54858,-3282;155308,54867,-3282;155358,54929,-3282'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='25190001' name='fortress_2519_wall_door_001' type='wall_type'>
+	<pos xyz='189904,37070,-3460' range='189784,37020,-3460;190012,37027,-3460;190012,37124,-3460;189784,37125,-3460'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='25190012' name='fortress_2519_wall_door_002' type='wall_type'>
+	<pos xyz='189913,41955,-3460' range='189793,41905,-3460;190021,41912,-3460;190021,42009,-3460;189793,42010,-3460'/>
+	<stat height='105' hp='543072' pdef='837' mdef='674' open_method='skill'/>
+  </door>
+  <door id='25190004' name='fortress_2519_indoor_001' type='normal_type'>
+	<pos xyz='188076,39284,-3409' range='188162,39275,-3409;188077,39277,-3409;188077,39292,-3409;188161,39291,-3409'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190005' name='fortress_2519_indoor_002' type='normal_type'>
+	<pos xyz='188233,39284,-3409' range='188147,39275,-3409;188243,39275,-3409;188244,39294,-3409;188147,39290,-3409'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190009' name='fortress_2519_indoor_003' type='normal_type'>
+	<pos xyz='190009,40340,-3438' range='189923,40331,-3438;190019,40331,-3438;190020,40350,-3438;189923,40346,-3438'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190008' name='fortress_2519_indoor_004' type='normal_type'>
+	<pos xyz='189853,40340,-3438' range='189939,40331,-3438;189854,40333,-3438;189854,40348,-3438;189938,40347,-3438'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190007' name='fortress_2519_indoor_005' type='normal_type'>
+	<pos xyz='190009,39139,-3438' range='189923,39130,-3438;190019,39130,-3438;190020,39149,-3438;189923,39145,-3438'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190006' name='fortress_2519_indoor_006' type='normal_type'>
+	<pos xyz='189853,39139,-3438' range='189939,39130,-3438;189854,39132,-3438;189854,39147,-3438;189938,39146,-3438'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190002' name='fortress_2519_indoor_007' type='normal_type'>
+	<pos xyz='190612,38123,-3443' range='190621,38212,-3443;190604,38115,-3443;190621,38115,-3443;190604,38212,-3443'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190003' name='fortress_2519_indoor_008' type='normal_type'>
+	<pos xyz='190612,38279,-3443' range='190604,38190,-3443;190604,38290,-3443;190622,38289,-3443;190621,38190,-3443'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190010' name='fortress_2519_indoor_009' type='normal_type'>
+	<pos xyz='191421,39731,-3397' range='191430,39820,-3397;191413,39723,-3397;191430,39723,-3397;191413,39820,-3397'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  <door id='25190011' name='fortress_2519_indoor_010' type='normal_type'>
+	<pos xyz='191421,39887,-3397' range='191413,39798,-3397;191413,39898,-3397;191431,39897,-3397;191430,39798,-3397'/>
+	<stat height='291' hp='67884' pdef='837' mdef='674' open_method='click'/>
+  </door>
+  
+  <door id='19160001' name='temple_gate' type='normal_type'>
+	<pos xyz='-16136,-36782,-10720' range='-16136,-36782,-10720;-16581,-36780,-10720;-16582,-36816,-10720;-16144,-36816,-10720'/>
+	<stat height='245' hp='60000' pdef='180000' mdef='180000' open_method='npc'/>
+  </door>
+  
+  <door id='23140001' name='frozen_barrier_s01' type='normal_type'>
+	<pos xyz='113932,-126022,-3472' range='113916,-126163,-3663;114018,-126136,-3664;113967,-125900,-3665;113857,-125928,-3663'/>
+	<stat height='1024' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  <door id='23140002' name='frozen_barrier_s02' type='normal_type'>
+	<pos xyz='115292,-125745,-3472' range='115272,-125871,-3664;115377,-125840,-3664;115319,-125612,-3663;115218,-125637,-3663'/>
+	<stat height='1024' hp='126600' pdef='644' mdef='518' open_method='npc'/>
+  </door>
+  
+  <door id='23150001' name='Monastery_Silent_door01' type='normal_type' level='3'>
+	<pos xyz='110717,-81568,-1536' range='110610,-81591,-1618;110825,-81591,-1618;110826,-81546,-1618;110611,-81545,-1618'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='skill' close_time='120'/>
+  </door>
+  <door id='23150002' name='Monastery_Silent_door02' type='normal_type' level='3'>
+	<pos xyz='114881,-71454,-496' range='114782,-71473,-578;114981,-71474,-578;114981,-71426,-578;114782,-71425,-578'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='skill' close_time='120'/>
+  </door>
+  <door id='23150003' name='Monastery_Silent_door01' type='normal_type' level='3'>
+	<pos xyz='112800,-78084,330' range='112641,-78096,22;112816,-78096,22;112816,-78065,22;112641,-78064,22'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='skill' close_time='120'/>
+  </door>
+  <door id='23150004' name='Monastery_Silent_door02' type='normal_type' level='3'>
+	<pos xyz='112798,-78084,330' range='112782,-78096,22;112957,-78096,22;112958,-78064,22;112782,-78064,22'/>
+	<stat height='256' hp='126600' pdef='644' mdef='518' open_method='skill' close_time='120'/>
+  </door>
+  
+</list>

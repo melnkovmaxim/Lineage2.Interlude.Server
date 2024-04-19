@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Made by BrunoBR -->
+<list>
+<item id='9541' name="Vorpal Helmet">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9542' name="Vorpal Breastplate">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9543' name="Vorpal Gaiters">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9544' name="Vorpal Gauntlets">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9545' name="Vorpal Boots">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9546' name="Vorpal Leather Helmet">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9547' name="Vorpal Leather Armor">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9548' name="Vorpal Leggings">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9549' name="Vorpal Gloves">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9550' name="Vorpal Shoes">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9551' name="Vorpal Circlet">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9552' name="Vorpal Tunic">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9553' name="Vorpal Stockings">
+  <for>
+    <add val='100' order='0x10' stat='pDef'/>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9554' name="Vorpal Gloves">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9555' name="Vorpal Boots">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+</list>
+<!-- Made by BrunoBR -->

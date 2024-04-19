@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="9557" levels="1" name="Necklace of Valakas Ares">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add val='445' order='0x40' stat='maxHp'/>
+    <mul val='1.1' order='0x30' stat='pAtk'/>
+    <mul val='1.1' order='0x30' stat='mAtk'/>
+    <mul val='2.1' order='0x30' stat='mCritRate'/>
+    <mul val='0.85' order='0x30' stat='fireVuln'/>
+    <mul val='0.2' order='0x30' stat='sleepVuln'/>
+    <mul val='0.90' order='0x30' stat='mReuse'/>
+    <mul val='0.90' order='0x30' stat='pReuse'/>
+    <add val='5' order='0x40' stat="reflectDam"/>
+  </for>
+</skill>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<skill id="9558" levels="1" name="Earring of Antharas Ares">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='bleedVuln'/>
+    <mul val='1.10' order='0x30' stat='gainHp'/>
+<mul val='1.1' order='0x30' stat='pAtk'/>
+    <mul val='1.1' order='0x30' stat='mAtk'/>
+    <add val='4' order='0x40' stat='absorbDam'/>
+    <mul val='0.4' order='0x30' stat='stunVuln'/>
+    <mul val='0.4' order='0x30' stat='derangementVuln'/>
+    <mul val='0.95' order='0x30' stat='MpConsumeRate'/>
+    <mul val='0.85' order='0x30' stat='earthVuln'/>
+  </for>
+</skill>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<skill id="9559" levels="1" name="Earring of Zaken Ares">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+<mul val='1.1' order='0x30' stat='pAtk'/>
+    <mul val='1.1' order='0x30' stat='mAtk'/>
+    <mul val='0.4' order='0x30' stat='bleedVuln'/>
+    <mul val='1.10' order='0x30' stat='gainHp'/>
+    <add val='4' order='0x40' stat='absorbDam'/>
+    <mul val='0.6' order='0x30' stat='stunVuln'/>
+    <mul val='0.6' order='0x40' stat='derangementVuln'/>
+  </for>
+</skill>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<skill id="9561" levels="1" name="Ring of Baium Ares">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='poisonVuln'/>
+    <add val='2' order='0x40' stat='accCombat'/>
+    <mul val='1.2' order='0x30' stat='cAtk'/>
+    <mul val='0.4' order='0x30' stat='rootVuln'/>
+    <mul val='1.1' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.1' order='0x30' stat='mAtkSpd'/>
+  </for>
+</skill>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<skill id="9562" levels="1" name="Ring of Ant Queen Ares">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.4' order='0x30' stat='poisonVuln'/>
+    <add val='2' order='0x10' stat='accCombat'/>
+    <mul val='1.2' order='0x30' stat='cAtk'/>
+    <mul val='0.6' order='0x30' stat='rootVuln'/>
+  </for>
+</skill>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<skill id="9563" levels="1" name="Vlastb">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='1.02' order='0x30' stat='pAtk'/>
+    <mul val='1.02' order='0x30' stat='mAtk'/>
+    <mul val='1.15' order='0x30' stat='cAtk'/>
+    <mul val='0.4' order='0x30' stat='poisonVuln'/>
+    <mul val='1.02' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.02' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.05' order='0x30' stat='cAtk'/>
+  </for>
+</skill>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<skill id="9564" levels="1" name="Vlastb">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='1.15' order='0x30' stat='cAtk'/>
+    <mul val='1.02' order='0x30' stat='pAtk'/>
+    <mul val='1.02' order='0x30' stat='mAtk'/>
+    <mul val='0.4' order='0x30' stat='poisonVuln'/>
+    <mul val='1.05' order='0x30' stat='cAtk'/>
+  </for>
+</skill>
+</list>

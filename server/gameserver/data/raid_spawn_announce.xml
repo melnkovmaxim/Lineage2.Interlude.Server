@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<!--
+  <boss id='ид_босса'>
+    <announce delay='за_сколько_минут_анонс_до_появления' scheduleText='текст_анонса_до_появления' spawnText='текст_анонса_при_появлении'/>
+  </boss>
+-->
+   <!--
+    <boss id='29028'>
+    <announce delay='15' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+    -->
+	    <boss id='41001'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+      <boss id='41002'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+      <boss id='41003'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+      <boss id='41004'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+      <boss id='41005'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+  <!--  <boss id='25163'>
+    <announce delay='15' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+  -->
+    <boss id='50032'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> Фарм РБ).' spawnText='%boss% появился, (Global-Gk -> Фарм РБ)'/>
+  </boss>
+   <boss id='65004'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> Фарм РБ).' spawnText='%boss% появился, (Global-Gk -> Фарм РБ)'/>
+  </boss>
+    <boss id='58967'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (НПЦ Беном -> КнайтNewbie).' spawnText='%boss% появился, (НПЦ Беном -> КнайтNewbie)'/>
+  </boss>  
+      <boss id='50897'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (НПЦ Беном -> РБ Бижа).' spawnText='%boss% появился, (НПЦ Беном -> РБ Бижа)'/>
+  </boss>
+    <boss id='75039'>
+    <announce delay='2' scheduleText='%boss% появится через %delay% минуты, (Global-Gk -> Фарм РБ).' spawnText='%boss% появился, (Global-Gk -> Фарм РБ)'/>
+  </boss>
+  <!--   <boss id='15106'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> Фарм РБ).' spawnText='%boss% появился, (Global-Gk -> Фарм РБ)'/>
+  </boss>
+    -->
+   <boss id='5004'>
+    <announce delay='1' scheduleText='%boss% появится через %delay% минуту, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+
+   <boss id='44447'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минуту, (Global-Gk -> Руны).' spawnText='%boss% появился, (Global-Gk -> Руны)'/>
+  </boss>  
+   <boss id='44448'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минуту, (Global-Gk -> Руны).' spawnText='%boss% появился, (Global-Gk -> Руны)'/>
+  </boss>
+   <boss id='44449'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минуту, (Global-Gk -> Руны).' spawnText='%boss% появился, (Global-Gk -> Руны)'/>
+  </boss>
+   <boss id='44450'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минуту, (Global-Gk -> Руны).' spawnText='%boss% появился, (Global-Gk -> Руны)'/>
+  </boss>
+   <boss id='44451'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минуту, (Global-Gk -> Руны).' spawnText='%boss% появился, (Global-Gk -> Руны)'/>
+  </boss>
+  
+   <boss id='200005'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> Фарм РБ).' spawnText='%boss% появился, (Global-Gk -> Фарм РБ)'/>
+  </boss>
+  
+   <boss id='200022'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> Фарм РБ).' spawnText='%boss% появился, (Global-Gk -> Фарм РБ)'/>
+  </boss>
+  
+   <boss id='50000'>
+    <announce delay='1' scheduleText='%boss% появится через %delay% минуту, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+  
+   <boss id='80105'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> Фарм РБ).' spawnText='%boss% появился, (Global-Gk -> Фарм РБ)'/>
+  </boss>
+  
+   <boss id='45114'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+     <boss id='15162'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> ТОП РБ).' spawnText='%boss% появился, (Global-Gk -> ТОП РБ)'/>
+  </boss>
+     <boss id='200049'>
+    <announce delay='5' scheduleText='%boss% появится через %delay% минут, (Global-Gk -> Фарм РБ).' spawnText='%boss% появился, (Global-Gk -> Фарм РБ)'/>
+  </boss>
+</list>

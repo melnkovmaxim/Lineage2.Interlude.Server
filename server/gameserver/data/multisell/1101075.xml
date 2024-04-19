@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Quest 704: Miss Queen -->
+<list upgradeList="true">
+
+
+ <item id="9"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9327" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13302" count="1" enchant="20"/>
+   </item> 
+
+ <item id="10"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9326" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13303" count="1" enchant="20"/>
+   </item> 
+
+ <item id="11"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9328" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13301" count="1" enchant="20"/>
+   </item> 
+
+ <item id="12"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9335" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13304" count="1" enchant="20"/>
+   </item> 
+
+ <item id="13"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9333" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13309" count="1" enchant="20"/>
+   </item> 
+
+ <item id="14"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9332" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13308" count="1" enchant="20"/> 
+   </item> 
+
+ <item id="15"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9334" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13306" count="1" enchant="20"/> 
+   </item> 
+
+ <item id="16"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9330" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13305" count="1" enchant="20"/> 
+   </item> 
+
+
+<item id="17"> 
+      <ingredient id="11973" count="500" enchant="0"/>
+   <ingredient id="11975" count="500" enchant="0"/>  
+   <ingredient id="11974" count="15" enchant="0"/>
+   <ingredient id="13017" count="20" enchant="0"/>           
+   <ingredient id="9331" count="1" enchant="0"/>
+   
+   
+ 
+   
+   <production id="13307" count="1" enchant="20"/>  
+   </item>
+
+
+
+
+ </list>

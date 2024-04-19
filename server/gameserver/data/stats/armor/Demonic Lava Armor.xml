@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='11141' name="Demonic Lava Breastplate">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11142' name="Demonic Lava Gaiters">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11143' name="Demonic Lava Gauntlet">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11144' name="Demonic Lava Solleret">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11145' name="Demonic Lava Brigandine">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11146' name="Demonic Lava Leather Leggings">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11147' name="Demonic Lava Leather Gloves">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11148' name="Demonic Lava Leather Boots">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11149' name="Demonic Lava Tunic">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11150' name="Demonic Lava Stockings">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11151' name="Demonic Lava Mittens">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11152' name="Demonic Lava Slippers">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11153' name="Demonic Lava Helm">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11154' name="Demonic Lava Circlet">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11155' name="Demonic Lava Cap">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+</list>

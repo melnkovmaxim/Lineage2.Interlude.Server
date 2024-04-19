@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="9995" levels="1" name="Necklace Valakas FAN">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <mul val='1.72' order='0x30' stat='mAtk'/>
+  <mul val='1.55' order='0x30' stat='pAtk'/>
+  <add order="0x40" stat="maxHp" val="12000"/>
+  <add order="0x40" stat="maxCp" val="5000"/>
+  <mul order="0x30" stat="mCritRate" val="2"/>
+  <mul order="0x30" stat="bleedVuln" val="1.7"/>
+  <mul order="0x30" stat="gainHp" val="2.5"/>
+  <add order="0x40" stat="absorbDam" val="7"/>
+  <mul order="0x30" stat="stunVuln" val="1.8"/>
+  <mul val='1.80' order='0x30' stat='mDef'/>
+  <mul val='1.70' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="poisonVuln" val="1.40"/>
+  <mul order="0x30" stat="derangementVuln" val="1.8"/>
+  <mul val='1.35' order='0x30' stat='pvpMagicalDmg'/>
+</for>
+</skill>
+<skill id="9996" levels="1" name="Earing Zaken FAN">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <add order="0x40" stat="maxHp" val="12000"/>
+  <add order="0x40" stat="maxCp" val="5000"/>
+  <mul order="0x30" stat="bleedVuln" val="1.7"/>
+  <add order="0x40" stat="absorbDam" val="7"/>
+  <mul order="0x30" stat="stunVuln" val="1.8"/>
+  <mul val='1.85' order='0x30' stat='mDef'/>
+  <mul val='1.65' order='0x30' stat='pDef'/>
+  <mul val='1.54' order='0x30' stat='mAtk'/>
+  <mul val='1.64' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="derangementVuln" val="1.8"/>
+  </for>
+</skill>
+<skill id="9997" levels="1" name="Earing ANTHARAS FAN">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add order="0x40" stat="maxHp" val="12000"/>
+    <add order="0x40" stat="maxCp" val="5000"/>
+    <mul order="0x30" stat="bleedVuln" val="1.6"/>
+    <mul order="0x30" stat="gainHp" val="1.2"/>
+    <add order="0x40" stat="absorbDam" val="7"/>
+    <mul order="0x30" stat="stunVuln" val="1.7"/>
+    <mul val='1.75' order='0x30' stat='mDef'/>
+    <mul val='1.65' order='0x30' stat='pDef'/>
+  <mul val='1.54' order='0x30' stat='mAtk'/>
+  <mul val='1.60' order='0x30' stat='pAtk'/>
+    <mul order="0x30" stat="derangementVuln" val="1.7"/>
+    <mul order="0x30" stat="earthVuln" val="1.85"/>
+  </for>
+</skill>
+<skill id="9998" levels="1" name="Ring Baium FAN">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>  
+  <add order="0x40" stat="maxHp" val="12000"/>
+  <add order="0x40" stat="maxCp" val="5000"/>
+  <mul val='1.25' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+  <mul val='1.35' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="1.2"/>
+  <mul val='1.80' order='0x30' stat='mDef'/>
+  <mul val='1.80' order='0x30' stat='pDef'/>
+  <mul val='1.80' order='0x30' stat='maxMp'/>
+</for>
+</skill>
+<skill id="9999" levels="1" name="Ring ANT QUEEN FAN">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <add order="0x40" stat="maxHp" val="12000"/>
+  <add order="0x40" stat="maxCp" val="5000"/>
+  <mul val='1.54' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+  <mul val='1.54' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="1.2"/>
+  <mul val='1.70' order='0x30' stat='mDef'/>
+  <mul val='1.70' order='0x30' stat='pDef'/>
+  <mul val='1.70' order='0x30' stat='maxMp'/>
+</for>
+</skill>
+
+
+</list>

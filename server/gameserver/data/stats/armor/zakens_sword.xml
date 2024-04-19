@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id="24013" name="Zacken Sword">
+  <for>
+  <mul val='1.40' order='0x30' stat='mAtk'/>
+  <mul val='1.40' order='0x30' stat='pAtk'/>
+  <mul val='1.30' order='0x30' stat='mDef'/>
+  <mul val='1.30' order='0x30' stat='pDef'/>
+  <mul val='1.25' order='0x30' stat='maxHp'/>
+</for>
+</item>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<item id="24014" name="Zacken Sword">
+  <for>
+ <mul val='1.50' order='0x30' stat='mDef'/>
+   <mul val='1.15' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.75' order='0x30' stat='mAtk'/>
+  <mul val='2.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='3.20' order='0x30' stat='pAtk'/>
+  <mul val='2.25' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="cAtk" val="1.45"/>
+<add order="0x40" stat="maxHp" val="50000"/>
+<add order="0x40" stat="maxMp" val="5000"/>
+<add order="0x40" stat="maxCp" val="50000"/>
+</for>
+</item>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<item id="24015" name="Zacken Sword Donat">
+  <for>
+  <mul val='1.80' order='0x30' stat='mDef'/>
+   <mul val='1.30' order='0x30' stat='mAtkSpd'/>
+  <mul val='3.05' order='0x30' stat='mAtk'/>
+  <mul val='2.30' order='0x30' stat='pAtkSpd'/>
+  <mul val='3.60' order='0x30' stat='pAtk'/>
+  <mul val='2.60' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="cAtk" val="1.75"/>
+<add order="0x40" stat="maxHp" val="65000"/>
+<add order="0x40" stat="maxMp" val="10000"/>
+<add order="0x40" stat="maxCp" val="65000"/>
+</for>
+</item>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<item id="24016" name="Zacken Sword">
+  <for>
+  <mul val='1.40' order='0x30' stat='mAtk'/>
+  <mul val='1.40' order='0x30' stat='pAtk'/>
+  <mul val='1.30' order='0x30' stat='mDef'/>
+  <mul val='1.30' order='0x30' stat='pDef'/>
+  <mul val='1.25' order='0x30' stat='maxHp'/>
+  <mul val='1.25' order='0x30' stat='maxCp'/>
+  <mul val='1.25' order='0x30' stat='maxMp'/>  
+</for>
+</item>
+<!-- Status:Fixed Pack:l2jfrozen author:Nefer -->
+<item id="24017" name="Zacken Sword">
+  <for>
+  <mul val='1.50' order='0x30' stat='mDef'/>
+   <mul val='1.15' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.75' order='0x30' stat='mAtk'/>
+  <mul val='2.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='3.20' order='0x30' stat='pAtk'/>
+  <mul val='2.25' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="cAtk" val="1.45"/>
+<add order="0x40" stat="maxHp" val="50000"/>
+<add order="0x40" stat="maxMp" val="5000"/>
+<add order="0x40" stat="maxCp" val="50000"/> 
+</for>
+</item>
+<item id="24019" name="Zacken Sword">
+  <for>
+  <mul val='1.40' order='0x30' stat='mAtk'/>
+  <mul val='1.40' order='0x30' stat='pAtk'/>
+  <mul val='1.30' order='0x30' stat='mDef'/>
+  <mul val='1.30' order='0x30' stat='pDef'/>
+  <mul val='1.25' order='0x30' stat='maxHp'/>
+  <mul val='1.25' order='0x30' stat='maxCp'/>
+  <mul val='1.25' order='0x30' stat='maxMp'/>  
+</for>
+</item>
+<item id="24020" name="Zacken Sword">
+  <for>
+  <mul val='1.50' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.65' order='0x30' stat='mAtk'/>
+  <mul val='2.70' order='0x30' stat='pAtkSpd'/>
+  <mul val='3.00' order='0x30' stat='pAtk'/>
+  <mul val='2.20' order='0x30' stat='pDef'/>
+  <mul val='2.30' order='0x30' stat='mDef'/>
+<add order="0x40" stat="maxHp" val="50000"/>
+<add order="0x40" stat="maxMp" val="50000"/>
+<add order="0x40" stat="maxCp" val="40000"/>  
+</for>
+</item>
+<item id="11456" name="Plash">
+  <for>
+  <mul val='1.55' order='0x30' stat='mDef'/>
+   <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.80' order='0x30' stat='mAtk'/>
+  <mul val='2.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='3.35' order='0x30' stat='pAtk'/>
+  <mul val='2.35' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="cAtk" val="1.65"/>
+<add order="0x40" stat="maxHp" val="58000"/>
+<add order="0x40" stat="maxMp" val="5000"/>
+<add order="0x40" stat="maxCp" val="58000"/>
+</for>
+</item>
+
+</list>

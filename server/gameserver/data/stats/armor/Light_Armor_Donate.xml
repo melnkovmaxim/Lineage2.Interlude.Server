@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='13541' name="Light Armor Heavy Chest">
+  <for> 
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='13542' name="Light Armor Heavy Legs">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13543' name="Light Armor Heavy Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13544' name="Light Armor Heavy Boots">
+  <for>
+<add order="0x40" stat="pDef" val="5600" />
+<add order="0x40" stat="mDef" val="1600" />
+<add order="0x40" stat="pAtk" val="4800" />
+<add order="0x40" stat="pAtkSpd" val="580" />
+<add order="0x40" stat="runSpd" val="4"/>
+<add order="0x40" stat="maxMp" val="4000"/>
+<add order="0x40" stat="maxHp" val="4000"/>  
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13553' name="Light Armor Heavy Helmet">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13545' name="Light Armor Light Chest">
+  <for> 
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='13546' name="Light Armor Light Legs">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13547' name="Light Armor Light Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13548' name="Light Armor Light Boots">
+  <for>
+<add order="0x40" stat="pDef" val="5600" />
+<add order="0x40" stat="mDef" val="1600" />
+<add order="0x40" stat="pAtk" val="4800" />
+<add order="0x40" stat="pAtkSpd" val="580" />
+<add order="0x40" stat="runSpd" val="4"/>
+<add order="0x40" stat="maxMp" val="4000"/>
+<add order="0x40" stat="maxHp" val="4000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13554' name="Light Armor Light Helmet">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13549' name="Light Armor Robe Chest">
+  <for> 
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='13550' name="Light Armor Robe Legs">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13551' name="Light Armor Robe Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13552' name="Light Armor Robe Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="15000" />
+		<add order="0x40" stat="mDef" val="2200" />
+		<add order="0x40" stat="mAtk" val="4000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="5200"/>
+		<add order="0x40" stat="maxHp" val="5200"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13555' name="Light Armor Robe Helmet">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='13556' name="Light Wings">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='13557' name="Light Helmet">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+</list>

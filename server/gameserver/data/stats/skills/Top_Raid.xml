@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="9917" levels="1" name="Necklace Valakas TOP">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <mul val='1.52' order='0x30' stat='mAtk'/>
+  <mul val='1.25' order='0x30' stat='pAtk'/>
+  <add order="0x40" stat="maxHp" val="10000"/>
+  <add order="0x40" stat="maxCp" val="3000"/>
+  <mul order="0x30" stat="mCritRate" val="2"/>
+  <mul order="0x30" stat="bleedVuln" val="1.7"/>
+  <mul order="0x30" stat="gainHp" val="2.5"/>
+  <add order="0x40" stat="absorbDam" val="7"/>
+  <mul order="0x30" stat="stunVuln" val="1.8"/>
+  <mul val='1.50' order='0x30' stat='mDef'/>
+  <mul val='1.40' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="poisonVuln" val="1.40"/>
+  <mul order="0x30" stat="derangementVuln" val="1.8"/>
+  <mul val='1.15' order='0x30' stat='pvpMagicalDmg'/>
+</for>
+</skill>
+<skill id="9918" levels="1" name="Earing Zaken TOP">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <add order="0x40" stat="maxHp" val="10000"/>
+  <add order="0x40" stat="maxCp" val="3000"/>
+  <mul order="0x30" stat="bleedVuln" val="1.7"/>
+  <add order="0x40" stat="absorbDam" val="7"/>
+  <mul order="0x30" stat="stunVuln" val="1.8"/>
+  <mul val='1.5' order='0x30' stat='mDef'/>
+  <mul val='1.35' order='0x30' stat='pDef'/>
+  <mul val='1.34' order='0x30' stat='mAtk'/>
+  <mul val='1.34' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="derangementVuln" val="1.8"/>
+  </for>
+</skill>
+<skill id="9909" levels="1" name="Earing ANTHARAS TOP">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add order="0x40" stat="maxHp" val="10000"/>
+    <add order="0x40" stat="maxCp" val="3000"/>
+    <mul order="0x30" stat="bleedVuln" val="1.6"/>
+    <mul order="0x30" stat="gainHp" val="1.2"/>
+    <add order="0x40" stat="absorbDam" val="7"/>
+    <mul order="0x30" stat="stunVuln" val="1.7"/>
+    <mul val='1.5' order='0x30' stat='mDef'/>
+    <mul val='1.35' order='0x30' stat='pDef'/>
+  <mul val='1.30' order='0x30' stat='mAtk'/>
+  <mul val='1.30' order='0x30' stat='pAtk'/>
+    <mul order="0x30" stat="derangementVuln" val="1.7"/>
+    <mul order="0x30" stat="earthVuln" val="1.85"/>
+  </for>
+</skill>
+<skill id="9910" levels="1" name="Ring Baium TOP">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>  
+  <add order="0x40" stat="maxHp" val="10000"/>
+  <add order="0x40" stat="maxCp" val="3000"/>
+  <mul val='1.25' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+  <mul val='1.25' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="1.2"/>
+  <mul val='1.6' order='0x30' stat='mDef'/>
+  <mul val='1.50' order='0x30' stat='pDef'/>
+  <mul val='1.50' order='0x30' stat='maxMp'/>
+</for>
+</skill>
+<skill id="9911" levels="1" name="Ring ANT QUEEN TOP">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <add order="0x40" stat="maxHp" val="10000"/>
+  <add order="0x40" stat="maxCp" val="3000"/>
+  <mul val='1.24' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+  <mul val='1.24' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="1.2"/>
+  <mul val='1.6' order='0x30' stat='mDef'/>
+  <mul val='1.40' order='0x30' stat='pDef'/>
+  <mul val='1.40' order='0x30' stat='maxMp'/>
+</for>
+</skill>
+<skill id="9912" levels="1" name="Dark Nekalace">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <mul val='1.12' order='0x30' stat='mAtk'/>
+  <mul val='1.12' order='0x30' stat='pAtk'/>
+  <add order="0x40" stat="maxHp" val="5000"/>
+  <add order="0x40" stat="maxCp" val="3000"/>
+  <mul order="0x30" stat="mCritRate" val="2"/>
+  <mul order="0x30" stat="bleedVuln" val="1.7"/>
+  <mul order="0x30" stat="gainHp" val="2.0"/>
+  <add order="0x40" stat="absorbDam" val="7"/>
+  <mul order="0x30" stat="stunVuln" val="1.8"/>
+  <mul val='1.25' order='0x30' stat='mDef'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="poisonVuln" val="1.40"/>
+  <mul order="0x30" stat="derangementVuln" val="1.8"/>
+</for>
+</skill>
+<skill id="9913" levels="1" name="Dark Earring1">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <add order="0x40" stat="maxHp" val="7000"/>
+  <add order="0x40" stat="maxCp" val="3000"/>
+  <mul order="0x30" stat="bleedVuln" val="1.7"/>
+  <add order="0x40" stat="absorbDam" val="7"/>
+  <mul val='1.35' order='0x30' stat='mDef'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  
+</for>
+</skill>
+<skill id="9914" levels="1" name="Dark Earring2">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add order="0x40" stat="maxHp" val="6000"/>
+    <add order="0x40" stat="maxCp" val="3000"/>
+    <mul order="0x30" stat="bleedVuln" val="1.6"/>
+    <mul order="0x30" stat="gainHp" val="1.2"/>
+    <add order="0x40" stat="absorbDam" val="7"/>
+    <mul order="0x30" stat="stunVuln" val="1.7"/>
+    <mul val='1.25' order='0x30' stat='mDef'/>
+    <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>  
+</for>
+</skill>
+<skill id="9915" levels="1" name="Dark ring1">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <add order="0x40" stat="maxHp" val="7000"/>
+  <add order="0x40" stat="maxCp" val="3000"/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="1.15"/>
+  <mul val='1.25' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="1.2"/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.30' order='0x30' stat='pDef'/>
+  <mul val='1.20' order='0x30' stat='maxMp'/>
+</for>
+</skill>
+<skill id="9916" levels="1" name="Dark ring2">
+<set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <add order="0x40" stat="maxHp" val="6000"/>
+  <add order="0x40" stat="maxCp" val="2000"/>
+  <mul val='1.14' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+  <mul val='1.14' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="1.2"/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.20' order='0x30' stat='maxMp'/>
+</for>
+</skill>
+</list>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='9312' name="Heavy Breastplate">
+  <for>
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9313' name="Heavy Gaiters">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9314' name="Heavy Gauntlet">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9315' name="Heavy Solleret">
+  <for>
+<add order="0x40" stat="pDef" val="5600" />
+<add order="0x40" stat="mDef" val="1600" />
+<add order="0x40" stat="pAtk" val="4800" />
+<add order="0x40" stat="pAtkSpd" val="580" />
+<add order="0x40" stat="runSpd" val="4"/>
+<add order="0x40" stat="maxMp" val="4000"/>
+<add order="0x40" stat="maxHp" val="4000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9317' name="Light Brigandine">
+  <for>
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9318' name="Light Leggings">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9319' name="Light Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9320' name="Light Boots">
+  <for>
+<add order="0x40" stat="pDef" val="5600" />
+<add order="0x40" stat="mDef" val="1600" />
+<add order="0x40" stat="pAtk" val="4800" />
+<add order="0x40" stat="pAtkSpd" val="580" />
+<add order="0x40" stat="runSpd" val="4"/>
+<add order="0x40" stat="maxMp" val="4000"/>
+<add order="0x40" stat="maxHp" val="4000"/>  
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9322' name="Robe Tunic">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9323' name="Robe Stockings">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9324' name="Robe Mittens">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9325' name="Robe Slippers">
+  <for>
+		<add order="0x40" stat="pDef" val="15000" />
+		<add order="0x40" stat="mDef" val="2200" />
+		<add order="0x40" stat="mAtk" val="4000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="5200"/>
+		<add order="0x40" stat="maxHp" val="5200"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9316' name="Heavy Headgear">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9321' name="Light Helm">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9341' name="Robe Cap">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+</list>

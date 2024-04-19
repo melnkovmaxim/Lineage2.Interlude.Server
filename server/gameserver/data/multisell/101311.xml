@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Consumables -->
+
+<list npcId="1013">
+
+<!-- AA -->
+<item id="21">
+<ingredient id="4037" count="10" enchant="0"/>
+<production id="5575" count="1000000" enchant="0"/>
+</item>
+
+<!-- Secret Book of Giants -->
+<item id="721">
+<ingredient id="57" count="500000000" enchant="0"/>
+<production id="6622" count="1" enchant="0"/>
+</item>
+
+<!-- Mana Potion -->
+<item id="11">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="728" count="100" enchant="0"/>
+</item>
+
+<!-- Greater Healing Potion -->
+<item id="12">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="1539" count="100" enchant="0"/>
+</item>
+
+<!-- Soul Ore -->
+<item id="15">
+<ingredient id="57" count="1000000" enchant="0"/>
+<production id="3031" count="500" enchant="0"/>
+</item>
+
+<!-- Cursed Bone -->
+<item id="16">
+<ingredient id="57" count="1000000" enchant="0"/>
+<production id="2508" count="1000" enchant="0"/>
+</item>
+
+<!-- Soul Ore -->
+<item id="14">
+<ingredient id="57" count="1000000" enchant="0"/>
+<production id="1785" count="500" enchant="0"/>
+</item>
+
+<!-- Crystal D -->
+<item id="17">
+<ingredient id="57" count="800" enchant="0"/>
+<production id="1458" count="1" enchant="0"/>
+</item>
+
+<!-- Crystal C -->
+<item id="18">
+<ingredient id="57" count="3500" enchant="0"/>
+<production id="1459" count="1" enchant="0"/>
+</item>
+
+<!-- Crystal B -->
+<item id="47">
+<ingredient id="57" count="11500" enchant="0"/>
+<production id="1460" count="1" enchant="0"/>
+</item>
+
+<!-- Crystal A -->
+<item id="44">
+<ingredient id="57" count="12500" enchant="0"/>
+<production id="1461" count="1" enchant="0"/>
+</item>
+
+<!-- Crystal S -->
+<item id="46">
+<ingredient id="57" count="21500" enchant="0"/>
+<production id="1462" count="1" enchant="0"/>
+</item>
+
+<!-- SOES HP -->
+<item id="79">
+<ingredient id="57" count="30000000" enchant="0"/>
+<production id="4901" count="1" enchant="0"/>
+</item>
+
+<!-- SOES Focus -->
+<item id="80">
+<ingredient id="57" count="30000000" enchant="0"/>
+<production id="4900" count="1" enchant="0"/>
+</item>
+
+<!-- Sprite's Staff	Mental Shield -->
+<item id="81">
+<ingredient id="57" count="30000000" enchant="0"/>
+<production id="4898" count="1" enchant="0"/>
+</item>
+
+<!-- Hell Knife	Mental Shield -->
+<item id="82">
+<ingredient id="57" count="30000000" enchant="0"/>
+<production id="7814" count="1" enchant="0"/>
+</item>
+
+<!-- Greater Swift Attack Potion -->
+<item id="83">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="1375" count="1" enchant="0"/>
+</item>
+
+<!-- Greater Magic Haste Potion -->
+<item id="84">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="6036" count="1" enchant="0"/>
+</item>
+
+
+<!-- Facelifting Potion - A -->
+<item id="85">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5235" count="1" enchant="0"/>
+</item>
+
+<!-- Facelifting Potion - B -->
+<item id="86">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5236" count="1" enchant="0"/>
+</item>
+
+<!-- Facelifting Potion - C -->
+<item id="87">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5237" count="1" enchant="0"/>
+</item>
+
+<!-- Dye Potion - A -->
+<item id="88">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5238" count="1" enchant="0"/>
+</item>
+
+<!-- Dye Potion - B -->
+<item id="89">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5239" count="1" enchant="0"/>
+</item>
+
+<!-- Dye Potion - C -->
+<item id="90">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5240" count="1" enchant="0"/>
+</item>
+
+<!-- Dye Potion - D -->
+<item id="91">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5241" count="1" enchant="0"/>
+</item>
+
+<!-- Hair Style Change Potion - A -->
+<item id="92">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5242" count="1" enchant="0"/>
+</item>
+
+<!-- Hair Style Change Potion - B -->
+<item id="93">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5243" count="1" enchant="0"/>
+</item>
+
+<!-- Hair Style Change Potion - C -->
+<item id="94">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5244" count="1" enchant="0"/>
+</item>
+
+<!-- Hair Style Change Potion - D -->
+<item id="95">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5245" count="1" enchant="0"/>
+</item>
+
+<!-- Hair Style Change Potion - E -->
+<item id="96">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5246" count="1" enchant="0"/>
+</item>
+
+<!-- Hair Style Change Potion - F -->
+<item id="97">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5247" count="1" enchant="0"/>
+</item>
+
+<!-- Hair Style Change Potion - G -->
+<item id="98">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="5248" count="1" enchant="0"/>
+</item>
+
+<!-- Dimensional Diamond	 -->
+<item id="99">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="7562" count="1" enchant="0"/>
+</item>
+
+<!-- Dimensional Diamond	 -->
+<item id="100">
+<ingredient id="57" count="10000" enchant="0"/>
+<production id="8873" count="1" enchant="0"/>
+</item>
+
+<!-- Dimensional Diamond	 -->
+<item id="101">
+<ingredient id="57" count="10000" enchant="0"/>
+<production id="8874" count="1" enchant="0"/>
+</item>
+
+<!--Destruction Tombstone	 -->
+<item id="119">
+<ingredient id="57" count="30000" enchant="0"/>
+<production id="1374" count="1" enchant="0"/>
+</item>
+
+  <item id="120">
+    <ingredient id="57" count="70000" enchant="0"/>
+    <production id="8598" count="1" enchant="0"/>
+  </item>
+  
+  <item id="121">
+    <ingredient id="57" count="100000" enchant="0"/>
+    <production id="8599" count="1" enchant="0"/>
+  </item>
+</list>
+

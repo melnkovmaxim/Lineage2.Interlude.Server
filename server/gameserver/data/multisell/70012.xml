@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list maintainEnchantment="true">
+
+
+  <item id="1">
+     <ingredient id="57" count="2000"/>
+     <production id="728" count="1"/>
+  </item>
+
+  <item id="2">
+     <ingredient id="57" count="1080"/>
+     <production id="1539" count="1"/>
+  </item>
+
+  <item id="3">
+     <ingredient id="57" count="240"/>
+     <production id="5591" count="1"/>
+  </item>
+
+  <item id="4">
+     <ingredient id="57" count="5000"/>
+     <production id="8638" count="1"/>
+  </item>
+
+  <item id="5">
+     <ingredient id="57" count="6000"/>
+     <production id="8639" count="1"/>
+  </item>
+
+  <item id="6">
+     <ingredient id="57" count="12300"/>
+     <production id="8626" count="1"/>
+  </item>
+
+  <item id="7">
+     <ingredient id="57" count="15000"/>
+     <production id="8627" count="1"/>
+  </item>
+
+  <item id="8">
+     <ingredient id="57" count="30000"/>
+     <production id="8874" count="1"/>
+  </item>
+
+  <item id="9">
+     <ingredient id="57" count="30000"/>
+     <production id="8873" count="1"/>
+  </item>
+
+  <item id="10">
+     <ingredient id="57" count="400000"/>
+     <production id="2508" count="1000"/>
+  </item>
+
+  <item id="11">
+     <ingredient id="57" count="400000"/>
+     <production id="3031" count="1000"/>
+  </item>
+
+  <item id="12">
+     <ingredient id="57" count="250000"/>
+     <production id="1785" count="1000"/>
+  </item>
+  <item id="13">
+     <ingredient id="57" count="30000"/>
+     <production id="1458" count="1000"/>
+  </item>
+
+  <item id="14">
+     <ingredient id="57" count="400000"/>
+     <production id="1459" count="1000"/>
+  </item>
+
+  <item id="15">
+     <ingredient id="57" count="400000"/>
+     <production id="1460" count="1000"/>
+  </item>
+
+  <item id="16">
+     <ingredient id="57" count="250000"/>
+     <production id="1461" count="1000"/>
+  </item>
+
+  <item id="17">
+     <ingredient id="57" count="250000"/>
+     <production id="1462" count="1000"/>
+  </item>
+    <item id="18">
+     <ingredient id="57" count="250000"/>
+     <production id="8599" count="1"/>
+  </item>
+      <item id="19">
+     <ingredient id="57" count="250000"/>
+     <production id="5589" count="1000"/>
+  </item>
+        <item id="20">
+     <ingredient id="57" count="250000"/>
+     <production id="8875" count="10"/>
+  </item>
+        <item id="21">
+     <ingredient id="57" count="250000"/>
+     <production id="8876" count="10"/>
+  </item>
+          <item id="22">
+     <ingredient id="57" count="250000"/>
+     <production id="2131" count="100"/>
+  </item>
+
+
+
+</list>

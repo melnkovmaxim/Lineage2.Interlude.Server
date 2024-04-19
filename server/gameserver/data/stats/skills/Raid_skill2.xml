@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<skill id="50001" levels="1" name="Raid(Ant Baium... Coin Skill">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <mul val='150.25' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+  <mul val='220.20' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="4.2"/>
+  <mul val='5.25' order='0x30' stat='mDef'/>
+  <mul val='145.15' order='0x30' stat='pDef'/>
+  <mul val='18.20' order='0x30' stat='maxHp'/>
+  <mul val='9.20' order='0x30' stat='maxMp'/>
+  </for>
+</skill>
+<skill id="50007" levels="1" name="Raid Coin Skill">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <mul val='100.25' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+  <mul val='220.20' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="2.2"/>
+  <mul val='4.25' order='0x30' stat='mDef'/>
+  <mul val='4.15' order='0x30' stat='pDef'/>
+  <mul val='10.20' order='0x30' stat='maxHp'/>
+  <mul val='19.20' order='0x30' stat='maxMp'/>
+  </for>
+</skill>
+</list>

@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='10789' name="Terra 1">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='7000' order='0x40' stat='maxHp'/>
+			<add val='2500' order='0x40' stat='pAtk'/>
+   	        <add val='4500' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="4500"/>
+            <add order="0x40" stat="mDef" val="4500"/>
+			<add order="0x40" stat="pAtkSpd" val="800"/>
+            <add order="0x40" stat="mAtkSpd" val="800"/>
+  </for>
+</item>
+
+<item id='10790' name="Terra 2">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='15000' order='0x40' stat='maxHp'/>
+			<add val='5500' order='0x40' stat='pAtk'/>
+   	        <add val='16000' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="18000"/>
+            <add order="0x40" stat="mDef" val="18000"/>
+			<add order="0x40" stat="pAtkSpd" val="1300"/>
+            <add order="0x40" stat="mAtkSpd" val="1300"/>
+</for>
+</item>
+<item id='10794' name="Terra 7">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='15000' order='0x40' stat='maxHp'/>
+			<add val='5500' order='0x40' stat='pAtk'/>
+   	        <add val='16000' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="18000"/>
+            <add order="0x40" stat="mDef" val="18000"/>
+			<add order="0x40" stat="pAtkSpd" val="1300"/>
+            <add order="0x40" stat="mAtkSpd" val="1300"/>
+</for>
+</item>
+
+
+<item id='10791' name="Terra 3">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='15000' order='0x40' stat='maxHp'/>
+			<add val='5500' order='0x40' stat='pAtk'/>
+   	        <add val='16000' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="18000"/>
+            <add order="0x40" stat="mDef" val="18000"/>
+			<add order="0x40" stat="pAtkSpd" val="1300"/>
+            <add order="0x40" stat="mAtkSpd" val="1300"/>
+</for>
+</item>
+
+<item id='10792' name="Terra 4">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='7000' order='0x40' stat='maxHp'/>
+			<add val='2500' order='0x40' stat='pAtk'/>
+   	        <add val='4500' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="4500"/>
+            <add order="0x40" stat="mDef" val="4500"/>
+			<add order="0x40" stat="pAtkSpd" val="800"/>
+            <add order="0x40" stat="mAtkSpd" val="800"/>
+</for>
+</item>
+
+<item id='10793' name="Terra 5">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='7000' order='0x40' stat='maxHp'/>
+			<add val='2500' order='0x40' stat='pAtk'/>
+   	        <add val='4500' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="4500"/>
+            <add order="0x40" stat="mDef" val="4500"/>
+			<add order="0x40" stat="pAtkSpd" val="800"/>
+            <add order="0x40" stat="mAtkSpd" val="800"/>
+</for>
+</item>
+<item id='16791' name="Terra neph">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='15000' order='0x40' stat='maxHp'/>
+			<add val='5500' order='0x40' stat='pAtk'/>
+   	        <add val='16000' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="18000"/>
+            <add order="0x40" stat="mDef" val="18000"/>
+			<add order="0x40" stat="pAtkSpd" val="1300"/>
+            <add order="0x40" stat="mAtkSpd" val="1300"/>
+</for>
+</item>
+<item id='16522' name="Terra skull">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='15000' order='0x40' stat='maxHp'/>
+			<add val='5500' order='0x40' stat='pAtk'/>
+   	        <add val='16000' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="18000"/>
+            <add order="0x40" stat="mDef" val="18000"/>
+			<add order="0x40" stat="pAtkSpd" val="1300"/>
+            <add order="0x40" stat="mAtkSpd" val="1300"/>
+</for>
+</item>
+
+<item id='18794' name="Terra 6">
+  <for>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.15' order='0x30' stat='maxHp'/>
+  <mul val='1.15' order='0x30' stat='maxCp'/>
+  <mul val='1.15' order='0x30' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef' />
+    <enchant val='0' order='0x0C' stat='mDef' />
+</for>
+</item>
+<item id="18010" name="R90 Demons">
+  <for>
+    <sub val="8" order="0x10" stat="rEvas"/>
+    <set val="142" order="0x08" stat="sDef"/>
+    <set val="20" order="0x08" stat="rShld"/>
+    <enchant val="0" order="0x0C" stat="sDef"/>
+  </for>
+</item>
+<item id="18009" name="R90 Demons">
+  <for>
+			<enchant val="0" order="0x0C" stat="mDef" />
+			<enchant val="0" order="0x0C" stat="pDef" />
+			<add val='15000' order='0x40' stat='maxHp'/>
+			<add val='5500' order='0x40' stat='pAtk'/>
+   	        <add val='16000' order='0x40' stat='mAtk'/>
+			<add order="0x40" stat="pDef" val="18000"/>
+            <add order="0x40" stat="mDef" val="18000"/>
+			<add order="0x40" stat="pAtkSpd" val="1300"/>
+            <add order="0x40" stat="mAtkSpd" val="1300"/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Quest 704: Miss Queen -->
+<list>
+   
+
+   <item id="1"> 
+   <ingredient id="14555" count="550" enchant="0"/> 
+   <production id="10790" count="1" enchant="0"/> 
+   </item> 
+   <item id="2"> 
+   <ingredient id="14555" count="550" enchant="0"/> 
+   <production id="10791" count="1" enchant="0"/> 
+   </item>
+<item id="3"> 
+   <ingredient id="14555" count="550" enchant="0"/> 
+   <production id="10794" count="1" enchant="0"/> 
+   </item>
+<item id="4"> 
+   <ingredient id="14555" count="550" enchant="0"/> 
+   <production id="18009" count="1" enchant="0"/> 
+   </item>  
+<item id="5"> 
+   <ingredient id="14555" count="550" enchant="0"/> 
+   <production id="16791" count="1" enchant="0"/> 
+   </item>
+<item id="6"> 
+   <ingredient id="14555" count="550" enchant="0"/> 
+   <production id="16522" count="1" enchant="0"/> 
+   </item>   
+<item id="7"> 
+   <ingredient id="14555" count="750" enchant="0"/> 
+   <production id="11121" count="1" enchant="0"/> 
+   </item>  
+   <item id="8"> 
+   <ingredient id="14555" count="750" enchant="0"/> 
+   <production id="17800" count="1" enchant="0"/> 
+   </item>
+   <item id="9"> 
+   <ingredient id="14555" count="750" enchant="0"/> 
+   <production id="14000" count="1" enchant="0"/> 
+   </item> 
+   <item id="10"> 
+   <ingredient id="14555" count="350" enchant="0"/> 
+   <production id="13040" count="1" enchant="0"/> 
+   </item> 
+   <item id="11"> 
+   <ingredient id="14555" count="350" enchant="0"/> 
+   <production id="13042" count="1" enchant="0"/> 
+   </item>
+   <item id="12"> 
+   <ingredient id="14555" count="350" enchant="0"/> 
+   <production id="13041" count="1" enchant="0"/> 
+   </item> 
+   <item id="13"> 
+   <ingredient id="14555" count="350" enchant="0"/> 
+   <production id="13043" count="1" enchant="0"/> 
+   </item> 
+   <item id="14"> 
+   <ingredient id="14555" count="350" enchant="0"/> 
+   <production id="13044" count="1" enchant="0"/> 
+   </item>
+   
+
+
+</list>

@@ -1,0 +1,19 @@
+
+init:
+    [mkdir] Created dir: C:\Source\Lineage2.Server.Interlude\src\build-login
+
+compile-core:
+    [mkdir] Created dir: C:\Source\Lineage2.Server.Interlude\src\build-login\classes
+    [javac] Compiling 89 source files to C:\Source\Lineage2.Server.Interlude\src\build-login\classes
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use or override a deprecated API that is marked for removal.
+    [javac] Note: Recompile with -Xlint:removal for details.
+    [javac] Note: C:\Source\Lineage2.Server.Interlude\src\loginserver\net\sf\l2j\loginserver\L2LoginServer.java uses unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+core-jar:
+      [jar] Building jar: C:\Source\Lineage2.Server.Interlude\src\build-login\it_mantaray_login.jar
+
+BUILD SUCCESSFUL
+Total time: 2 seconds

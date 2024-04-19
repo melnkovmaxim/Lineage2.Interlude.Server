@@ -1,0 +1,27 @@
+
+clean:
+
+checkRequirements:
+     [echo] Verification of your JDK version.
+
+version:
+     [echo] ares gameserver build
+
+init:
+    [mkdir] Created dir: C:\Source\Lineage2.Server.Interlude\src\build
+    [mkdir] Created dir: C:\Source\Lineage2.Server.Interlude\src\build\classes
+
+compile:
+    [javac] Compiling 1461 source files to C:\Source\Lineage2.Server.Interlude\src\build\classes
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+jar:
+      [jar] Building jar: C:\Source\Lineage2.Server.Interlude\src\build\core-gs.jar
+
+dist:
+
+BUILD SUCCESSFUL
+Total time: 18 seconds

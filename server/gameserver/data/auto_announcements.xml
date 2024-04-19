@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<announce id='0'>
+		<str text='Уважаемый игрок!'/>
+		<str text='Будь внимателен при совершении сделок.'/>
+		<str text='Администрация не возвращает утерянные вещи.'/>
+	</announce>
+	<announce id='1'>
+		<str text='Уважаемый игрок!'/>
+		<str text='Никому не давай свой аккаунт и пароль!'/>
+	</announce>
+	<announce id='2'>
+		<str text='Уважаемый игрок!'/>
+		<str text='Спасибо, что выбрал наш сервер!'/>
+		<str text='Самое время проголосовать за него в л2топ!'/>
+	</announce>
+	<announce id='3'>
+		<str text='Уважаемый игрок!'/>
+		<str text='Если заметил БОТА!'/>
+		<str text='Напиши в таргете .bot'/>
+	</announce>
+	<announce id='4'>
+		<str text='Наша группа ВКонтакте'/>
+		<str text='vk.com/aresgame'/>
+	</announce>
+	<announce id='5'>
+		<str text='Помните за РМТ!'/>
+		<str text='Наказание БАН!'/>
+	</announce>
+	
+</list>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Quest 704: Miss Queen -->
+<list>
+ 
+   <item id="5"> 
+   <ingredient id="11970" count="5000" enchant="0"/> 
+   <ingredient id="11974" count="2" enchant="0"/> 
+   <production id="10789" count="1" enchant="0"/> 
+   </item> 
+
+   <item id="8"> 
+   <ingredient id="11970" count="5000" enchant="0"/> 
+   <ingredient id="11974" count="2" enchant="0"/> 
+   <production id="10792" count="1" enchant="0"/> 
+   </item> 
+
+   <item id="9"> 
+   <ingredient id="11970" count="5000" enchant="0"/> 
+   <ingredient id="11974" count="2" enchant="0"/> 
+   <production id="10793" count="1" enchant="0"/> 
+   </item> 
+             
+            
+</list>

@@ -1,0 +1,72 @@
+# тут надо пути поправить
+version: '3.8'
+
+services:
+  lineage2_mysql:
+    image: mysql:5.7
+    container_name: lineage2_mysql
+    healthcheck:
+        test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+        timeout: 20s
+        retries: 10
+    volumes:
+      - ./sql_volume:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: your_password
+      MYSQL_DATABASE: lineage2_db
+      MYSQL_USER: lineage2_user
+      MYSQL_PASSWORD: lineage2_password
+      MYSQL_CHARSET: utf8mb4
+      MYSQL_COLLATION: utf8mb4_unicode_ci
+    ports:
+      - "3306:3306"
+    networks:
+      - l2_network
+
+  lineage2_mysql_setup:
+    image: mysql:5.7
+    healthcheck:
+        test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+        timeout: 20s
+        retries: 10
+    entrypoint: ["sh", "-c", "if [ $(mysql -h lineage2_mysql -u root -pyour_password -D lineage2_db -e 'SHOW TABLES;' -s | wc -l) -gt 0 ]; then exit 0; else mysql --default-character-set=utf8mb4 -h lineage2_mysql -u root -pyour_password lineage2_db < /backup/ares_game.sql; fi"]
+    environment:
+      MYSQL_COLLATION: utf8mb4_unicode_ci
+    volumes:
+      - ./sql_backup:/backup
+    depends_on:
+      lineage2_mysql:
+        condition: service_healthy
+    networks:
+      - l2_network
+
+  lineage2_login:
+    build:
+      context: ../
+      dockerfile: Login_Server_Dockerfile
+    container_name: lineage2_login
+    ports:
+      - 2106:2106
+      - 9014:9014
+    depends_on:
+      lineage2_mysql_setup:
+        condition: service_completed_successfully
+    networks:
+      - l2_network
+
+  lineage2_game:
+    build:
+      context: ../
+      dockerfile: Game_Server_Dockerfile
+    container_name: lineage2_game
+    ports:
+      - 7790:7790
+    depends_on:
+      lineage2_mysql_setup:
+        condition: service_completed_successfully
+    networks:
+      - l2_network
+
+networks:
+  l2_network:
+    driver: bridge

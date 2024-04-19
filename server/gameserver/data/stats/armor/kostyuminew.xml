@@ -1,0 +1,1130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='17139' name="zaken Armor Robe Chest">
+  <for> 
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17140' name="zaken Armor Robe Legs">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17141' name="zaken Armor Robe Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17142' name="zaken Armor Robe Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17181' name="zaken Armor Robe Helmet">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='17149' name="zakenblu Armor Robe Chest">
+  <for> 
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17150' name="zakenblu Armor Robe Legs">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17151' name="zakenblu Armor Robe Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17152' name="zakenblu Armor Robe Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17183' name="zakenblu Armor Robe Helmet">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+
+<item id='17163' name="tallum Armor Robe Chest">
+  <for> 
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17164' name="tallum Armor Robe Legs">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17165' name="tallum Armor Robe Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17166' name="tallum Armor Robe Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17162' name="tallum Armor Robe Helmet">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+
+<item id='17155' name="darkcrystal killer Robe Chest">
+  <for> 
+<add val='400' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17156' name="darkcrystal killer Robe Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17157' name="darkcrystal killer Robe Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17154' name="darkcrystal killer Robe Helmet">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='17159' name="major killer Robe Chest">
+  <for> 
+<add val='400' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17160' name="major killer Robe Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17161' name="major killer Robe Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17158' name="major killer Robe Helmet">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17134' name="zaken Warrior war Chest">
+  <for> 
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17135' name="zaken Armor war Legs">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17136' name="zaken Armor war Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17137' name="zaken Armor war Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17180' name="zaken Armor war Helmet">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='17144' name="zakenblu Warrior war Chest">
+  <for> 
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17145' name="zakenblu Armor war Legs">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17146' name="zakenblu Armor war Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17147' name="zakenblu Armor war Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17182' name="zakenblu Armor war Helmet">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='17168' name="imperial Warrior war Chest">
+  <for> 
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17169' name="imperial Armor war Legs">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17170' name="imperial Armor war Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17171' name="imperial Armor war Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17167' name="imperial Armor war Helmet">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='17173' name="draconic killer war Chest">
+  <for> 
+<add val='613' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17174' name="draconic killer war Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17175' name="draconic killer war Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17172' name="draconic killer war Helmet">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='17177' name="tallum killer war Chest">
+  <for> 
+<add val='613' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='17178' name="tallum killer war Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17179' name="tallum killer war Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='17176' name="tallum killer war Helmet">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='16502' name="eligia Warrior war Chest">
+  <for> 
+<add val='238' order='0x10' stat='pDef'/>
+<add val='261' order='0x10' stat='pAtk'/>
+<add val='500' order='0x10' stat='mDef'/>
+<add val='30' order='0x10' stat='pAtkSpd'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='16504' name="eligia Armor war Legs">
+  <for>
+<add val='149' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='16506' name="eligia Armor war Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='16508' name="eligia Armor war Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="24600" />
+		<add order="0x40" stat="mDef" val="3000" />
+		<add order="0x40" stat="pAtk" val="18000" />
+		<add order="0x40" stat="pAtkSpd" val="580" />
+		<add order="0x40" stat="runSpd" val="4"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="15000"/> 
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='16500' name="eligia Armor war Helmet">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+
+<item id='16503' name="eligia Armor Robe Chest">
+  <for> 
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+<item id='16505' name="eligia Armor Robe Legs">
+  <for>
+<add val='64' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='16507' name="eligia Armor Robe Gloves">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='16509' name="eligia Armor Robe Boots">
+  <for>
+		<add order="0x40" stat="pDef" val="30000" />
+		<add order="0x40" stat="mDef" val="3500" />
+		<add order="0x40" stat="mAtk" val="25000" />
+		<add order="0x40" stat="mAtkSpd" val="740" />
+		<add order="0x40" stat="runSpd" val="6"/>
+		<add order="0x40" stat="maxMp" val="15000"/>
+		<add order="0x40" stat="maxHp" val="10000"/>
+		<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='16501' name="eligia Armor Robe Helmet">
+  <for>
+<add val='110' order='0x10' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+
+<item id='17100' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17101' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17102' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17103' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17104' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17105' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17106' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17107' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17108' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17109' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17110' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17111' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17112' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17113' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17114' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17115' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17116' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17138' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17148' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='17117' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17118' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17119' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17120' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17121' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17122' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17123' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17124' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17125' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17126' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17127' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17128' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17129' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17130' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17131' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17132' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17133' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17143' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+<item id='17153' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16510' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16511' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16512' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16513' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16514' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16515' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16516' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16517' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16518' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16519' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16520' name="3lvl">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='16521' name="Helmet Donate">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+</list>

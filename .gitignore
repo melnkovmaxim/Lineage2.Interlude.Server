@@ -1,0 +1,7 @@
+/local_setup/sql_volume/*
+/src/build
+/src/build-login
+/server/gameserver/log/*
+/server/loginserver/log/*
+it_mantaray_login.jar
+core-gs.jar

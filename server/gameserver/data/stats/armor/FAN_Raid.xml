@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id='11258' name="AK">
+  <for>
+    <add val='78' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11256' name="Zaken">
+  <for>
+    <add val='78' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11255' name="Valik">
+    <for>
+  <add val='74' order='0x10' stat='mDef'/>
+    <add val='3500' order='0x40' stat='maxHp'/>
+    <add val='2500' order='0x40' stat='maxCp'/>
+    <mul order="0x30" stat="mAtk" val="1.6"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.50"/> <!-- M atk +35% -->
+    <mul val='2.0' order='0x30' stat='mCritRate'/>
+	<mul order="0x30" stat="mAtkSpd" val="1.50"/> <!-- Casting Spd. +5% -->
+<mul order="0x30" stat="pAtkSpd" val="1.50"/> <!-- Casting Spd. +5% -->
+<mul order="0x30" stat="mDef" val="1.50"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.50"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.50"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.50"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11259' name="Baium">
+  <for>
+    <add val='78' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11257' name="Antars">
+  <for>
+    <add val='78' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+</list>

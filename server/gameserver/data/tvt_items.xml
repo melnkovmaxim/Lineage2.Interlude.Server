@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <class id='0'> <!-- Human Fighter -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+  <class id='1'> <!-- Warrior -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+    <class id='2'> <!-- Gladiator -->
+    <equipment items='6382,6380,6381,6379,6580,920,858,858,889,889'/>
+  </class>
+    <class id='3'> <!-- Warlord -->
+    <equipment items='6382,6380,6381,6379,6599,920,858,858,889,889'/>
+  </class>
+    <class id='4'> <!-- Human Knight -->
+    <equipment items='6382,6380,6381,6379,6599,920,858,858,889,889'/>
+  </class>
+    <class id='5'> <!-- Paladin -->
+    <equipment items='6373,6374,6375,6376,6378,6377,6583,920,858,858,889,889'/>
+  </class>
+    <class id='6'> <!-- Dark Avenger -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='7'> <!-- Rogue -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='8'> <!-- Treasure Hunter -->
+    <equipment items='6382,6380,6381,6379,6590,920,858,858,889,889'/>
+  </class>
+    <class id='9'> <!-- Hawkeye -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+    <class id='88'> <!-- Duelist -->
+    <equipment items='6382,6380,6381,6379,6580,920,858,858,889,889'/>
+  </class>
+    <class id='89'> <!-- DreadNought -->
+    <equipment items='6382,6380,6381,6379,6599,920,858,858,889,889'/>
+  </class>
+    <class id='90'> <!-- Phoenix Knight Imperial Crusader Set + Shield-->
+    <equipment items='6373,6374,6375,6376,6378,6377,6583,920,858,858,889,889'/>
+  </class>
+      <class id='91'> <!-- Hell Knight -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+      <class id='92'> <!-- Sagittarius -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+      <class id='93'> <!-- Adventurer -->
+    <equipment items='6382,6380,6381,6379,6590,920,858,858,889,889'/>
+  </class>
+  <class id='10'> <!-- Human Mage -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+  <class id='11'> <!-- Human Wizard -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='12'> <!-- Sorcerer -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='13'> <!-- Necromancer -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='14'> <!-- Warlock -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='15'> <!-- Cleric -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='16'> <!-- Bishop -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='17'> <!-- Prophet -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='94'> <!-- Archmage -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='95'> <!-- Soultaker -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='96'> <!-- Arcana Lord -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='97'> <!-- Cardinal -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='98'> <!-- Hierophant -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+  <class id='18'> <!-- Elven Fighter -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+  <class id='19'> <!-- Elven Knight -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+    <class id='20'> <!-- Temple Knight -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='21'> <!-- Swordsinger -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='22'> <!-- Scout -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='23'> <!-- Plains Walker -->
+    <equipment items='6382,6380,6381,6379,6590,920,858,858,889,889'/>
+  </class>
+    <class id='24'> <!-- Silver Ranger -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+    <class id='99'> <!-- Eva Templar -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='100'> <!-- Sword Muse -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='101'> <!-- Wind Rider -->
+    <equipment items='6382,6380,6381,6379,6590,920,858,858,889,889'/>
+  </class>
+    <class id='102'> <!-- Moonlight Sentinel -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+  <class id='25'> <!-- Elf Mage -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+  <class id='26'> <!-- Elf Wizard -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='27'> <!-- Spellsinger -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='28'> <!-- Elemental Summoner -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='29'> <!-- Oracle -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='30'> <!-- Elder -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='103'> <!-- Mistic Muse -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='104'> <!-- Elemental Master -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='105'> <!-- Eva Saint -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+  <class id='31'> <!-- Dark Elven Fighter -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+  <class id='32'> <!-- Palus Knight -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+    <class id='33'> <!-- Shillen Knight -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='34'> <!-- Bladedancer -->
+    <equipment items='6382,6380,6381,6379,6580,920,858,858,889,889'/>
+  </class>
+    <class id='35'> <!-- Assassin -->
+    <equipment items='6382,6380,6381,6379,6580,920,858,858,889,889'/>
+  </class>
+    <class id='36'> <!-- Abbys Walker -->
+    <equipment items='6382,6380,6381,6379,6590,920,858,858,889,889'/>
+  </class>
+    <class id='37'> <!-- Phantom Ranger -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+    <class id='106'> <!-- Shillen Templar -->
+    <equipment items='6382,6380,6381,6379,6583,920,858,858,889,889'/>
+  </class>
+    <class id='107'> <!-- Spectral Dancer -->
+    <equipment items='6382,6380,6381,6379,6580,920,858,858,889,889'/>
+  </class>
+    <class id='108'> <!-- Ghost Hunter -->
+    <equipment items='6382,6380,6381,6379,6590,920,858,858,889,889'/>
+  </class>
+    <class id='109'> <!-- Ghost Sentinel -->
+    <equipment items='6382,6380,6381,6379,7577,920,858,858,889,889'/>
+  </class>
+  <class id='38'> <!-- Dark Elven Mage -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+  <class id='39'> <!-- DE Wizard -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='40'> <!-- Spellhower -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='41'> <!-- Phantom Summoner -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='42'> <!-- Shillien Oracle -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='43'> <!-- Shillen Elder -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='110'> <!-- Storm Screamer -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='111'> <!-- Spectral Master -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='112'> <!-- Shillen Saint -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+  <class id='44'> <!-- Orc Fighter -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+  <class id='45'> <!-- Raider -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+    <class id='46'> <!-- Destroyer -->
+    <equipment items='6382,6380,6381,6379,6607,920,858,858,889,889'/>
+  </class>
+    <class id='47'> <!-- Monk -->
+    <equipment items='6382,6380,6381,6379,6607,920,858,858,889,889'/>
+  </class>
+    <class id='48'> <!-- Tyrant -->
+    <equipment items='6382,6380,6381,6379,6602,920,858,858,889,889'/>
+  </class>
+    <class id='113'> <!-- Titan -->
+    <equipment items='6382,6380,6381,6379,6607,920,858,858,889,889'/>
+  </class>
+    <class id='114'> <!-- Grand Khauatari -->
+    <equipment items='6382,6380,6381,6379,6602,920,858,858,889,889'/>
+  </class>
+  <class id='49'> <!-- Orc Mage -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+  <class id='50'> <!-- Shaman -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='51'> <!-- Overlord -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='52'> <!-- Warcryer -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='115'> <!-- Dominator -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+    <class id='116'> <!-- Doomcryer -->
+    <equipment items='2407,5767,5779,512,6608,920,858,858,889,889'/>
+  </class>
+  <class id='53'> <!-- Dwarven Fighter -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+  <class id='54'> <!-- Scavenger -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+    <class id='55'> <!-- Bounty Hunter -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+    <class id='56'> <!-- Artisan -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+    <class id='57'> <!-- Warsmith -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+    <class id='117'> <!-- Fortune Seeker -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+    <class id='118'> <!-- Maestro -->
+    <equipment items='6382,6380,6381,6379,6585,920,858,858,889,889'/>
+  </class>
+</list>

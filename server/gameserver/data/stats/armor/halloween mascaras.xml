@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9987' name="Golova Tigra_Donat">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='13000' name="Mumia Mask">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='13001' name="Frank Mask">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='13002' name="Alien Mask">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='13003' name="Panic mask">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='13004' name="Abobora Mask">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='13005' name="Doccabi Mask">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='10001' name="Doccabi Mask">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='17816' name="Mask [5lvl] Voina">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+</list>

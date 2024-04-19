@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- CREATED BY -->
+<!-- MAGAVER -->
+<list>
+
+<item id='10561' name="Aion Ice BigSword">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='541' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+   </for>
+</item>
+
+<item id='10568' name="Aion Ice Sword">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='541' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+   </for>
+</item>
+
+<item id='10562' name="Aion Ice Dual Sword">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='541' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+
+<item id='10559' name="Aion Ice Bow Master">
+    <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='921' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <add val='88' order='0x10' stat='rCrit'/>
+      </for>
+  </item>
+
+<item id='10563' name="Aion Ice Bow Trower">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='921' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <add val='88' order='0x10' stat='rCrit'/>
+   </for>
+</item>
+
+
+<item id='10560' name="Aion Ice First">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='550' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+		<add val='88' order='0x10' stat='rCrit'/>
+  </for>
+</item>
+
+  <item id='10558' name="Aion Ice Spear">
+    <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='541' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+      </for>
+  </item>
+
+<item id='10564' name="Aion Ice Crusher">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='541' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+
+<item id='10567' name="Aion Ice Magic Buster">
+  <for>
+        <mul order="0x30" stat="mAtk" val="1.60"/> 
+    <set val='357' order='0x08' stat='pAtk'/>
+    <set val='615' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<mul val='1.1' order='0x30' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+		<mul val='1.05' order='0x30' stat='mAtk'/>
+   </for>
+</item>
+
+<item id='10566' name="Aion Ice Hammer">
+  <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='541' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<add val='50' order='0x10' stat='rCrit'/>
+  </for>
+</item>
+
+<item id='10565' name="Aion Ice Dagger">
+    <for>
+      <mul order="0x30" stat="pAtk" val="1.50"/> 
+    <set val='390' order='0x08' stat='pAtk'/>
+    <set val='205' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+      </for>
+  </item>
+
+</list>

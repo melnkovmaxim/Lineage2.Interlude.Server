@@ -1,0 +1,28 @@
+FROM openjdk:11-jdk AS builder
+
+WORKDIR /src
+
+COPY ./src .
+
+RUN apt-get update && \
+    apt-get install -y ant && \
+    rm -rf /var/lib/apt/lists/*
+
+RUN ant -f login.xml -l login.log
+
+WORKDIR /dist
+
+RUN cp -r /src/build-login/it_mantaray_login.jar /dist
+
+FROM openjdk:11-jre
+
+WORKDIR /app
+
+COPY ./server .
+COPY --from=builder /dist ./loginserver
+
+RUN rm -r ./gameserver && rm -r ./libs
+
+WORKDIR ./loginserver
+
+ENTRYPOINT ["bash", "-c", "java -Dfile.encoding=UTF-8 -Xmx256m -cp ./it_mantaray_login.jar:libs/* net.sf.l2j.loginserver.L2LoginServer"]

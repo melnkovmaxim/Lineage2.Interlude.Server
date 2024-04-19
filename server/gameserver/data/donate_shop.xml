@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- <a action="bypass -h npc_%objectId%_donateShop">link</a>, NPC ID 99999 
+  <sale id='++'>
+    <item id='{ID продаваемой шмотки}' count='{Количество продаваемой шмотки}'/>
+    <info ru='{Название шмотки на русском}' description='{Подробное описание шмотки}'/>
+    <price coin='{ID монеты, за которую покупаем}' count='{Количество нужных монет}' name='{Название монеты}'/>
+  </sale>
+-->
+<list>
+
+  <sale id='0'>
+    <item id='7679' count='1'/>
+    <info ru='Письмо для Caradine в Goddard' description='Письмо для 4 части квеста на ноблесс; Сдать письмо и получить статус ноблесса.'/>
+    <price coin='5962' count='7' name='Gold Golem'/>
+  </sale>
+  <sale id='1'>
+    <item id='6656' count='1'/>
+    <info ru='Серьга Антараса' description='Produces the following effects: MP +31, 80% increase in resistance to bleeding, increase in the amount of heal, vampiric rage effect, 60% increase in resistance to stun/silence, decrease in MP consumption, and increase in resistance to earthen attack.'/>
+    <price coin='5962' count='60' name='Gold Golem'/>
+  </sale>
+  <sale id='2'>
+    <item id='6657' count='1'/>
+    <info ru='Ожерелье Валакаса' description='Produces the following effects: MP+42, 80% increase in sleep resistance, HP +445, decrease in reuse delay, increase in P. Atk. and M. Atk. wild magic effect, damage shield effect and increase in resistance to flaming attack.'/>
+    <price coin='5962' count='60' name='Gold Golem'/>
+  </sale>
+  <sale id='3'>
+    <item id='6658' count='1'/>
+    <info ru='Кольцо Баюма' description='Produces the following effects: MP +21, 80% increase in resistance to poisoning, increase in Accuracy, increase in critical damage, 60% increase in resistance to hold, and increase in Atk. Spd. and Casting Spd.'/>
+    <price coin='5962' count='50' name='Gold Golem'/>
+  </sale>
+  <sale id='4'>
+    <item id='6659' count='1'/>
+    <info ru='Серьга Закена' description='Produces the following effects: MP +31, +60% resistance to bleeding, increased heal, vampiric rage and +40% resistance to shock/abnormal mental state.'/>
+    <price coin='5962' count='45' name='Gold Golem'/>
+  </sale>
+  <sale id='5'>
+    <item id='6660' count='1'/>
+    <info ru='Перстень Королевы муравьев' description='Produces the following effects: MP +21, 60% increase in resistance to poisoning, increase in accuracy, increase in critical damage, and 40% increase in resistance to hold.'/>
+    <price coin='5962' count='35' name='Gold Golem'/>
+  </sale>
+  <sale id='6'>
+    <item id='6661' count='1'/>
+    <info ru='Серьга Орфена' description='Produces the following effects: MP+31, 40% increase in resistance to bleeding and increase in the amount of heal.'/>
+    <price coin='5962' count='20' name='Gold Golem'/>
+  </sale>
+  <sale id='7'>
+    <item id='6662' count='1'/>
+    <info ru='Кольцо Коре' description='Produces the following effects: MP+21, 40% increase in resistance to poisoning and increase in accuracy.'/>
+    <price coin='5962' count='20' name='Gold Golem'/>
+  </sale>
+  <sale id='8'>
+    <item id='8191' count='1'/>
+    <info ru='Ожерелье Фринтезы' description='Increases resistance to Sleep by 30%, to Poison by 50%, to Bleed by 50%, to Paralysis by 30%, to Shock by 30%. Decreases Re-use Delay. Also produces the effects of Damange Shield, and enhanced ability to defend against dark attacks.'/>
+    <price coin='5962' count='50' name='Gold Golem'/>
+  </sale>
+  <sale id='9'>
+    <item id='961' count='1'/>
+    <info ru='100% скролл заточки' description='.'/>
+    <price coin='5962' count='15' name='Gold Golem'/>
+  </sale>
+  <sale id='10'>
+    <item id='962' count='1'/>
+    <info ru='100% скролл заточки' description='.'/>
+    <price coin='5962' count='15' name='Gold Golem'/>
+  </sale>
+  
+</list>

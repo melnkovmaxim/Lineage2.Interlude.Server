@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<item id='10061' name='Eternal_Shield'>
+		<for>
+			<sub val='8' order='0x10' stat='rEvas'/>
+			<set val='413' order='0x08' stat='sDef'/>
+			<set val='20' order='0x08' stat='rShld'/>
+			<enchant val='0' order='0x0C' stat='sDef'/>
+		</for>
+	</item>
+		<item id='10062' name='Immortal_Shield'>
+		<for>
+			<sub val='8' order='0x10' stat='rEvas'/>
+			<set val='413' order='0x08' stat='sDef'/>
+			<set val='20' order='0x08' stat='rShld'/>
+			<enchant val='0' order='0x0C' stat='sDef'/>
+		</for>
+	</item>
+		<item id='10063' name='Twilight_Shield'>
+		<for>
+			<sub val='8' order='0x10' stat='rEvas'/>
+			<set val='413' order='0x08' stat='sDef'/>
+			<set val='20' order='0x08' stat='rShld'/>
+			<enchant val='0' order='0x0C' stat='sDef'/>
+		</for>
+	</item>
+		<item id='10064' name='Seraph_Shield'>
+		<for>
+			<sub val='8' order='0x10' stat='rEvas'/>
+			<set val='413' order='0x08' stat='sDef'/>
+			<set val='20' order='0x08' stat='rShld'/>
+			<enchant val='0' order='0x0C' stat='sDef'/>
+		</for>
+	</item>
+</list>

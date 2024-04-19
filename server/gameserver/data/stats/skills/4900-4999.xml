@@ -1,0 +1,862 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- Pack:l2jfrozen Site:www.l2jfrozen.com -->
+<skill id="4900" levels="10" name="runSpd">
+  <table name="#spd"> 10 15 20 25 30 35 40 45 50 55 70 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x10" stat="runSpd" val="#spd"/>
+  </for>
+</skill>
+<skill id="4901" levels="10" name="maxHp/CP/Mp">
+  <table name="#Hp"> 300 600 900 1200 1500 1800 2100 2400 2700 3000</table>
+  <table name="#Cp"> 300 600 900 1200 1500 1800 2100 2400 2700 3000</table>
+  <table name="#Mp"> 300 600 900 1200 1500 1800 2100 2400 2700 3000</table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="maxHp" val="#Hp"/>
+	<add order="0x40" stat="maxCp" val="#Cp"/>
+	<add order="0x40" stat="maxMp" val="#Mp"/>
+  </for>
+</skill>
+<skill id="4904" levels="10" name="pDef">
+  <table name="#pDef"> 200 400 600 800 1000 1200 1400 1600 1800 2000</table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="pDef" val="#pDef"/>
+  </for>
+</skill>
+<skill id="4905" levels="10" name="mDef">
+  <table name="#mDef"> 200 400 600 800 1000 1200 1400 1600 1800 2000</table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="mDef" val="#mDef"/>
+  </for>
+</skill>
+<skill id="4906" levels="10" name="pAtk">
+  <table name="#pAtk"> 300 600 900 1200 1500 1800 2100 2400 2700 3000</table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="pAtk" val="#pAtk"/>
+  </for>
+</skill>
+<skill id="4907" levels="10" name="mAtk">
+  <table name="#mAtk"> 300 600 900 1200 1500 1800 2100 2400 2700 3000</table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="mAtk" val="#mAtk"/>
+  </for>
+</skill>
+<skill id="4908" levels="10" name="pAtkSpd">
+  <table name="#pAtkSpd"> 100 200 300 400 500 600 700 800 900 1000</table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="pAtkSpd" val="#pAtkSpd"/>
+  </for>
+</skill>
+<skill id="4909" levels="10" name="mAtkSpd">
+ <table name="#mAtkSpd"> 100 200 300 400 500 600 700 800 900 1000</table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x40" stat="mAtkSpd" val="#mAtkSpd"/>
+  </for>
+</skill>
+<skill id="4910" levels="1" name="red earring antharas ">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='bleedVuln'/>
+    <mul val='1.10' order='0x30' stat='gainHp'/>
+    <add val='4' order='0x40' stat='absorbDam'/>
+    <mul val='0.6' order='0x30' stat='stunVuln'/>
+    <mul val='0.6' order='0x30' stat='derangementVuln'/>
+    <mul val='0.85' order='0x30' stat='earthVuln'/>
+    <mul order='0x30' stat='pAtk' val='1.15'/>
+  </for>
+</skill>
+<skill id="4911" levels="1" name="Red Neklace Valaks">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add val='445' order='0x40' stat='maxHp'/>
+    <mul val='1.04' order='0x30' stat='pAtk'/>
+    <mul val='1.08' order='0x30' stat='mAtk'/>
+    <mul val='2.0' order='0x30' stat='mCritRate'/>
+    <mul val='0.85' order='0x30' stat='fireVuln'/>
+    <mul val='0.2' order='0x30' stat='sleepVuln'/>
+    <mul val='0.90' order='0x30' stat='mReuse'/>
+    <mul val='0.90' order='0x30' stat='pReuse'/>
+    <add val='5' order='0x40' stat="reflectDam"/>
+    <mul order='0x30' stat='pAtkSpd' val='1.1'/>
+  </for>
+</skill>
+<skill id="4912" levels="1" name="Red Ring Queen ">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='poisonVuln'/>
+    <add val='2' order='0x10' stat='accCombat'/>
+    <mul val='1.15' order='0x30' stat='cAtk'/>
+    <mul val='0.6' order='0x30' stat='rootVuln'/>
+    <mul order='0x30' stat='pDef' val='1.15'/>
+  </for>
+</skill>
+<skill id="4913" levels="1" name="Red Earning Zaken">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.4' order='0x30' stat='bleedVuln'/>
+    <mul val='1.10' order='0x30' stat='gainHp'/>
+    <add val='4' order='0x40' stat='absorbDam'/>
+    <mul val='0.6' order='0x30' stat='stunVuln'/>
+    <mul val='0.6' order='0x30' stat='derangementVuln'/>
+    <mul order='0x30' stat='mAtk' val='1.15'/>
+  </for>
+</skill>
+<skill id="4914" levels="1" name="Red Ring Baium">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='poisonVuln'/>
+    <add val='2' order='0x40' stat='accCombat'/>
+    <mul val='1.15' order='0x30' stat='cAtk'/>
+    <mul val='0.6' order='0x30' stat='rootVuln'/>
+    <mul val='1.04' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.04' order='0x30' stat='mAtkSpd'/>
+    <mul order='0x30' stat='mAtkSpd' val='1.1'/>
+  </for>
+</skill>
+<skill id="4915" levels="1" name="Black Earning Antharas">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='bleedVuln'/>
+    <mul val='1.10' order='0x30' stat='gainHp'/>
+    <add val='4' order='0x40' stat='absorbDam'/>
+    <mul val='0.6' order='0x30' stat='stunVuln'/>
+    <mul val='0.6' order='0x30' stat='derangementVuln'/>
+    <mul val='0.85' order='0x30' stat='earthVuln'/>
+    <mul order='0x30' stat='pAtk' val='1.25'/>
+  </for>
+</skill>
+<skill id="4916" levels="1" name="Black Ring Queen">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='poisonVuln'/>
+    <add val='2' order='0x10' stat='accCombat'/>
+    <mul val='1.15' order='0x30' stat='cAtk'/>
+    <mul val='0.6' order='0x30' stat='rootVuln'/>
+    <mul order='0x30' stat='pDef' val='1.25'/>
+  </for>
+</skill>
+<skill id="4917" levels="1" name="Black Neklace Valakas">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add val='445' order='0x40' stat='maxHp'/>
+    <mul val='1.04' order='0x30' stat='pAtk'/>
+    <mul val='1.08' order='0x30' stat='mAtk'/>
+    <mul val='2.0' order='0x30' stat='mCritRate'/>
+    <mul val='0.85' order='0x30' stat='fireVuln'/>
+    <mul val='0.2' order='0x30' stat='sleepVuln'/>
+    <mul val='0.90' order='0x30' stat='mReuse'/>
+    <mul val='0.90' order='0x30' stat='pReuse'/>
+    <add val='5' order='0x40' stat="reflectDam"/>
+    <mul order='0x30' stat='pAtkSpd' val='1.15'/>
+  </for>
+</skill>
+<skill id="4918" levels="1" name="Black Earning Zaken">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.4' order='0x30' stat='bleedVuln'/>
+    <mul val='1.10' order='0x30' stat='gainHp'/>
+    <add val='4' order='0x40' stat='absorbDam'/>
+    <mul val='0.6' order='0x30' stat='stunVuln'/>
+    <mul val='0.6' order='0x30' stat='derangementVuln'/>
+    <mul order='0x30' stat='mAtk' val='1.25'/>
+  </for>
+</skill>
+<skill id="4919" levels="1" name="Black Ring Baium">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='poisonVuln'/>
+    <add val='2' order='0x40' stat='accCombat'/>
+    <mul val='1.15' order='0x30' stat='cAtk'/>
+    <mul val='0.6' order='0x30' stat='rootVuln'/>
+    <mul val='1.04' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.04' order='0x30' stat='mAtkSpd'/>
+    <mul order='0x30' stat='mAtkSpd' val='1.15'/>
+  </for>
+</skill>
+<skill id="4941" levels="1" name="Raid Boss - Level 32">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4942" levels="1" name="Raid Boss - Level 38">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4943" levels="1" name="Raid Boss - Level 45">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4944" levels="1" name="Raid Boss - Level 35">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4945" levels="1" name="Raid Boss - Level 32">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4946" levels="1" name="Raid Boss - Level 33">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4947" levels="1" name="Raid Boss - Level 60">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4948" levels="1" name="Raid Boss - Level 40">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4949" levels="1" name="Raid Boss - Level 47">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4950" levels="1" name="Raid Boss - Level 40">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4951" levels="1" name="Raid Boss - Level 44">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4952" levels="1" name="Raid Boss - Level 48">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4953" levels="1" name="Raid Boss - Level 61">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4954" levels="1" name="Raid Boss - Level 25">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4955" levels="1" name="Raid Boss - Level 55">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4956" levels="1" name="Raid Boss - Level 45">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4957" levels="1" name="Raid Boss - Level 44">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4958" levels="1" name="Raid Boss - Level 45">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4959" levels="1" name="Raid Boss - Level 65">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4960" levels="1" name="Raid Boss - Level 71">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4961" levels="1" name="Raid Boss - Level 79">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4962" levels="1" name="Raid Boss - Level 70">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4963" levels="1" name="Raid Boss - Level 49">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4964" levels="1" name="Raid Boss - Level 51">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4965" levels="1" name="Raid Boss - Level 56">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4966" levels="1" name="Raid Boss - Level 64">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4967" levels="1" name="Raid Boss - Level 66">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4968" levels="1" name="Raid Boss - Level 52">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4969" levels="1" name="Raid Boss - Level 55">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4970" levels="1" name="Raid Boss - Level 65">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4971" levels="1" name="Raid Boss - Level 53">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4972" levels="1" name="Raid Boss - Level 50">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4973" levels="1" name="Raid Boss - Level 40">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4974" levels="1" name="Raid Boss - Level 40">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4975" levels="1" name="Raid Boss - Level 55">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4976" levels="1" name="Raid Boss - Level 52">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4977" levels="1" name="Raid Boss - Level 45">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4978" levels="1" name="Raid Boss - Level 81">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4979" levels="1" name="Raid Boss - Level 82">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4980" levels="1" name="Raid Boss - Level 83">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4981" levels="1" name="Raid Boss - Level 84">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4982" levels="1" name="Raid Boss - Level 85">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4983" levels="1" name="Raid Boss - Level 25">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4984" levels="1" name="Raid Boss - Level 44">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4985" levels="1" name="Raid Boss - Level 70">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4986" levels="1" name="Raid Boss - Level 72">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4987" levels="1" name="Raid Boss - Level 74">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4988" levels="1" name="Raid Boss - Level 76">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4989" levels="1" name="Npc - Hot Spring Nectar">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="bestowed" val="true"/>
+  <for>
+  </for>
+</skill>
+<skill id="4990" levels="1" name="Npc - Hot Spring Mineral">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="magicLvl" val="1"/>
+  <set name="effectRange" val="-1"/>
+  <set name="bestowed" val="true"/>
+  <for>
+  </for>
+</skill>
+<skill id="4991" levels="1" name="Hot Spring Sulfur">
+<!-- TODO -->
+<!-- Decreases Atk. Spd. and Casting Spd. Effect 5. -->
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="bestowed" val="true"/>
+  <for>
+    <sub order="0x30" stat="mAtkSpd" val="0.5"/>
+	<sub order="0x30" stat="pAtkSpd" val="0.5"/>
+  </for>
+</skill>
+<skill id="4992" levels="1" name="Shock">
+<!-- TODO -->
+<!-- Shocks and instantly immobilizes. -->
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <for>
+  </for>
+</skill>
+<skill id="4993" levels="1" name="Venom - Strike">
+  <!-- Benom Skills --> <!-- Need Test -->
+  <set name="mpConsume" val="88"/>
+  <set name="power" val="14000"/>
+  <set name="hitTime" val="830"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="skillType" val="PDAM"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="40"/>
+  <for>
+  </for>
+</skill>
+<skill id="4994" levels="1" name="Venom - Sonic Storm">
+  <!-- Benom Skills --> <!-- Need Test -->
+  <set name="mpConsume" val="88"/>
+  <set name="power" val="12450"/>
+  <set name="target" val="TARGET_AREA"/>
+  <set name="skillRadius" val="205"/>
+  <set name="hitTime" val="1899"/>
+  <set name="skillType" val="PDAM"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="500"/>
+  <set name="baseCritRate" val="15"/>
+  <for>
+  </for>
+</skill>
+<skill id="4995" levels="1" name="Venom - Teleport">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="hitTime" val="2900"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="800"/>
+  <for>
+  </for>
+</skill>
+<skill id="4996" levels="1" name="Venom - Range Teleport">
+  <!-- Benom Skills -->
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="PASSIVE"/>
+  <set name="hitTime" val="2900"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="800"/>
+  <for>
+  </for>
+</skill>
+<skill id="4997" levels="1" name="Lidia - Regen">
+<!-- Need Test -->
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="reuseDelay" val="89000"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="-1"/>
+  <for>
+    <effect count="1" name="Buff" time="3600" val="0">
+	  <mul order="0x30" stat="regHp" val="1.4"/>
+	</effect>
+  </for>
+</skill>
+<skill id="4998" levels="1" name="Lidia - Twister">
+<!-- Need Test -->
+  <set name="mpConsume" val="116"/>
+  <set name="power" val="287"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="hitTime" val="2500"/>
+  <set name="skillType" val="MDAM"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="750"/>
+  <for>
+  </for>
+</skill>
+<skill id="4999" levels="1" name="Lidia - Range Life Drain">
+<!-- Need Test -->
+  <set name="mpConsume" val="126"/>
+  <set name="power" val="144"/>
+  <set name="target" val="TARGET_ONE"/>
+  <set name="hitTime" val="2000"/>
+  <set name="skillType" val="DRAIN"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="castRange" val="600"/>
+  <set name="absorbPart" val="0.8"/>
+  <for>
+  </for>
+</skill>
+</list>

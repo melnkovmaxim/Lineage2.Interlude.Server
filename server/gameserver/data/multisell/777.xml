@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+  <!-- Cursed Bone -->
+  <item id="1">
+    <ingredient id="57" count="500" enchant="0"/>
+    <production id="2508" count="1" enchant="0"/>
+  </item>
+
+  <!-- Soul Ore -->
+  <item id="2">
+    <ingredient id="57" count="450" enchant="0"/>
+    <production id="1785" count="1" enchant="0"/>
+  </item>
+
+  <!-- Spirit Ore  -->
+  <item id="3">
+    <ingredient id="57" count="700" enchant="0"/>
+    <production id="3031" count="1" enchant="0"/>
+  </item>
+
+  <!-- Dimension Diamond  -->
+  <item id="4">
+    <ingredient id="57" count="3000" enchant="0"/>
+    <production id="7562" count="1" enchant="0"/>
+  </item>
+
+  <!-- Energy Stone -->
+  <item id="5">
+    <ingredient id="57" count="1000" enchant="0"/>
+    <production id="5589" count="1" enchant="0"/>
+  </item>
+
+  <!-- Crystal: D Grade -->
+  <item id="6">
+    <ingredient id="57" count="6500" enchant="0"/>
+    <production id="1458" count="1" enchant="0"/>
+  </item>
+
+  <!-- Crystal: C Grade -->
+  <item id="7">
+    <ingredient id="57" count="30000" enchant="0"/>
+    <production id="1459" count="1" enchant="0"/>
+  </item>
+
+  <!-- Crystal: B-Grade -->
+  <item id="8">
+    <ingredient id="57" count="90000" enchant="0"/>
+    <production id="1460" count="1" enchant="0"/>
+  </item>
+
+  <!-- Crystal: A-Grade -->
+  <item id="9">
+    <ingredient id="57" count="150000" enchant="0"/>
+    <production id="1461" count="1" enchant="0"/>
+  </item>
+
+  <!-- Crystal: S Grade -->
+  <item id="10">
+    <ingredient id="57" count="250000" enchant="0"/>
+    <production id="1462" count="1" enchant="0"/>
+  </item>
+
+ <!-- B 12 -->
+  <item id="11">
+    <ingredient id="7539" count="1" enchant="0"/>
+    <production id="5913" count="5" enchant="0"/>
+  </item>
+
+  <!-- B 13 -->
+  <item id="12">
+    <ingredient id="7539" count="1" enchant="0"/>
+    <production id="5914" count="5" enchant="0"/>
+  </item>
+
+  <!-- G 12 -->
+  <item id="13">
+    <ingredient id="7539" count="1" enchant="0"/>
+    <production id="5910" count="5" enchant="0"/>
+  </item>
+
+  <!-- G 13 -->
+  <item id="14">
+    <ingredient id="7539" count="1" enchant="0"/>
+    <production id="5911" count="5" enchant="0"/>
+  </item>
+
+  <!-- R 12 -->
+  <item id="15">
+    <ingredient id="7539" count="1" enchant="0"/>
+    <production id="5907" count="5" enchant="0"/>
+  </item>
+
+  <!-- R 13 -->
+  <item id="16">
+    <ingredient id="7539" count="1" enchant="0"/>
+    <production id="5908" count="5" enchant="0"/>
+  </item>
+
+  <!-- A-G -->
+  <item id="17">
+    <ingredient id="7539" count="1" enchant="0"/>
+    <production id="2133" count="5" enchant="0"/>
+  </item>
+
+  <!-- S-G -->
+  <item id="18">
+    <ingredient id="7539" count="1" enchant="0"/>
+    <production id="2134" count="5" enchant="0"/>
+  </item>
+
+ <!-- ancient adena-->
+  <item id="20">
+    <ingredient id="57" count="5000000" enchant="0"/>
+    <production id="5575" count="100000" enchant="0"/>
+  </item>
+
+  <!-- Secret Book of Giants -->
+  <item id="21">
+    <ingredient id="57" count="500000000" enchant="0"/>
+    <production id="6622" count="1" enchant="0"/>
+  </item>
+
+</list>

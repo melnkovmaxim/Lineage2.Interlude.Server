@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='17800' name="Шлем рыцаря">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='17801' name="Titanium_Helmet">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='17802' name="Titanium_Helmet">
+  <for>
+  <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+<add order="0x30" stat="maxHp" val="1000"/>
+<add order="0x30" stat="maxMp" val="1000"/>
+<add order="0x30" stat="maxCp" val="1000"/>
+  </for>
+</item>
+<item id='17803' name="Titanium_Helmet">
+  <for>
+  <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+<add order="0x30" stat="maxHp" val="1000"/>
+<add order="0x30" stat="maxMp" val="1000"/>
+<add order="0x30" stat="maxCp" val="1000"/>
+  </for>
+</item>
+<item id='17804' name="Titanium_Helmet">
+  <for>
+  <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+<add order="0x30" stat="maxHp" val="1000"/>
+<add order="0x30" stat="maxMp" val="1000"/>
+<add order="0x30" stat="maxCp" val="1000"/>
+  </for>
+</item>
+<item id='17805' name="Titanium_Helmet">
+  <for>
+  <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+<add order="0x30" stat="maxHp" val="1000"/>
+<add order="0x30" stat="maxMp" val="1000"/>
+<add order="0x30" stat="maxCp" val="1000"/>
+  </for>
+</item>
+<item id='17806' name="17806">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='17807' name="17807">
+  <for>
+  <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+<add order="0x30" stat="maxHp" val="1000"/>
+<add order="0x30" stat="maxMp" val="1000"/>
+<add order="0x30" stat="maxCp" val="1000"/>
+  </for>
+</item>
+<item id='17808' name="17808">
+  <for>
+  <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+<add order="0x30" stat="maxHp" val="1000"/>
+<add order="0x30" stat="maxMp" val="1000"/>
+<add order="0x30" stat="maxCp" val="1000"/>
+  </for>
+</item>
+</list>

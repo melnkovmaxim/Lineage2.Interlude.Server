@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="9900" levels="1" name="1 lvl heavy">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="1.50"/> <!-- P Def. +8% -->
+    <mul order="0x30" stat="mDef" val="1.50"/> <!-- P Def. +8% -->
+    <mul order="0x30" stat="pAtk" val="1.50"/> <!-- P. Atk +4% -->
+	<mul order="0x30" stat="pAtkSpd" val="1.35"/>
+	<add order="0x40" stat="runSpd" val="10"/>
+		    <add val='15000' order='0x40' stat='maxHp'/>
+		    <add val='15000' order='0x40' stat='maxCp'/>
+			  </for>
+</skill>
+<skill id="9901" levels="1" name="1 lvl light">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="1.50"/> <!-- P Def. +8% -->
+    <mul order="0x30" stat="mDef" val="1.50"/> <!-- P Def. +8% -->
+    <mul order="0x30" stat="pAtk" val="1.50"/> <!-- P. Atk +4% -->
+	<mul order="0x30" stat="pAtkSpd" val="1.35"/>
+	<add order="0x40" stat="runSpd" val="10"/>
+		    <add val='15000' order='0x40' stat='maxHp'/>
+		    <add val='15000' order='0x40' stat='maxCp'/>
+  </for>
+</skill>
+<skill id="9902" levels="1" name="1 lvl roba">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="1.30"/>
+    <mul order="0x30" stat="mAtkSpd" val="1.35"/>
+    <add order="0x40" stat="runSpd" val="10"/>
+	<mul order="0x30" stat="mDef" val="1.30"/>
+	<mul order="0x30" stat="mAtk" val="1.50"/>
+	    <add val='15000' order='0x40' stat='maxHp'/>
+		<add val='15000' order='0x40' stat='maxCp'/>
+  </for>
+</skill>
+
+</list>

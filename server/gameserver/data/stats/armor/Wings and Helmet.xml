@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='11117' name="Helmet">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='11031' name="Helmet">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='11032' name="Helmet">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='11033' name="Helmet">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='11034' name="Helmet">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+<item id='14000' name="Wings">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+
+<item id='11121' name="Wings">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+
+<item id='11118' name="Голова Пирата">
+  <for>
+  <mul val='1.30' order='0x30' stat='mAtk'/>
+  <mul val='1.30' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11119' name="Голова Робота">
+  <for>
+  <mul val='1.30' order='0x30' stat='mAtk'/>
+  <mul val='1.30' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  </for>
+</item>
+
+<item id='11120' name="Голова дьявола">
+  <for>
+  <mul val='1.30' order='0x30' stat='mAtk'/>
+  <mul val='1.30' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+
+  </for>
+</item>
+<item id='24018' name="Снежные крылья">
+  <for>
+    <add order="0x40" stat="pDef" val="4500"/>
+    <add order="0x40" stat="mDef" val="4500"/>
+    <add order="0x40" stat="pAtk" val="4500"/>
+    <add order="0x40" stat="mAtk" val="4500"/>
+    <add order="0x40" stat="pAtkSpd" val="800"/>
+    <add order="0x40" stat="mAtkSpd" val="800"/>
+    <add order="0x40" stat="maxMp" val="7000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='23007' name="Cвечение зевса">
+  <for>
+    <add order="0x40" stat="pDef" val="4500"/>
+    <add order="0x40" stat="mDef" val="4500"/>
+    <add order="0x40" stat="pAtk" val="4500"/>
+    <add order="0x40" stat="mAtk" val="4500"/>
+    <add order="0x40" stat="pAtkSpd" val="800"/>
+    <add order="0x40" stat="mAtkSpd" val="800"/>
+    <add order="0x40" stat="maxMp" val="7000"/> 
+	<add val='7000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='23008' name="Свечение посейдона">
+  <for>
+    <add order="0x40" stat="pDef" val="4500"/>
+    <add order="0x40" stat="mDef" val="4500"/>
+    <add order="0x40" stat="pAtk" val="4500"/>
+    <add order="0x40" stat="mAtk" val="4500"/>
+    <add order="0x40" stat="pAtkSpd" val="800"/>
+    <add order="0x40" stat="mAtkSpd" val="800"/>
+    <add order="0x40" stat="maxMp" val="7000"/> 
+	<add val='7000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='19002' name="Крылья">
+  <for>
+   <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.45' order='0x30' stat='mAtk'/>
+  <mul val='2.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='2.80' order='0x30' stat='pAtk'/>
+  <mul val='2.00' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='19003' name="Крылья">
+  <for>
+   <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.45' order='0x30' stat='mAtk'/>
+  <mul val='2.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='2.80' order='0x30' stat='pAtk'/>
+  <mul val='2.00' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='19004' name="Aura_v2">
+  <for>
+   <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.45' order='0x30' stat='mAtk'/>
+  <mul val='2.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='2.80' order='0x30' stat='pAtk'/>
+  <mul val='2.00' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='19005' name="Aura_v2">
+  <for>
+   <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.45' order='0x30' stat='mAtk'/>
+  <mul val='2.10' order='0x30' stat='pAtkSpd'/>
+  <mul val='2.80' order='0x30' stat='pAtk'/>
+  <mul val='2.00' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='12461' name=" Wings">
+	<for>
+  <mul val='1.30' order='0x30' stat='mDef'/>
+   <mul val='1.15' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.55' order='0x30' stat='mAtk'/>
+  <mul val='2.15' order='0x30' stat='pAtkSpd'/>
+  <mul val='2.90' order='0x30' stat='pAtk'/>
+  <mul val='2.10' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+<add order="0x40" stat="maxHp" val="40000"/>
+<add order="0x40" stat="maxMp" val="5000"/>
+<add order="0x40" stat="maxCp" val="40000"/>
+	</for>
+</item>
+<item id='25000' name="BlueRed Dragon Wings">
+	<for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+	</for>
+</item>
+<item id='25001' name="BlueRed Dragon Wings">
+	<for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+	</for>
+</item>
+<item id='12460' name="Helmet">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+</for>
+</item>
+
+
+
+
+</list>

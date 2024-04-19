@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Quest 632: Necromancer's Request  -->
+
+<list>
+
+  <!--  -->
+  <item id="1">
+    <ingredient id="6673" count="1"/>
+    <production id="1540" count="20"/>
+  </item>
+
+  <item id="2">
+    <ingredient id="6673" count="1"/>
+    <production id="5592" count="50"/>
+  </item>
+
+  <item id="3">
+    <ingredient id="6673" count="10"/>
+    <production id="5799" count="1"/>
+  </item>
+
+  <item id="4">
+    <ingredient id="6673" count="1"/>
+    <production id="6407" count="100"/>
+  </item>
+
+  <item id="5">
+    <ingredient id="6673" count="15"/>
+    <production id="3501" count="1"/>
+  </item>
+
+
+</list>

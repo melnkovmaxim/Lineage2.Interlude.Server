@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list>
+
+<item id="1">
+<ingredient id="4037" count="25" enchant="0"/>
+<production id="5246" count="5" enchant="0"/>
+</item>
+
+<item id="2">
+<ingredient id="4037" count="25" enchant="0"/>
+<production id="5245" count="5" enchant="0"/>
+</item>
+
+<item id="3">
+<ingredient id="4037" count="25" enchant="0"/>
+<production id="5244" count="5" enchant="0"/>
+</item>
+
+<item id="4">
+<ingredient id="4037" count="25" enchant="0"/>
+<production id="5243" count="5" enchant="0"/>
+</item>
+
+<item id="5">
+<ingredient id="4037" count="25" enchant="0"/>
+<production id="5242" count="5" enchant="0"/>
+</item>
+
+</list>

@@ -1,0 +1,47 @@
+﻿<html>
+<body>
+<center>Информация</center>
+<img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=1 height=3>
+<table width=280 border=0>
+<tr><td width=14><font color="a2a0a2">Название</font></td>
+<td width=140><font color="b09979">%AGIT_NAME%</font></td></tr>
+<tr><td><font color="a2a0a2">Клан</font></td>
+<td><font color="b09979">%OWNER_PLEDGE_NAME%</font></td></tr>
+<tr><td><font color="a2a0a2">Лидер</font></td>
+<td><font color="b09979">%OWNER_PLEDGE_MASTER%</font></td></tr>
+<tr><td><font color="a2a0a2">Размер</font></td>
+<td><font color="b09979">%AGIT_SIZE% rating</font> (grade)</td></tr>
+<tr><td><font color="a2a0a2">Стоимость</font></td>
+<td><font color="b09979">%AGIT_LEASE%</font>  adena<font color="LEVEL">/неденя</font></td></tr>
+<tr><td><font color="a2a0a2">Локация</font></td>
+<td>%AGIT_LOCATION%</td></tr>
+</table>
+<img src="L2UI.SquareGray" width=270 height=1> <img src="L2UI.SquareBlank" width=1 height=3>
+<table width=280 border=0>
+<tr><td width=140><font color="a2a0a2">Окончание аукциона</font></td>
+<td width=140><font color="b09979">%AGIT_AUCTION_END%</font></td></tr>
+<tr><td><font color="a2a0a2">Осталось</font></td>
+<td><font color="b09979">%AGIT_AUCTION_REMAIN%</font></td></tr>
+<tr><td><font color="a2a0a2">Ставка</font></td>
+<td><font color="b09979">%AGIT_AUCTION_MINBID%</font> adena</td></tr>
+<tr><td><font color="ccc0cc">Ставка</font></td>
+<td><font color="aaccff">%AGIT_AUCTION_MYBID%</font> adena</td></tr>
+</table>
+<table width=280 border=0 bgcolor=333333>
+<tr><td width=280>%AGIT_AUCTION_DESC%</td></tr>
+</table>
+<img src="L2UI.SquareBlank" width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_cancelBid" value="Отменить" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_bidlist" value="Претенденты" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+</tr>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="%AGIT_LINK_BACK%" value="Назад" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_rebid" value="Новая ставка" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+</tr>
+</table>
+</body>
+</html>

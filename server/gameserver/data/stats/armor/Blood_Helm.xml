@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+<item id='9981' name="Blood_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9568' name="Blood_Helm">
+  <for>
+  <mul val='1.20' order='0x30' stat='mAtk'/>
+  <mul val='1.20' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.12' order='0x30' stat='maxHp'/>
+  <mul val='1.12' order='0x30' stat='maxCp'/>
+  <mul val='1.12' order='0x30' stat='maxMp'/>
+  </for>
+</item>
+<item id='9982' name="Poseidon">
+  <for>
+  <mul val='1.40' order='0x30' stat='mAtk'/>
+  <mul val='1.40' order='0x30' stat='pAtk'/>
+  <mul val='1.30' order='0x30' stat='mDef'/>
+  <mul val='1.30' order='0x30' stat='pDef'/>
+  <mul val='1.25' order='0x30' stat='maxHp'/>
+  <mul val='1.25' order='0x30' stat='maxCp'/>
+  <mul val='1.25' order='0x30' stat='maxMp'/>
+  </for>
+</item>
+<item id='9983' name="Dreds">
+  <for>
+    <add order="0x40" stat="pDef" val="15000"/>
+    <add order="0x40" stat="mDef" val="15000"/>
+    <add order="0x40" stat="pAtk" val="15000"/>
+    <add order="0x40" stat="mAtk" val="15000"/>
+    <add order="0x40" stat="pAtkSpd" val="2500"/>
+    <add order="0x40" stat="mAtkSpd" val="2500"/>
+    <add order="0x40" stat="maxMp" val="30000"/>
+	<add val='20000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9984' name="Blood_Helm">
+  <for>
+  <mul val='1.20' order='0x30' stat='mAtk'/>
+  <mul val='1.20' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.12' order='0x30' stat='maxHp'/>
+  <mul val='1.12' order='0x30' stat='maxCp'/>
+  <mul val='1.12' order='0x30' stat='maxMp'/>
+  </for>
+</item>
+<item id='9985' name="Blood_Helm">
+  <for>
+  <mul val='1.20' order='0x30' stat='mAtk'/>
+  <mul val='1.20' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.12' order='0x30' stat='maxHp'/>
+  <mul val='1.12' order='0x30' stat='maxCp'/>
+  <mul val='1.12' order='0x30' stat='maxMp'/>
+  </for>
+</item>
+<item id='9986' name="Blood_Helm">
+  <for>
+  <mul val='1.20' order='0x30' stat='mAtk'/>
+  <mul val='1.20' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.12' order='0x30' stat='maxHp'/>
+  <mul val='1.12' order='0x30' stat='maxCp'/>
+  <mul val='1.12' order='0x30' stat='maxMp'/>
+  </for>
+</item>
+
+<item id='9988' name="Blood_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9989' name="DemonDonat">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9990' name="Blood_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9991' name="Blood_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9992' name="Blood_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9993' name="Blood_Helm">
+  <for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9994' name="Blood_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9995' name="Blood_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9996' name="Blood_Helm">
+  <for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+  </for>
+</item>
+<item id='9569' name="Blood_Helm">
+  <for>
+  <mul val='1.20' order='0x30' stat='mAtk'/>
+  <mul val='1.20' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.12' order='0x30' stat='maxHp'/>
+  <mul val='1.12' order='0x30' stat='maxCp'/>
+  <mul val='1.12' order='0x30' stat='maxMp'/>
+  </for>
+</item>
+<item id='19976' name="Blood_Helm">
+  <for>
+  <mul val='1.20' order='0x30' stat='mAtk'/>
+  <mul val='1.20' order='0x30' stat='pAtk'/>
+  <mul val='1.20' order='0x30' stat='mDef'/>
+  <mul val='1.20' order='0x30' stat='pDef'/>
+  <mul val='1.12' order='0x30' stat='maxHp'/>
+  <mul val='1.12' order='0x30' stat='maxCp'/>
+  <mul val='1.12' order='0x30' stat='maxMp'/>
+  </for>
+</item>
+</list>

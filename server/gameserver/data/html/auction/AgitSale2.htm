@@ -1,0 +1,18 @@
+﻿<html>
+<body>
+Цена этого клан холла <font color="aaccff">%AGIT_LAST_PRICE%</font> adena.
+<br>
+Вырученная с продажи сумма облагается <font color="LEVEL">налогом (10%)</font>. Укажите начальную цену клан холла:
+<table width=270 border=0><tr><td width=220 align=right><edit var=minbid width=230 align=right type=number></td><td width=40 align=right>adena</td></tr></table>
+Длительность аункциона:
+<table width=270 border=0><tr><td width=270 align=right><combobox width=50 var=day list="7;3;1"></td></tr></table>
+Комментарии: <multiedit var="comment" width=270><img src="L2UI.SquareBlank" width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="%AGIT_LINK_BACK%" value="Назад" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_auction $day $minbid" value="Продать" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td> 
+</tr>
+</table>
+</body>
+</html>

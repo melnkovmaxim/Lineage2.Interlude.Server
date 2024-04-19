@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='9500' name="Element Blue Breastplate">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9501' name="Element Blue Gaiters">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9502' name="Element Blue Gauntlet">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9503' name="Element Blue Solleret">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9504' name="Element Blue Brigandine">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9505' name="Element Blue Leather Leggings">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9506' name="Element Blue Leather Gloves">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9507' name="Element Blue Leather Boots">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9508' name="Element Blue Tunic">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9509' name="Element Blue Stockings">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9510' name="Element Blue Mittens">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9511' name="Element Blue Slippers">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9512' name="Element Blue Helm">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9513' name="Element Blue Circlet">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9514' name="Element Blue Cap">
+  <for>
+    <add val='75' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+</list>

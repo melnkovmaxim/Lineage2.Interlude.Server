@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Quest 704: Miss Queen -->
+<list upgradeList="true">
+   
+   <item id="1">
+   <ingredient id="13407" count="1" enchant="0"/>
+   <ingredient id="13017" count="25" enchant="0"/> 
+   <production id="17184" count="1" enchant="0"/> 
+   </item> 
+   
+   <item id="2">
+   <ingredient id="13307" count="1" enchant="0"/>
+   <ingredient id="13017" count="25" enchant="0"/>   
+   <production id="17184" count="1" enchant="0"/> 
+   </item>
+   
+   <item id="3">
+   <ingredient id="18005" count="1" enchant="0"/>
+ <ingredient id="13017" count="25" enchant="0"/>    
+   <production id="17184" count="1" enchant="0"/> 
+   </item>
+
+
+   <item id="6">
+   <ingredient id="13407" count="1" enchant="0"/>
+  <ingredient id="13017" count="25" enchant="0"/>   
+   <production id="17185" count="1" enchant="0"/> 
+   </item> 
+   
+   <item id="7">
+   <ingredient id="13307" count="1" enchant="0"/>
+ <ingredient id="13017" count="25" enchant="0"/>   
+   <production id="17185" count="1" enchant="0"/> 
+   </item>
+   
+   <item id="8">
+   <ingredient id="18005" count="1" enchant="0"/>
+<ingredient id="13017" count="25" enchant="0"/>  
+   <production id="17185" count="1" enchant="0"/> 
+   </item>
+
+
+   <item id="11">
+   <ingredient id="13406" count="1" enchant="0"/>
+ <ingredient id="13017" count="25" enchant="0"/>  
+   <production id="17186" count="1" enchant="0"/> 
+   </item>
+   <item id="12">
+   <ingredient id="13306" count="1" enchant="0"/>
+<ingredient id="13017" count="25" enchant="0"/> 
+   <production id="17186" count="1" enchant="0"/> 
+   </item>
+   <item id="13">
+   <ingredient id="18002" count="1" enchant="0"/>
+   <ingredient id="13017" count="25" enchant="0"/>   
+   <production id="17186" count="1" enchant="0"/> 
+   </item>
+
+
+   <item id="16">
+   <ingredient id="13402" count="1" enchant="0"/>
+<ingredient id="13017" count="25" enchant="0"/>  
+   <production id="17187" count="1" enchant="0"/> 
+   </item>
+   <item id="17">
+   <ingredient id="13302" count="1" enchant="0"/>
+ <ingredient id="13017" count="25" enchant="0"/>   
+   <production id="17187" count="1" enchant="0"/> 
+   </item>
+   <item id="18">
+   <ingredient id="18008" count="1" enchant="0"/>
+ <ingredient id="13017" count="25" enchant="0"/>   
+   <production id="17187" count="1" enchant="0"/> 
+   </item>
+      
+   </list>

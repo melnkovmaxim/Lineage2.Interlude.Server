@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id="20000" name="R90 Akra Shield">
+  <for>
+    <sub val="8" order="0x10" stat="rEvas"/>
+    <set val="142" order="0x08" stat="sDef"/>
+    <set val="20" order="0x08" stat="rShld"/>
+    <enchant val="0" order="0x0C" stat="sDef"/>
+  </for>
+</item>
+<item id="20001" name="R90 Dynaksus Shield">
+  <for>
+    <sub val="8" order="0x10" stat="rEvas"/>
+    <set val="142" order="0x08" stat="sDef"/>
+    <set val="20" order="0x08" stat="rShld"/>
+    <enchant val="0" order="0x0C" stat="sDef"/>
+  </for>
+</item>
+<item id="20002" name="R90 Karyen Shield">
+  <for>
+    <sub val="8" order="0x10" stat="rEvas"/>
+    <set val="142" order="0x08" stat="sDef"/>
+    <set val="20" order="0x08" stat="rShld"/>
+    <enchant val="0" order="0x0C" stat="sDef"/>
+  </for>
+</item>
+<item id="20003" name="R90 Sacon Shield">
+  <for>
+    <sub val="8" order="0x10" stat="rEvas"/>
+    <set val="142" order="0x08" stat="sDef"/>
+    <set val="20" order="0x08" stat="rShld"/>
+    <enchant val="0" order="0x0C" stat="sDef"/>
+  </for>
+</item>
+<item id="20004" name="R90 Kirche Fists">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="576" order="0x08" stat="pAtk"/>
+<set val="145" order="0x08" stat="mAtk"/>
+<set val="16" order="0x08" stat="rCrit"/>
+<add val="10" order="0x10" stat="accCombat"/>
+<set val="360" order="0x08" stat="pAtkSpd"/>
+<enchant val="5" order="0x0C" stat="pAtk"/>
+<enchant val="4" order="0x0C" stat="mAtk"/>
+</for>
+</item>
+<item id="20005" name="R90 Grabathus Bow">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="639" order="0x08" stat="pAtk"/>
+<set val="145" order="0x08" stat="mAtk"/>
+<set val="16" order="0x08" stat="rCrit"/>
+<add val="7" order="0x10" stat="accCombat"/>
+<set val="300" order="0x08" stat="pAtkSpd"/>
+<enchant val="5" order="0x0C" stat="pAtk"/>
+<enchant val="4" order="0x0C" stat="mAtk"/>
+</for>
+</item>
+<item id="20006" name="R90 Lapis Crossbow">
+<for>
+  <mul val='2.35' order='0x30' stat='maxHp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+<set val="5000" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="15" order="0x08" stat="rCrit" />
+<add val="-3" order="0x10" stat="accCombat" />
+<set val="393" order="0x08" stat="pAtkSpd" />
+<enchant val="3" order="0x0C" stat="pAtk" />
+<enchant val="3" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20007" name="R90 Shayaka Crossbow">
+<for>
+  <mul val='2.35' order='0x30' stat='maxHp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+<set val="5000" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="15" order="0x08" stat="rCrit" />
+<add val="-3" order="0x10" stat="accCombat" />
+<set val="393" order="0x08" stat="pAtkSpd" />
+<enchant val="3" order="0x0C" stat="pAtk" />
+<enchant val="3" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20008" name="R90 Spina Dorsi Bow">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="639" order="0x08" stat="pAtk"/>
+<set val="145" order="0x08" stat="mAtk"/>
+<set val="16" order="0x08" stat="rCrit"/>
+<add val="7" order="0x10" stat="accCombat"/>
+<set val="300" order="0x08" stat="pAtkSpd"/>
+<enchant val="5" order="0x0C" stat="pAtk"/>
+<enchant val="4" order="0x0C" stat="mAtk"/>
+</for>
+</item>
+<item id="20009" name="R90 Grangkaz Staff">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="332" order="0x08" stat="pAtk" />
+<set val="244" order="0x08" stat="mAtk" />
+<set val="4" order="0x08" stat="rCrit" />
+<add val="4" order="0x10" stat="accCombat" />
+<set val="379" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20010" name="R90 Grave Spear">
+<for>
+  <mul val='2.35' order='0x30' stat='maxHp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+<set val="3300" order="0x08" stat="pAtk" />
+<set val="183" order="0x08" stat="mAtk" />
+<set val="8" order="0x08" stat="rCrit" />
+<add val="-3" order="0x10" stat="accCombat" />
+<set val="325" order="0x08" stat="pAtkSpd" />
+<enchant val="3" order="0x0C" stat="pAtk" />
+<enchant val="3" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20011" name="R90 Herencia Staff">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="332" order="0x08" stat="pAtk" />
+<set val="244" order="0x08" stat="mAtk" />
+<set val="4" order="0x08" stat="rCrit" />
+<add val="4" order="0x10" stat="accCombat" />
+<set val="379" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20012" name="R90 Grave Spear">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="415" order="0x08" stat="pAtk" />
+<set val="183" order="0x08" stat="mAtk" />
+<set val="8" order="0x08" stat="rCrit" />
+<add val="-3" order="0x10" stat="accCombat" />
+<set val="325" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20013" name="R90 Fuego Hammer">
+		<for>
+  <mul val='2.25' order='0x30' stat='maxHp'/>
+  <mul val='2.25' order='0x30' stat='maxCp'/>
+  <mul val='2.25' order='0x30' stat='maxCp'/>
+			<set val="2032" order="0x08" stat="pAtk" />
+			<set val="192" order="0x08" stat="mAtk" />
+			<set val="4" order="0x08" stat="rCrit" />
+			<add val="4" order="0x10" stat="accCombat" />
+			<set val="725" order="0x08" stat="pAtkSpd" />
+			<enchant val="3" order="0x0C" stat="pAtk" />
+			<enchant val="3" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+<item id="20014" name="R90 Polion Sword">
+<for>
+  <mul val='2.35' order='0x30' stat='maxHp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+<set val="2173" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="8" order="0x08" stat="rCrit" />
+<add val="2" order="0x10" stat="accCombat" />
+<set val="350" order="0x08" stat="pAtkSpd" />
+<enchant val="3" order="0x0C" stat="pAtk" />
+<enchant val="3" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20015" name="R90 Volver Sword">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="473" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="8" order="0x08" stat="rCrit" />
+<add val="2" order="0x10" stat="accCombat" />
+<set val="350" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20016" name="R90 Aspeda Dagger">
+<for>
+  <mul val='2.35' order='0x30' stat='maxHp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+<set val="2415" order="0x08" stat="pAtk" />
+<set val="183" order="0x08" stat="mAtk" />
+<set val="12" order="0x08" stat="rCrit" />
+<add val="-3" order="0x10" stat="accCombat" />
+<set val="433" order="0x08" stat="pAtkSpd" />
+<enchant val="3" order="0x0C" stat="pAtk" />
+<enchant val="3" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20017" name="R90 Phasian Dagger">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="415" order="0x08" stat="pAtk" />
+<set val="183" order="0x08" stat="mAtk" />
+<set val="12" order="0x08" stat="rCrit" />
+<add val="-3" order="0x10" stat="accCombat" />
+<set val="433" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20018" name="R90 Estia Sword">
+<for>
+  <mul val='2.35' order='0x30' stat='maxHp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+<set val="3273" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="8" order="0x08" stat="rCrit" />
+<add val="2" order="0x10" stat="accCombat" />
+<set val="350" order="0x08" stat="pAtkSpd" />
+<enchant val="3" order="0x0C" stat="pAtk" />
+<enchant val="3" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20019" name="R90 Imerose Sword">
+<for>
+  <mul val='2.45' order='0x30' stat='maxHp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+<set val="3473" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="8" order="0x08" stat="rCrit" />
+<add val="2" order="0x10" stat="accCombat" />
+<set val="350" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20020" name="R90 Kaynon Sword">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="473" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="8" order="0x08" stat="rCrit" />
+<add val="2" order="0x10" stat="accCombat" />
+<set val="350" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20021" name="R90 Pasis Sword">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="473" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="8" order="0x08" stat="rCrit" />
+<add val="2" order="0x10" stat="accCombat" />
+<set val="350" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20022" name="R90 Batista Hammer">
+<for>
+  <mul val='2.35' order='0x30' stat='maxHp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+  <mul val='2.35' order='0x30' stat='maxCp'/>
+<set val="3332" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="4" order="0x08" stat="rCrit" />
+<add val="4" order="0x10" stat="accCombat" />
+<set val="325" order="0x08" stat="pAtkSpd" />
+<enchant val="2" order="0x0C" stat="pAtk" />
+<enchant val="2" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20023" name="R90 Raksilion Hammer">
+<for>	
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+<set val="532" order="0x08" stat="pAtk" />
+<set val="192" order="0x08" stat="mAtk" />
+<set val="4" order="0x08" stat="rCrit" />
+<add val="4" order="0x10" stat="accCombat" />
+<set val="325" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20024" name="R90 Kiabe Mace">
+<for>
+  <mul val='2.05' order='0x30' stat='maxHp'/>
+  <mul val='2.05' order='0x30' stat='maxCp'/>
+  <mul val='2.05' order='0x30' stat='maxCp'/>
+<set val="332" order="0x08" stat="pAtk" />
+<set val="2044" order="0x08" stat="mAtk" />
+<set val="4" order="0x08" stat="rCrit" />
+<add val="4" order="0x10" stat="accCombat" />
+<set val="379" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="1" order="0x0C" stat="mAtk" />
+</for>
+</item>
+<item id="20025" name="R90 Pilia Mace">
+<for>
+  <mul val='1.05' order='0x30' stat='maxHp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+  <mul val='1.05' order='0x30' stat='maxCp'/>
+    <mul order="0x30" stat="mAtkSpd" val="1.15"/>
+<set val="332" order="0x08" stat="pAtk" />
+<set val="244" order="0x08" stat="mAtk" />
+<set val="4" order="0x08" stat="rCrit" />
+<add val="4" order="0x10" stat="accCombat" />
+<set val="379" order="0x08" stat="pAtkSpd" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+</for>
+</item>
+
+</list>	

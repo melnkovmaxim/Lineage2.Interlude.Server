@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Quest 704: Miss Queen -->
+<list upgradeList="true">
+ 
+  <item id="1"> 
+   <ingredient id="11970" count="1000" enchant="0"/> 
+   <production id="13333" count="1" enchant="0"/> 
+   </item> 
+
+   <item id="2"> 
+   <ingredient id="11970" count="1000" enchant="0"/> 
+   <production id="13334" count="1" enchant="0"/> 
+   </item> 
+   <item id="3"> 
+   <ingredient id="11973" count="100" enchant="0"/>
+   <ingredient id="11974" count="5" enchant="0"/> 
+   <ingredient id="13333" count="1" enchant="0"/> 
+   <production id="11122" count="1" enchant="0"/> 
+   </item> 
+
+   <item id="4"> 
+   <ingredient id="11973" count="100" enchant="0"/>
+   <ingredient id="11974" count="5" enchant="0"/> 
+   <ingredient id="13334" count="1" enchant="0"/>    
+   <production id="11123" count="1" enchant="0"/> 
+   </item> 
+
+<item id="5"> 
+   <ingredient id="11122" count="1" enchant="0"/> 
+   <ingredient id="12019" count="250" enchant="0"/>
+      <ingredient id="11974" count="12" enchant="0"/> 
+   <ingredient id="3483" count="1" enchant="0"/> 
+   <production id="24022" count="1" enchant="0"/> 
+   </item> 
+
+<item id="6"> 
+   <ingredient id="11123" count="1" enchant="0"/> 
+   <ingredient id="12019" count="250" enchant="0"/>
+      <ingredient id="11974" count="12" enchant="0"/> 
+   <ingredient id="3483" count="1" enchant="0"/> 
+   <production id="24021" count="1" enchant="0"/> 
+   </item> 
+
+
+        
+</list>

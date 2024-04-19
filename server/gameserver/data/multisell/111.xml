@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+  <!-- Proof of Blood -->
+  <item id="45">
+    <ingredient id="57" count="50000000" enchant="0"/>
+    <production id="1419" count="1" enchant="0"/>
+  </item>
+
+  <!-- Proof of Alliance -->
+  <item id="46">
+    <ingredient id="57" count="150000000" enchant="0"/>
+    <production id="3874" count="1" enchant="0"/>
+  </item>
+
+  <!-- Proof of Aspiration -->
+  <item id="47">
+    <ingredient id="57" count="300000000" enchant="0"/>
+    <production id="3870" count="1" enchant="0"/>
+  </item>
+
+  <!-- Quicksilver -->
+  <item id="48">
+    <ingredient id="57" count="20000000" enchant="0"/>
+    <production id="6019" count="1" enchant="0"/>
+  </item>
+
+  <!-- Lunargent -->
+  <item id="49">
+    <ingredient id="57" count="500000000" enchant="0"/>
+    <production id="6029" count="1" enchant="0"/>
+  </item>
+
+  <!-- Hellfire Oil-->
+  <item id="50">
+    <ingredient id="57" count="1000000000" enchant="0"/>
+    <production id="6033" count="1" enchant="0"/>
+  </item>
+
+</list>
+

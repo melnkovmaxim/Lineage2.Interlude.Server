@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='11122' name="Tattoo fighter - Lvl2">
+<for>
+<add val='50' order='0x40' stat='rCrit'/>
+<add val='2000' order='0x40' stat='maxHp'>
+<add val='117' order='0x10' stat='pDef'/>
+<add val='15' order='0x40' stat='accCombat'/>
+</add>
+<mul val='1.25' order='0x30' stat='pAtkSpd'/>
+<mul val='1.30' order='0x30' stat='pAtk'/>
+<mul val='1.20' order='0x30' stat='pDef'/> 
+<enchant val='0' order='0x0C' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='mDef'/>
+<enchant val='0' order='0x0C' stat='pAtk'/>
+<enchant val='0' order='0x0C' stat='pAtkSpd'/>
+</for>
+</item>
+
+<item id='11123' name="Tattoo Mage - Lv2">
+<for>
+<add val='117' order='0x10' stat='mDef'/>
+<add val='4000' order='0x40' stat='maxHp'/>
+<add val='4000' order='0x40' stat='maxMp'>
+</add>
+<mul val='1.25' order='0x30' stat='mAtkSpd'/>
+<mul val='1.27' order='0x30' stat='mAtk'/>
+<mul val='1.17' order='0x30' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='mDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='mAtk'/>
+<enchant val='0' order='0x0C' stat='mAtkSpd'/>
+</for>
+</item>
+</list>

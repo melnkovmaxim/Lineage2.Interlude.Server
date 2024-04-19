@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<list>		
+	<item id="10046" name="Immortal  Helmet">
+		<for>
+			<add order="0x10" stat="pDef" val="114" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10047" name="Immortal  Breastplate">
+		<for>
+			<add order="0x10" stat="pDef" val="304" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10048" name="Immortal  Gaiter">
+		<for>
+			<add order="0x10" stat="pDef" val="190" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10049" name="Immortal  Gauntlet">
+		<for>
+			<add order="0x10" stat="pDef" val="76" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10050" name="Immortal  Boots">
+		<for>
+			<add order="0x10" stat="pDef" val="76" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10051" name="Immortal  Leather Helmet">
+		<for>
+			<add order="0x10" stat="pDef" val="114" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10052" name="Immortal  Leather Breastplate">
+		<for>
+			<add order="0x10" stat="pDef" val="228" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10053" name="Immortal  Leather Legging">
+		<for>
+			<add order="0x10" stat="pDef" val="143" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10054" name="Immortal  Leather Gloves">
+		<for>
+			<add order="0x10" stat="pDef" val="76" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10055" name="Immortal  Leather Boots">
+		<for>
+			<add order="0x10" stat="pDef" val="76" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10056" name="Immortal  Circlet">
+		<for>
+			<add order="0x10" stat="pDef" val="114" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10057" name="Immortal  Tunic">
+		<for>
+			<add order="0x10" stat="pDef" val="152" />
+			<add order="0x40" stat="maxMp" val="649" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10058" name="Immortal  Stockings">
+		<for>
+			<add order="0x10" stat="pDef" val="95" />
+			<add order="0x40" stat="maxMp" val="427" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10059" name="Immortal  Gloves">
+		<for>
+			<add order="0x10" stat="pDef" val="76" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10060" name="Immortal  Shoes">
+		<for>
+			<add order="0x10" stat="pDef" val="76" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+</list>	

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="5215" levels="1" name="Raid Stats">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add order="0x40" stat="maxHp" val="500011"/>
+    <mul order="0x30" stat="pAtk" val="111.14"/>
+    <mul order="0x30" stat="mAtk" val="1.18"/>
+    <mul order="0x30" stat="mCritRate" val="2.3"/>
+    <mul order="0x30" stat="fireVuln" val="1.85"/>
+    <mul order="0x30" stat="sleepVuln" val="1.6"/>
+    <mul val='50.55' order='0x30' stat='mDef'/>
+    <mul val='50.65' order='0x30' stat='pDef'/>
+    <mul order="0x30" stat="mReuse" val="1.9"/>
+    <mul order="0x30" stat="pReuse" val="1.9"/>
+    <add order="0x40" stat="reflectDam" val="5"/>
+  </for>
+</skill>
+<skill id="5216" levels="1" name="Slopok_def">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="singleEffect" val="true"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+  <mul val='1.40' order='0x30' stat='mAtk'/>
+  <mul order="0x30" stat="cAtk" val="11111111.25"/>
+  <mul order="0x30" stat="cAtk" val="11111111.25"/>
+  <mul order="0x30" stat="cAtk" val="11111111.25"/>
+  <mul order="0x30" stat="cAtk" val="11111111.25"/>
+  <mul order="0x30" stat="cAtk" val="11111111.25"/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul val='111111.55' order='0x30' stat='pAtk'/>
+  <mul order="0x30" stat="mCritRate" val="1.2"/>
+  <mul val='111111.30' order='0x30' stat='mDef'/>
+  <mul val='111111.30' order='0x30' stat='pDef'/>
+  <mul val='111111111111.30' order='0x30' stat='maxHp'/>
+  <mul val='1.30' order='0x30' stat='maxMp'/>
+  </for>
+</skill>
+</list>

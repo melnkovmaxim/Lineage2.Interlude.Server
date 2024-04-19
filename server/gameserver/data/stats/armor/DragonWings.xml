@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='11911' name="BlueRed Dragon Wings">
+	<for>
+  <mul val='1.30' order='0x30' stat='mDef'/>
+   <mul val='1.15' order='0x30' stat='mAtkSpd'/>
+  <mul val='2.55' order='0x30' stat='mAtk'/>
+  <mul val='2.15' order='0x30' stat='pAtkSpd'/>
+  <mul val='2.90' order='0x30' stat='pAtk'/>
+  <mul val='2.10' order='0x30' stat='pDef'/>
+  <mul order="0x30" stat="cAtk" val="1.25"/>
+<add order="0x40" stat="maxHp" val="40000"/>
+<add order="0x40" stat="maxMp" val="5000"/>
+<add order="0x40" stat="maxCp" val="40000"/>
+	</for>
+</item>
+<item id='11912' name="BlueBlack Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11913' name="BlueDark Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11914' name="BlueBlue Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11915' name="BluePurple Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11916' name="BlueLight Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11921' name="BlackRed Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11922' name="BlackBlack Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11923' name="BlackDark Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11924' name="BlackBlue Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11925' name="BlackPurple Dragon Wings">
+	<for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+	</for>
+</item>
+<item id='11926' name="BlackLight Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11931' name="Red Dragon Wings">
+	<for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+	</for>
+</item>
+<item id='11932' name="Black Dragon Wings">
+	<for>
+   <add order="0x40" stat="pDef" val="9500"/>
+    <add order="0x40" stat="mDef" val="9500"/>
+    <add order="0x40" stat="pAtk" val="9500"/>
+    <add order="0x40" stat="mAtk" val="9500"/>
+    <add order="0x40" stat="pAtkSpd" val="1600"/>
+    <add order="0x40" stat="mAtkSpd" val="1600"/>
+    <add order="0x40" stat="maxMp" val="10000"/> 
+	<add val='10000' order='0x40' stat='maxHp'/>
+	</for>
+</item>
+<item id='11933' name="Dark Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11934' name="Dark Blue Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11935' name="Dark Purple Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11936' name="Dark Light Dragon Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='11937' name="Ares Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+
+<item id='17777' name="4 lvl Wings">
+	<for>
+    <add order="0x40" stat="pDef" val="2500"/>
+    <add order="0x40" stat="mDef" val="2500"/>
+    <add order="0x40" stat="pAtk" val="2500"/>
+    <add order="0x40" stat="mAtk" val="2500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="5000"/> 
+	<add val='5000' order='0x40' stat='maxHp'/>
+	</for>
+</item>
+</list>

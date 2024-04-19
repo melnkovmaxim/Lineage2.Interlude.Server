@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <!-- Шаблон:
+    data="slotId, pageId, shortcutType, shortcutId, shortcutLevel, unknown" 
+	shortcutType: тип ярлыка
+		ITEM = 1;
+		SKILL = 2;
+		ACTION = 3;
+		MACRO = 4;
+		RECIPE = 5;
+	shortcutId: ид шмотки, скилла, действия и т.д.
+	shortcutLevel: уровень скилла
+  -->
+  <magic>
+    <shortcut data='0, 0, 3, 2, -1, 1'/> <!-- attack -->
+    <shortcut data='3, 0, 3, 5, -1, 1'/> <!-- take -->
+    <shortcut data='10, 0, 3, 0, -1, 1'/> <!-- sit -->
+    <shortcut data='9, 1, 3, 7, -1, 1'/> <!-- Дать пати -->
+    <shortcut data='10, 1, 3, 8, -1, 1'/> <!-- Выйти из пати -->
+    <shortcut data='11, 1, 3, 3, -1, 1'/> <!-- Трейд -->
+    <shortcut data='1, 1, 4, 33333, -1, 1'/>
+    <shortcut data='2, 1, 4, 44444, -1, 1'/>
+  </magic>
+  <fighter>
+    <shortcut data='0, 0, 3, 2, -1, 1'/> <!-- attack -->
+    <shortcut data='3, 0, 3, 5, -1, 1'/> <!-- take -->
+    <shortcut data='10, 0, 3, 0, -1, 1'/> <!-- sit -->
+    <shortcut data='9, 1, 3, 7, -1, 1'/> <!-- Дать пати -->
+    <shortcut data='10, 1, 3, 8, -1, 1'/> <!-- Выйти из пати -->
+    <shortcut data='11, 1, 3, 3, -1, 1'/> <!-- Трейд -->
+    <shortcut data='1, 1, 4, 33333, -1, 1'/>
+    <shortcut data='2, 1, 4, 44444, -1, 1'/>
+  </fighter>
+</list>

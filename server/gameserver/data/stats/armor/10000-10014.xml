@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<list>	
+	<item id="10000" name="Eternal Helmet">
+		<for>
+			<add order="0x10" stat="pDef" val="144" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10001" name="Eternal Breastplate">
+		<for>
+			<add order="0x10" stat="pDef" val="385" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10002" name="Eternal Gaiter">
+		<for>
+			<add order="0x10" stat="pDef" val="241" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10003" name="Eternal Gauntlet">
+		<for>
+			<add order="0x10" stat="pDef" val="96" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10004" name="Eternal Boots">
+		<for>
+			<add order="0x10" stat="pDef" val="96" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10005" name="Eternal Leather Helmet">
+		<for>
+			<add order="0x10" stat="pDef" val="144" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10006" name="Eternal Leather Breastplate">
+		<for>
+			<add order="0x10" stat="pDef" val="289" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10007" name="Eternal Leather Legging">
+		<for>
+			<add order="0x10" stat="pDef" val="181" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10008" name="Eternal Leather Gloves">
+		<for>
+			<add order="0x10" stat="pDef" val="96" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10009" name="Eternal Leather Boots">
+		<for>
+			<add order="0x10" stat="pDef" val="96" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10010" name="Eternal Circlet">
+		<for>
+			<add order="0x10" stat="pDef" val="144" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10011" name="Eternal Tunic">
+		<for>
+			<add order="0x10" stat="pDef" val="193" />
+			<add order="0x40" stat="maxMp" val="649" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+    <item id="10012" name="Eternal Stockings">
+		<for>
+			<add order="0x10" stat="pDef" val="121" />
+			<add order="0x40" stat="maxMp" val="427" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10013" name="Eternal Gloves">
+		<for>
+			<add order="0x10" stat="pDef" val="96" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10014" name="Eternal Shoes">
+		<for>
+			<add order="0x10" stat="pDef" val="96" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+
+</list>	

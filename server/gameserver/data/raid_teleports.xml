@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+  <!--
+  <boss id='ид_босса' name='имя_босса' enable='включена_обработка(true/false)'>
+    <window show='показывать_окно_приглашения(true/false)' lvl_min='мин_уровень_игрока_для_показа' lvl_max='макс_уровень_игрока_для_показа' time='время_на_принятие_решения(мс)' text="текст_приглашения"/>
+    <announce show='показывать_анонс(true/false)' lvl_min='мин_уровень_игрока_для_показа' lvl_max='макс_уровень_игрока_для_показа' text='текст_анонса'/>
+    <teleport loc='координаты_телепорта(x,y,z;x,y,z)'/>
+  </boss>
+  *для text доступна автозамена: %name% - имя босса
+  
+  Рабочий пример для Flame of Splendor Barakie:
+  <boss id='25325' name='Flame of Splendor Barakiel' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился!'/>
+    <teleport loc='91112,-86024,-2740;91176,-86112,-2740;91016,-85879,-2740'/>
+  </boss>
+  -->
+
+ <!-- <boss id='45114' name='Пожиратель' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> РБ Зоны -> ТОП РБ)'/>
+    <teleport loc='28594,185177,-3708;28836,183939,-3683'/>
+  </boss>
+    <boss id='25163' name='Хиро РБ' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> РБ Зоны -> ТОП РБ)'/>
+    <teleport loc='102540,103267,-3583;101782,101652,-3563'/>
+  </boss>
+  -->
+    <boss id='15106' name='Халява' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> Фарм РБ)'/>
+    <teleport loc='111863,210494,-3612;112758,209909,-3638'/>
+  </boss>
+      <boss id='41002' name='Валакас' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> ТОП РБ)'/>
+    <teleport loc='214265,-114648,-1637;212748,-116372,-1637'/>
+  </boss>
+        <boss id='41005' name='QueenAnt' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> ТОП РБ)'/>
+    <teleport loc='-22029,181438,-5723;-21406,181170,-5729'/>
+  </boss>
+        <boss id='41004' name='Антарас' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> ТОП РБ)'/>
+    <teleport loc='178889,116092,-7709;178760,113745,-7709'/>
+  </boss>
+        <boss id='41003' name='Баюм' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> ТОП РБ)'/>
+    <teleport loc='114763,15021,10076;113577,16526,10076'/>
+  </boss>
+        <boss id='41001' name='Закен' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> ТОП РБ)'/>
+    <teleport loc='55266,218727,-3226;55268,219534,-3226'/>
+  </boss>
+       <!--<boss id='15162' name='Премиум РБ' enable='true'>
+    <window show='true' lvl_min='1' lvl_max='80' time='10000' text="Отправиться к %name%?"/>
+    <announce show='true' lvl_min='1' lvl_max='80' text='Босс %name% появился, (Global-Gk -> РБ Зоны -> ТОП РБ)'/>
+    <teleport loc='123697,154599,-3659;124441,154276,-3665'/>
+  </boss>  -->
+</list>

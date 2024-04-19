@@ -1,0 +1,95 @@
+<html>
+<title>L2REDZ Main Admin Menu</title>
+<body>
+<center>
+<table width=260>
+<tr>
+<td><button value="Глав" action="bypass -h admin_admin" width=50 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Игра" action="bypass -h admin_admin2" width=50 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Эффект" action="bypass -h admin_admin3" width=50 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Сервер" action="bypass -h admin_admin4" width=50 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Моды" action="bypass -h admin_admin5" width=50 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+</table>
+<br>
+<table width=240>
+<tr>
+<td>Значение:</td><td><edit var="menu_command" width=110 height=15></td><td><button value="GM чат" action="bypass -h admin_gmchat_menu $menu_command" width=55 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+</table>
+<br>
+<table width=260><tr>
+<td><button value="К чару" action="bypass -h admin_goto_char_menu $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="К мобу" action="bypass -h admin_list_spawns $menu_command 1" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Спаун" action="bypass -h admin_spawn_monster $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Итемы" action="bypass -h admin_create_item $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+<tr>
+<td><button value="Ко мне" action="bypass -h admin_recall_char_menu $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Телепорт" action="bypass -h admin_move_to $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="ЛистСпауна" action="bypass -h admin_list_spawns $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Анонсы" action="bypass -h admin_announce_menu $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+<tr>
+<td><button value="Найти" action="bypass -h admin_find_character $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Repair" action="bypass -h admin_repair $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="ЛистОнлайн" action="bypass -h admin_show_characters 0" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td></td>
+</tr>
+</table>
+<br>
+<table width=260><tr>
+<td><button value="Карма" action="bypass -h admin_setkarma $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Бан чата" action="bypass -h admin_banchat $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="В тюрьму" action="bypass -h admin_jail $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Выкинуть" action="bypass -h admin_kick_menu $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+<tr>
+<td><button value="Нет кармы" action="bypass -h admin_nokarma" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="РазБан чата" action="bypass -h admin_unbanchat $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Из тюрьмы" action="bypass -h admin_unjail $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Бан" action="bypass -h admin_ban_menu $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+</table>
+<br>
+Игровые опции:
+<table width=260>
+<tr>
+<td><button value="Убить" action="bypass -h admin_kill_menu" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Реснуть" action="bypass -h admin_res" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Открыть" action="bypass -h admin_open" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Закрыть" action="bypass -h admin_close" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+<tr>
+<td><button value="NPC к себе" action="bypass -h admin_recall_npc" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Удалить" action="bypass -h admin_delete" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Хельнуть" action="bypass -h admin_heal" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Накормить" action="bypass -h admin_fullfood" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+</table>
+<br>
+Опции GM:
+<table width=240>
+<tr>
+<td><button value="Невидимка" action="bypass -h admin_invis_menu" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Виверна" action="bypass -h admin_ride_wyvern" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Тишина" action="bypass -h admin_silence" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="GM Shop" action="bypass -h admin_gmshop" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td></td>
+</tr>
+<tr>
+<td><button value="Режим Бога" action="bypass -h admin_invul" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Страйдер" action="bypass -h admin_ride_strider" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Торговля" action="bypass -h admin_tradeoff" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Заточки" action="bypass -h admin_enchant" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+<tr>
+<td><button value="Diet" action="bypass -h admin_diet" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Пешком" action="bypass -h admin_unride" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Петиции" action="bypass -h admin_view_petitions" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+<td><button value="Помощь" action="bypass -h admin_help admhelp.htm" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+</tr>
+</table>
+</center>
+</body>
+</html>

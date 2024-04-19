@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id="13975" name="molot 5 lvl">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+  </for>
+</item>
+
+<item id="13976" name="Me4 Mag">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+  </for>
+</item>
+
+<item id="13977" name="Me4">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+
+  </for>
+</item>
+
+<item id="13978" name="KostetbI">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+	</for>
+</item>
+
+<item id="13979" name="Dager">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+
+  </for>
+</item>
+
+<item id="13980" name="Destro dvuruk">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+
+  </for>
+</item>
+
+<item id="13981" name="Lance">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>  </for>
+</item>
+
+<item id="13982" name="Bow">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+  </for>
+</item>
+
+<item id="13973" name="Duals">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+  </for>
+</item>
+
+
+<item id='13956' name="Zevs Shield">
+<for>
+  <mul order="0x30" stat="pDef" val="1.05"/> 
+  <mul order="0x30" stat="mDef" val="1.05"/> 
+  <set val='30' order='0x08' stat='rShld'/>
+  <set val='350' order='0x08' stat='sDef'/>
+  <enchant val='0' order='0x0C' stat='pDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='sDef'/>
+</for>
+</item>
+
+<item id="13957" name="Wizard Down">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+
+  </for>
+</item>
+
+<item id="13958" name="Hamer">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+  </for>
+</item>
+
+<item id="13959" name="Wizard Blade">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+	</for>
+</item>
+
+<item id="13960" name="Dager">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+
+  </for>
+</item>
+
+<item id="13961" name="Bow">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+  </for>
+</item>
+
+<item id="13962" name="Lance">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+  </for>
+</item>
+
+<item id="13953" name="Fingers">
+  <for>
+    <set val='1000' order='0x08' stat='mAtk'/>
+  </for>
+</item>
+
+
+</list>

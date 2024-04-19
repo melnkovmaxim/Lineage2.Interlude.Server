@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Quest 704: Miss Queen -->
+<list>
+   
+   <item id="1"> 
+   <ingredient id="12013" count="150" enchant="0"/> 
+   <production id="13013" count="1" enchant="0"/> 
+   </item>     
+
+</list>

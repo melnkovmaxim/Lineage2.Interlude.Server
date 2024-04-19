@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <mob id='75001'>
+    <item id='11970' min='70' max='100' chance='100'/>
+  </mob>
+  <mob id='48001'>
+    <item id='11970' min='200' max='250' chance='100'/>
+  </mob>
+  <mob id='75038'>
+    <item id='11970' min='500' max='700' chance='100'/>
+	<item id='12013' min='1' max='1' chance='5'/>
+  </mob>
+  <mob id='200052'>
+    <item id='11975' min='8' max='8' chance='100'/>
+	<item id='12013' min='1' max='1' chance='100'/>
+  </mob>
+  <mob id='80100'>
+    <item id='12019' min='2' max='2' chance='100'/>
+  </mob>  
+</list>

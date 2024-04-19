@@ -1,0 +1,16 @@
+﻿<html>
+<body>
+<font color="LEVEL">Ставка принимается только для одного клан холла.</font> Когда вы делаете ставку - деньги снимаются со  <font color="LEVEL">склада вашего клана</font>. <font color="LEVEL">10% от ставки - налог</font>, налог не возврашается даже, если вы отмените ставку.<br> <font color="LEVEL">Размер ставки</font> должен быть больше минимальной ставки (или предыдушей, если такая имеется). Клан сделавший большую ставку побеждает в аукционе и получает клан холл.<br> Сейчас на складе вашего клана <font color="aaccff">%PLEDGE_ADENA%</font> adena.Ставка <font color="aaccff">%AGIT_AUCTION_MINBID%</font> adena.
+<br>
+Сколько вы хотите поставить?
+<table width=270 border=0><tr><td width=220 align=right><edit var=bidprice width=230 align=right type=number></td><td width=40 align=right>adena</td></tr></table>
+<img src="L2UI.SquareBlank" width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=130></td>
+<td width=70 align=center><button action="%AGIT_LINK_BACK%" value="Назад" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+<td width=70 align=center><button action="bypass -h npc_%objectId%_bid $bidprice" value="Готово" width=70 height=21 back="L2UI.DefaultButton_click" fore="L2UI.DefaultButton"></td>
+</tr>
+</table>
+</body>
+</html>

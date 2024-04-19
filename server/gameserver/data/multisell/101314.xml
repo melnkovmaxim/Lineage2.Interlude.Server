@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Quest items -->
+
+<list npcId="1013">
+<item id="1">
+<ingredient id="57" count="50000" enchant="0"/>
+<production id="1419" count="1" enchant="0"/>
+</item>
+<item id="2">
+<ingredient id="57" count="50000" enchant="0"/>
+<production id="3874" count="1" enchant="0"/>
+</item>
+<item id="3">
+<ingredient id="57" count="50000" enchant="0"/>
+<production id="3870" count="1" enchant="0"/>
+</item>
+<item id="4">
+<ingredient id="57" count="1000000" enchant="0"/>
+<production id="6029" count="1" enchant="0"/>
+</item>
+<item id="5">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="6033" count="1" enchant="0"/>
+</item>
+<item id="6">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="1837" count="20" enchant="0"/>
+</item>
+<item id="7">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="1871" count="20" enchant="0"/>
+</item>
+<item id="8">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="2130" count="2" enchant="0"/>
+</item>
+<item id="9">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="1873" count="8" enchant="0"/>
+</item>
+<item id="10">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="1875" count="1" enchant="0"/>
+</item>
+<item id="11">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="2131" count="2" enchant="0"/>
+</item>
+
+<!-- Dragon Heart: A-Grade	 -->
+<item id="102">
+<ingredient id="6673" count="6" enchant="0"/>
+<production id="8163" count="1" enchant="0"/>
+</item>
+<!-- Dragon Heart: B-Grade	 -->
+<item id="103">
+<ingredient id="6673" count="4" enchant="0"/>
+<production id="8162" count="1" enchant="0"/>
+</item>
+<!-- Dragon Heart: C-Grade	 -->
+<item id="104">
+<ingredient id="6673" count="2" enchant="0"/>
+<production id="8161" count="1" enchant="0"/>
+</item>
+
+<!--Memento Mori: A-Grade	 -->
+<item id="105">
+<ingredient id="6673" count="6" enchant="0"/>
+<production id="8160" count="1" enchant="0"/>
+</item>
+<!--Memento Mori: B-Grade	 -->
+<item id="106">
+<ingredient id="6673" count="4" enchant="0"/>
+<production id="8159" count="1" enchant="0"/>
+</item>
+<!--Memento Mori: C-Grade	 -->
+<item id="107">
+<ingredient id="6673" count="2" enchant="0"/>
+<production id="8158" count="1" enchant="0"/>
+</item>
+
+<!--Earth Egg: A-Grade	 -->
+<item id="108">
+<ingredient id="6673" count="6" enchant="0"/>
+<production id="8166" count="1" enchant="0"/>
+</item>
+<!--Earth Egg: B-Grade	 -->
+<item id="109">
+<ingredient id="6673" count="4" enchant="0"/>
+<production id="8165" count="1" enchant="0"/>
+</item>
+<!--Earth Egg: C-Grade	 -->
+<item id="110">
+<ingredient id="6673" count="2" enchant="0"/>
+<production id="8164" count="1" enchant="0"/>
+</item>
+
+<!--Angelic Essence: A-Grade	 -->
+<item id="111">
+<ingredient id="6673" count="6" enchant="0"/>
+<production id="8172" count="1" enchant="0"/>
+</item>
+<!--Angelic Essence: B-Grade	 -->
+<item id="112">
+<ingredient id="6673" count="4" enchant="0"/>
+<production id="8171" count="1" enchant="0"/>
+</item>
+<!--Angelic Essence: C-Grade	 -->
+<item id="113">
+<ingredient id="6673" count="2" enchant="0"/>
+<production id="8170" count="1" enchant="0"/>
+</item>
+
+<!--Nonliving Nucleus: A-Grade	 -->
+<item id="114">
+<ingredient id="6673" count="6" enchant="0"/>
+<production id="8169" count="1" enchant="0"/>
+</item>
+<!--Nonliving Nucleus: B-Grade	 -->
+<item id="115">
+<ingredient id="6673" count="4" enchant="0"/>
+<production id="8168" count="1" enchant="0"/>
+</item>
+<!--Nonliving Nucleus: C-Grade	 -->
+<item id="116">
+<ingredient id="6673" count="2" enchant="0"/>
+<production id="8167" count="1" enchant="0"/>
+</item>
+
+<!--Cradle of Creation	 -->
+<item id="117">
+<ingredient id="6673" count="2" enchant="0"/>
+<production id="8175" count="1" enchant="0"/>
+</item>
+
+<!--Destruction Tombstone	 -->
+<item id="118">
+<ingredient id="6673" count="2" enchant="0"/>
+<production id="8176" count="1" enchant="0"/>
+</item>
+  
+</list>

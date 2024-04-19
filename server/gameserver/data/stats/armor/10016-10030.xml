@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<list>		
+	<item id="10016" name="Seraph Helmet">
+		<for>
+			<add order="0x10" stat="pDef" val="139" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10017" name="Seraph Breastplate">
+		<for>
+			<add order="0x10" stat="pDef" val="370" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10018" name="Seraph Gaiter">
+		<for>
+			<add order="0x10" stat="pDef" val="231" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10019" name="Seraph Gauntlet">
+		<for>
+			<add order="0x10" stat="pDef" val="93" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10020" name="Seraph Boots">
+		<for>
+			<add order="0x10" stat="pDef" val="93" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10021" name="Seraph Leather Helmet">
+		<for>
+			<add order="0x10" stat="pDef" val="139" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10022" name="Seraph Leather Breastplate">
+		<for>
+			<add order="0x10" stat="pDef" val="278" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10023" name="Seraph Leather Legging">
+		<for>
+			<add order="0x10" stat="pDef" val="173" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10024" name="Seraph Leather Gloves">
+		<for>
+			<add order="0x10" stat="pDef" val="93" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10025" name="Seraph Leather Boots">
+		<for>
+			<add order="0x10" stat="pDef" val="93" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10026" name="Seraph Circlet">
+		<for>
+			<add order="0x10" stat="pDef" val="139" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10027" name="Seraph Tunic">
+		<for>
+			<add order="0x10" stat="pDef" val="185" />
+			<add order="0x40" stat="maxMp" val="649" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10028" name="Seraph Stockings">
+		<for>
+			<add order="0x10" stat="pDef" val="116" />
+			<add order="0x40" stat="maxMp" val="427" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>	
+	<item id="10029" name="Seraph Gloves">
+		<for>
+			<add order="0x10" stat="pDef" val="93" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="10030" name="Seraph Shoes">
+		<for>
+			<add order="0x10" stat="pDef" val="93" />
+			<enchant order="0x0C" stat="pDef" val="0" />
+		</for>
+	</item>
+</list>	

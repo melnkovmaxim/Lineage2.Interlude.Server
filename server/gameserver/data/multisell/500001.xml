@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+  <!-- C-GEM -->
+  <item id="1">
+    <ingredient id="57" count="2500000" enchant="0"/>
+    <production id="2131" count="25" enchant="0"/>
+  </item>
+
+</list>

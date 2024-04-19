@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list> <!--Включение пользовательской настройки статов -->
+    <!-- Пример настройки класса Shillien Templar-->
+    <player classId="106"> <!-- Shillien Templar -->
+    <!--
+    Ид класса 106 (Shillien Templar) при атаке с идом класса 108 (Ghost Hunter) получает бонусы 10% mAtk и +20 pAtk.
+    -->
+        <targetPlayer classId="108">
+            <mul stat="mAtk" val="1.1"/>
+            <add stat="pAtk" val="20"/>
+        </targetPlayer>
+
+        <!-- когда он экипирован Dark Crystal Breastplate, Shillien Templar получает дополнительный бонус 20% mDef и +30 pDef.-->
+        <equipedWith itemId="365"> <!-- Dark Crystal Breastplate -->
+            <mul stat="mDef" val="1.2"/>
+            <add stat="pDef" val="30"/>
+        </equipedWith>
+
+        <!-- бонус для Shillien Templar получает сразу и без каких-либо условий, все вышеперечисленные бонусы также добавляются к текущему-->
+        <mul stat="mDef" val="1.3"/>
+        <add stat="mAtkSpd" val="30"/>
+    </player>
+</list>

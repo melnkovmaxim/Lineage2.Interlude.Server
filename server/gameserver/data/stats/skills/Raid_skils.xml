@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="5215" levels="1" name="RB DEFF">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add val='45' order='0x40' stat='runSpd'/>
+    <mul val='20.65' order='0x30' stat='pDef'/>
+    <mul val='15.55' order='0x30' stat='mDef'/>
+    <mul val='60.75' order='0x30' stat='pAtk'/>
+    <mul val='50.35' order='0x30' stat='pAtkSpd'/>
+    <mul order="0x30" stat="mAtk" val="10.6"/>
+    <mul val='9.85' order='0x30' stat='mAtkSpd'/>
+    <add val='6000141' order='0x40' stat='maxHp'/>
+    <mul val='50.65' order='0x30' stat='cAtk'/>
+  </for>
+</skill>
+<skill id="5220" levels="1" name="Event mobs DEFF">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add val='45' order='0x40' stat='runSpd'/>
+    <mul val='10.65' order='0x30' stat='pDef'/>
+    <mul val='8.55' order='0x30' stat='mDef'/>
+    <mul val='5.75' order='0x30' stat='pAtk'/>
+    <mul val='5.35' order='0x30' stat='pAtkSpd'/>
+    <mul order="0x30" stat="mAtk" val="13.6"/>
+    <mul val='9.85' order='0x30' stat='mAtkSpd'/>
+    <add val='600014' order='0x40' stat='maxHp'/>
+    <mul val='50.65' order='0x30' stat='cAtk'/>
+  </for>
+</skill>
+<skill id="5214" levels="10" name="Item Skill: Hurricane">
+  <table name="#mpConsume_Init"> 9 9 1 1 1 1 1 1 1 1 </table>
+  <table name="#mpConsume"> 3 3 3 4 4 4 4 5 5 5 </table>
+  <table name="#power"> 4000 4000 4000 4000 4000 4000 4000 4000 4000 4000 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 760 </table>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="element" val="2"/> <!-- Wind -->
+  <set name="elementPower" val="20000000"/>
+  <set name="mpInitialConsume" val="#mpConsume_Init"/>
+  <set name="mpConsume" val="#mpConsume"/>
+  <set name="power" val="#power"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="skillRadius" val="3500"/>
+  <set name="hitTime" val="50"/>
+  <set name="skillType" val="MDAM"/>
+  <set name="reuseDelay" val="150"/>
+  <set name="staticReuse" val="true"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="effectRange" val="100000"/>
+  </skill>
+  <skill id="5113" levels="10" name="Item Skill: Fear">
+  <table name="#mpConsume_Init"> 9 9 10 10 1 12 12 13 14 14 </table>
+  <table name="#mpConsume"> 33 35 38 40 43 45 48 50 51 55 </table>
+  <table name="#magicLvl"> 46 49 52 55 58 61 64 67 70 76 </table>
+  <table name="#power"> 400 400 400 400 400 400 400 400 400 400 </table>
+  <set name="mpInitialConsume" val="#mpConsume_Init"/>
+  <set name="mpConsume" val="#mpConsume"/>
+  <set name="magicLvl" val="#magicLvl"/>
+  <set name="power" val="#power"/>
+  <set name="target" val="TARGET_AURA"/>
+  <set name="reuseDelay" val="10000"/>
+  <set name="staticReuse" val="true"/>
+  <set name="isDebuff" val="true"/>
+  <set name="hitTime" val="400"/>
+  <set name="skillType" val="FEAR"/>
+  <set name="isMagic" val="true"/>
+  <set name="operateType" val="OP_ACTIVE"/>
+  <set name="power" val="2000"/>
+  <set name="castRange" val="60"/>
+  <set name="effectRange" val="1100"/>
+  <for>
+    <effect count="5" name="Fear" time="5" val="0"/>
+  </for>
+</skill>
+<skill id="5112" levels="3" name="Item Skill: Reflect Damage">
+  <table name="#Tab-Atk"> 20 30 40 </table>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <for>
+    <add order="0x30" stat="reflectDam" val="#Tab-Atk"/>
+  </for>
+  </skill>
+<skill id="5316" levels="1" name="Slopok DEFF">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='80013.55' order='0x30' stat='mDef'/>
+    <mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='999999999.75' order='0x30' stat='pAtk'/>
+	<mul val='55555555000.75' order='0x30' stat='pAtk'/>
+    <mul val='99999.35' order='0x30' stat='pAtkSpd'/>
+	<mul val='99999.35' order='0x30' stat='pAtkSpd'/>
+	<mul val='99999.35' order='0x30' stat='pAtkSpd'/>
+	<mul val='99999.35' order='0x30' stat='pAtkSpd'/>
+	<mul order="0x30" stat="mAtk" val="184.6"/>
+	<mul val='9.85' order='0x30' stat='mAtkSpd'/>
+	<add val='458888888' order='0x40' stat='runSpd'/>
+    <add val='60000' order='0x40' stat='maxHp'/>
+    <mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul val='9999999999.65' order='0x30' stat='cAtk'/>
+	<mul order="0x30" stat="rCrit" val="1222222.3"/>
+	<mul order="0x30" stat="rCrit" val="1222222.3"/>
+	<mul order="0x30" stat="rCrit" val="12222222.3"/>
+	<mul order="0x30" stat="rCrit" val="12222222.3"/>
+</for>
+  </skill>
+<skill id="5224" levels="1" name="Raid Drake Deff">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+	    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+	    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+	    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+	    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+	    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='mDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+	    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+	    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+	    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+	    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+    <mul val='11616.65' order='0x30' stat='pDef'/>
+	
+</for>
+  </skill>
+
+</list>

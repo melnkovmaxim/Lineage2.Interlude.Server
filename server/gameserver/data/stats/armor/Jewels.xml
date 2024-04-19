@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='10500' name="AK">
+  <for>
+    <add val='71' order='0x10' stat='mDef'/>
+    <add val='750' order='0x40' stat='maxHp'/>
+    <add val='500' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.16"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.02"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='10501' name="Zaken">
+  <for>
+    <add val='40' order='0x10' stat='mDef'/>
+    <add val='750' order='0x40' stat='maxHp'/>
+    <add val='500' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.16"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.02"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='10502' name="Valik">
+  <for>
+    <add val='71' order='0x10' stat='mDef'/>
+    <add val='1000' order='0x40' stat='maxHp'/>
+    <add val='750' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.16"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.03"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.03"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.03"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.03"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.03"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='10503' name="Baium">
+  <for>
+    <add val='71' order='0x10' stat='mDef'/>
+    <add val='750' order='0x40' stat='maxHp'/>
+    <add val='500' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.16"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.02"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='10504' name="Antars">
+  <for>
+    <add val='40' order='0x10' stat='mDef'/>
+    <add val='750' order='0x40' stat='maxHp'/>
+    <add val='500' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.16"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.02"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.02"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='10505' name="Vlast">
+  <for>
+    <add val='78' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='10555' name="Vlast 2">
+  <for>
+    <add val='78' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11225' name="Vlast Pravaya">
+  <for>
+    <add val='74' order='0x10' stat='mDef'/>
+    <add val='2500' order='0x40' stat='maxHp'/>
+    <add val='1500' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.4"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.20"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11224' name="Vlast Pravaya">
+  <for>
+    <add val='74' order='0x10' stat='mDef'/>
+    <add val='2500' order='0x40' stat='maxHp'/>
+    <add val='1500' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.4"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.20"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11223' name="Vlast Pravaya">
+  <for>
+ <add val='52' order='0x10' stat='mDef'/>
+    <add val='2500' order='0x40' stat='maxHp'/>
+    <add val='1500' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.4"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.20"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11222' name="Vlast Pravaya">
+  <for>
+ <add val='52' order='0x10' stat='mDef'/>
+    <add val='2500' order='0x40' stat='maxHp'/>
+    <add val='1500' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.4"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.20"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.20"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11221' name="Vlast Pravaya">
+  <for>
+  <add val='74' order='0x10' stat='mDef'/>
+    <add val='2500' order='0x40' stat='maxHp'/>
+    <add val='1500' order='0x40' stat='maxCp'/>
+    <mul order="0x30" stat="mAtk" val="1.4"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.30"/> <!-- M atk +35% -->
+    <mul val='2.0' order='0x30' stat='mCritRate'/>
+	<mul order="0x30" stat="mAtkSpd" val="1.30"/> <!-- Casting Spd. +5% -->
+<mul order="0x30" stat="pAtkSpd" val="1.30"/> <!-- Casting Spd. +5% -->
+<mul order="0x30" stat="mDef" val="1.30"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.30"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.30"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.30"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11235' name="Vlast Pravaya">
+  <for>
+    <add val='108' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11234' name="Vlast Pravaya">
+  <for>
+    <add val='108' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11128' name="Vlast Pravaya">
+  <for>
+   <add val='52' order='0x10' stat='mDef'/>
+    <add val='1500' order='0x40' stat='maxHp'/>
+    <add val='1000' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.32"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.05"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.10"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11233' name="Vlast Pravaya">
+  <for>
+    <add val='108' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11232' name="Vlast Pravaya">
+  <for>
+    <add val='108' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11231' name="Vlast Pravaya">
+  <for>
+    <add val='108' order='0x10' stat='mDef'/>
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11127' name="Vlast Pravaya">
+  <for>
+    <add val='71' order='0x10' stat='mDef'/>
+    <add val='1500' order='0x40' stat='maxHp'/>
+    <add val='1000' order='0x40' stat='maxCp'/>
+	<mul val='2.0' order='0x30' stat='mCritRate'/>
+<mul order="0x30" stat="mAtk" val="1.32"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.05"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.10"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11133' name="Vlast Pravaya">
+  <for>
+  <add val='74' order='0x10' stat='mDef'/>
+    <add val='1500' order='0x40' stat='maxHp'/>
+    <add val='1000' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.32"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.05"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.10"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11134' name="Vlast Pravaya">
+  <for>
+  <add val='74' order='0x10' stat='mDef'/>
+    <add val='1500' order='0x40' stat='maxHp'/>
+    <add val='1000' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.32"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.05"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.10"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+<item id='11129' name="Vlast Pravaya">
+  <for>
+   <add val='52' order='0x10' stat='mDef'/>
+    <add val='1500' order='0x40' stat='maxHp'/>
+    <add val='1000' order='0x40' stat='maxCp'/>
+<mul order="0x30" stat="mAtk" val="1.32"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pAtk" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="mDef" val="1.05"/> <!-- M atk +35% -->
+<mul order="0x30" stat="pDef" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxHp" val="1.10"/> <!-- M atk +35% -->
+<mul order="0x30" stat="maxCp" val="1.10"/> <!-- M atk +35% -->
+  <enchant val='0' order='0x0C' stat='mDef'/>
+</for>
+</item>
+
+
+
+</list>

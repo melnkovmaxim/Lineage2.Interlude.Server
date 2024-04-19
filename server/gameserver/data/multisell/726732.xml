@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Quest 704: Miss Queen -->
+<list>
+<item id="1"> 
+   <ingredient id="17043" count="1" /> 
+   <production id="17020" count="1" />
+</item>
+<item id="2"> 
+   <ingredient id="17043" count="1" />
+   <ingredient id="17020" count="1" />
+   <production id="17021" count="1" />
+</item>
+<item id="3"> 
+   <ingredient id="17043" count="1" />
+   <ingredient id="17021" count="1" />
+   <production id="17022" count="1" />
+</item>
+<item id="4"> 
+   <ingredient id="17043" count="1" />
+   <ingredient id="17022" count="1" />
+   <production id="17023" count="1" />
+</item>
+<item id="5"> 
+   <ingredient id="17043" count="1" />
+   <ingredient id="17023" count="1" />
+   <production id="17024" count="1" />
+</item>
+<item id="6"> 
+   <ingredient id="17043" count="2" />
+   <ingredient id="17024" count="1" />
+   <production id="17025" count="1" />
+</item>
+<item id="7"> 
+   <ingredient id="17043" count="2" />
+   <ingredient id="17025" count="1" />
+   <production id="17026" count="1" />  
+</item>
+<item id="8"> 
+   <ingredient id="17043" count="2" />
+   <ingredient id="17026" count="1" />
+   <production id="17027" count="1" />    
+</item>
+<item id="9"> 
+   <ingredient id="17043" count="2" />
+   <ingredient id="17027" count="1" />
+   <production id="17028" count="1" />    
+</item>   
+<item id="10"> 
+   <ingredient id="17043" count="2" />
+   <ingredient id="17028" count="1" />
+   <production id="17029" count="1" />
+</item>     
+</list>

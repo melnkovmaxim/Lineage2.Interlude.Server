@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Noblesse Gate Pass ==> items -->
+<list npcId="31688"> 
+  
+        <!-- Secred Book of Giants  --> 
+  <item id="1"> 
+    <ingredient id="6651" count="5000"/> 
+    <production id="6622" count="1"/> 
+  </item>
+  <!-- Ancient Book - Divine Inspiration (Original Version)  -->  
+  <item id="2">  
+    <ingredient id="6651" count="5000"/> 
+    <production id="8762" count="1"/>  
+ </item>
+   <item id="3">  
+    <ingredient id="6651" count="5000"/> 
+    <production id="5592" count="50"/>  
+ </item>
+   <item id="4">  
+    <ingredient id="6651" count="10000"/> 
+    <production id="11986" count="1"/>  
+ </item>
+   <item id="5">  
+    <ingredient id="6651" count="5000"/> 
+    <production id="1540" count="25"/>  
+ </item>
+    <item id="6">  
+    <ingredient id="6651" count="50000"/> 
+    <production id="10901" count="10"/>  
+ </item>
+    <item id="7">  
+    <ingredient id="6651" count="50000"/> 
+    <production id="10903" count="10"/>  
+ </item>
+    <item id="8">  
+    <ingredient id="6651" count="50000"/> 
+    <production id="10905" count="10"/>  
+ </item>
+    <item id="9">  
+    <ingredient id="6651" count="50000"/> 
+    <production id="10907" count="10"/>  
+ </item>
+    <item id="10">  
+    <ingredient id="6651" count="50000"/> 
+    <production id="10909" count="10"/>  
+ </item>
+    <item id="11">  
+    <ingredient id="6651" count="50000"/> 
+    <production id="10911" count="10"/>  
+ </item>
+</list>

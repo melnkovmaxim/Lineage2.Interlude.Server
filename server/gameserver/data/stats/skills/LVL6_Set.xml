@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<skill id="4910" levels="1" name="6  Havy">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+    <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="4.40"/> <!-- P Def. +8% -->
+    <mul order="0x30" stat="mDef" val="4.20"/> <!-- P Def. +8% -->
+    <mul order="0x30" stat="pAtk" val="5.40"/> <!-- P. Atk +4% -->
+     <add order="0x40" stat="pAtk" val="50000"/> <!-- P. Atk +4% -->
+
+	<mul order="0x30" stat="pAtkSpd" val="1.75"/>
+	<add order="0x40" stat="runSpd" val="30"/>
+		    <add val='67000' order='0x40' stat='maxHp'/>
+		    <add val='67000' order='0x40' stat='maxCp'/>
+			<add val='37000' order='0x40' stat='maxMp'/>
+  </for>
+</skill>
+
+<skill id="4911" levels="1" name="6_SET lvl roba">
+  <set name="power" val="0.0"/>
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="4.90"/>
+    <mul order="0x30" stat="mAtkSpd" val="3.85"/>
+    <add order="0x40" stat="runSpd" val="20"/>
+	<mul order="0x30" stat="mDef" val="3.80"/>
+	<mul order="0x30" stat="mAtk" val="6.30"/>
+	    <add val='37000' order='0x40' stat='maxHp'/>
+		<add val='47000' order='0x40' stat='maxCp'/>
+		<add val='37000' order='0x40' stat='maxMp'/>
+             <mul val='5.15' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</skill>
+
+</list>

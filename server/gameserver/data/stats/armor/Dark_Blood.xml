@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='10000' name="Dark Blood Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.25' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.25' order='0x30' stat='pAtk'/>
+  <mul val='1.35' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="10000"/>
+<add order="0x40" stat="maxMp" val="3000"/>
+<add order="0x40" stat="maxCp" val="10000"/>
+	</for>
+</item>
+<item id='10588' name="Dark Blood Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+<item id='9346' name="Dark Blood Wings">
+	<for>
+    <add order="0x40" stat="pDef" val="1500"/>
+    <add order="0x40" stat="mDef" val="1500"/>
+    <add order="0x40" stat="pAtk" val="1500"/>
+    <add order="0x40" stat="mAtk" val="1500"/>
+    <add order="0x40" stat="pAtkSpd" val="400"/>
+    <add order="0x40" stat="mAtkSpd" val="400"/>
+    <add order="0x40" stat="maxMp" val="2000"/>
+	</for>
+</item>
+<item id='10002' name="Dark Blood Wings">
+	<for>
+  <mul val='1.05' order='0x30' stat='mAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='mAtk'/>
+  <mul val='1.05' order='0x30' stat='pAtkSpd'/>
+  <mul val='1.15' order='0x30' stat='pAtk'/>
+  <mul val='1.25' order='0x30' stat='pDef'/>
+<add order="0x40" stat="maxHp" val="7000"/>
+<add order="0x40" stat="maxMp" val="2000"/>
+<add order="0x40" stat="maxCp" val="7000"/>
+	</for>
+</item>
+</list>

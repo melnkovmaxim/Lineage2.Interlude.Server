@@ -1,0 +1,1880 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- Quest 704: Miss Queen -->
+<list upgradeList="true">
+
+<!-- Посейдон Hevy на Seraph Hevy -->
+ <item id="1">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26012" count="1" enchant="0"/>  <!-- Шлем Посейдог Hevy -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="2">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26000" count="1" enchant="0"/>  <!-- Тело Посейдон Hevy -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="3">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26001" count="1" enchant="0"/>  <!-- Штаны Посейдон Hevy -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="4">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26002" count="1" enchant="0"/>  <!-- Перчатки Посейдон Hevy -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="5">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16406" count="1" enchant="0"/>  <!-- Уникальные Ботинки Посейдон Hevy -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Посейдон Hevy на Seraph Lite -->
+ <item id="6">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26012" count="1" enchant="0"/>  <!-- Шлем Посейдог Hevy -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="7">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26000" count="1" enchant="0"/>  <!-- Тело Посейдон Hevy -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="8">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26001" count="1" enchant="0"/>  <!-- Штаны Посейдон Hevy -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="9">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26002" count="1" enchant="0"/>  <!-- Перчатки Посейдон Hevy -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Lite -->
+   </item> 
+<item id="10">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16406" count="1" enchant="0"/>  <!-- Уникальные Ботинки Посейдон Hevy -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item> 
+
+<!-- Посейдон Lite на Seraph Hevy -->
+ <item id="11">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26013" count="1" enchant="0"/>  <!-- Шлем Посейдог Lite -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="12">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26008" count="1" enchant="0"/>  <!-- Тело Посейдон Lite -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="13">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26009" count="1" enchant="0"/>  <!-- Штаны Посейдон Lite -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="14">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26010" count="1" enchant="0"/>  <!-- Перчатки Посейдон Lite -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="15">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16407" count="1" enchant="0"/>  <!-- Уникальные Ботинки Посейдон Lite -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Посейдон Lite на Seraph Lite -->
+ <item id="16">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26013" count="1" enchant="0"/>  <!-- Шлем Посейдог Lite -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="17">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26008" count="1" enchant="0"/>  <!-- Тело Посейдон Lite -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="18">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26009" count="1" enchant="0"/>  <!-- Штаны Посейдон Lite -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="19">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26010" count="1" enchant="0"/>  <!-- Перчатки Посейдон Lite -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="20">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16407" count="1" enchant="0"/>  <!-- Уникальные Ботинки Посейдон Lite -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item>  
+
+<!-- Посейдон Роба на Seraph Роба -->
+ <item id="21">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26014" count="1" enchant="0"/>  <!-- Шлем Посейдог Роба -->
+   
+   <production id="17634" count="1" enchant="0"/>   <!-- Шлем Seraph Роба -->
+   </item> 
+<item id="22">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26004" count="1" enchant="0"/>  <!-- Тело Посейдон Роба -->
+   
+   <production id="17635" count="1" enchant="0"/>   <!-- Тело Seraph Роба -->
+   </item> 
+
+<item id="23">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26005" count="1" enchant="0"/>  <!-- Штаны Посейдон Роба -->
+   
+   <production id="17636" count="1" enchant="0"/>   <!-- Штаны Seraph Роба -->
+   </item> 
+<item id="24">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="26006" count="1" enchant="0"/>  <!-- Перчатки Посейдон Роба -->
+   
+   <production id="17637" count="1" enchant="0"/>   <!-- Перчатки Seraph Роба -->
+   </item> 
+<item id="25">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16408" count="1" enchant="0"/>  <!-- Уникальные Ботинки Посейдон Роба -->
+   
+   <production id="17638" count="1" enchant="0"/>   <!-- Ботинки Seraph Роба -->
+   </item>       
+ 
+
+<!-- Демоник Hevy на Seraph Hevy -->
+ <item id="26">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15026" count="1" enchant="0"/>  <!-- Шлем Демоник  Hevy -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="27">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15022" count="1" enchant="0"/>  <!-- Тело Демоник  Hevy -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="28">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15023" count="1" enchant="0"/>  <!-- Штаны Демоник  Hevy -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="29">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15024" count="1" enchant="0"/>  <!-- Перчатки Демоник  Hevy -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="30">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16412" count="1" enchant="0"/>  <!-- Уникальные Ботинки Демоник  Hevy -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Демоник Hevy на Seraph Lite -->
+ <item id="31">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15026" count="1" enchant="0"/>  <!-- Шлем Демоник  Hevy -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="32">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15022" count="1" enchant="0"/>  <!-- Тело Демоник  Hevy -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="33">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15023" count="1" enchant="0"/>  <!-- Штаны Демоник  Hevy -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="34">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15024" count="1" enchant="0"/>  <!-- Перчатки Демоник  Hevy -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Lite -->
+   </item> 
+<item id="35">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16412" count="1" enchant="0"/>  <!-- Уникальные Ботинки Демоник  Hevy -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item> 
+
+<!-- Демоник Lite на Seraph Hevy -->
+ <item id="36">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15031" count="1" enchant="0"/>  <!-- Шлем Демоник Lite -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="37">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15027" count="1" enchant="0"/>  <!-- Тело Демоник Lite -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="38">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15028" count="1" enchant="0"/>  <!-- Штаны Демоник Lite -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="39">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15029" count="1" enchant="0"/>  <!-- Перчатки Демоник Lite -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="40">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16413" count="1" enchant="0"/>  <!-- Уникальные Ботинки Демоник Lite -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Демоник Lite на Seraph Lite -->
+ <item id="41">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15031" count="1" enchant="0"/>  <!-- Шлем Демоник Lite -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="42">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15027" count="1" enchant="0"/>  <!-- Тело Демоник Lite -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="43">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15028" count="1" enchant="0"/>  <!-- Штаны Демоник Lite -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="44">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15029" count="1" enchant="0"/>  <!-- Перчатки Демоник Lite -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="45">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16413" count="1" enchant="0"/>  <!-- Уникальные Ботинки Демоник Lite -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item>  
+
+<!-- Демоник Роба на Seraph Роба -->
+ <item id="46">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15036" count="1" enchant="0"/>  <!-- Шлем Демоник Роба -->
+   
+   <production id="17634" count="1" enchant="0"/>   <!-- Шлем Seraph Роба -->
+   </item> 
+<item id="47">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15032" count="1" enchant="0"/>  <!-- Тело Демоник Роба -->
+   
+   <production id="17635" count="1" enchant="0"/>   <!-- Тело Seraph Роба -->
+   </item> 
+
+<item id="48">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15033" count="1" enchant="0"/>  <!-- Штаны Демоник Роба -->
+   
+   <production id="17636" count="1" enchant="0"/>   <!-- Штаны Seraph Роба -->
+   </item> 
+<item id="49">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="15034" count="1" enchant="0"/>  <!-- Перчатки Демоник Роба -->
+   
+   <production id="17637" count="1" enchant="0"/>   <!-- Перчатки Seraph Роба -->
+   </item> 
+<item id="50">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16414" count="1" enchant="0"/>  <!-- Уникальные Ботинки Демоник Роба -->
+   
+   <production id="17638" count="1" enchant="0"/>   <!-- Ботинки Seraph Роба -->
+   </item>    
+
+
+
+
+<!-- Доспехи Ангела Hevy на Seraph Hevy -->
+ <item id="51">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13553" count="1" enchant="0"/>  <!-- Шлем Доспехи Ангела  Hevy -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="52">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13541" count="1" enchant="0"/>  <!-- Тело Доспехи Ангела  Hevy -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="53">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13542" count="1" enchant="0"/>  <!-- Штаны Доспехи Ангела  Hevy -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="54">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13543" count="1" enchant="0"/>  <!-- Перчатки Доспехи Ангела  Hevy -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="55">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16415" count="1" enchant="0"/>  <!-- Уникальные Ботинки Доспехи Ангела  Hevy -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Доспехи Ангела Hevy на Seraph Lite -->
+ <item id="56">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13553" count="1" enchant="0"/>  <!-- Шлем Доспехи Ангела  Hevy -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="57">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13541" count="1" enchant="0"/>  <!-- Тело Доспехи Ангела  Hevy -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="58">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13542" count="1" enchant="0"/>  <!-- Штаны Доспехи Ангела  Hevy -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="59">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13543" count="1" enchant="0"/>  <!-- Перчатки Доспехи Ангела  Hevy -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Lite -->
+   </item> 
+<item id="60">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16415" count="1" enchant="0"/>  <!-- Уникальные Ботинки Доспехи Ангела  Hevy -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item> 
+
+<!-- Доспехи Ангела Lite на Seraph Hevy -->
+ <item id="61">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13554" count="1" enchant="0"/>  <!-- Шлем Доспехи Ангела Lite -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="62">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13545" count="1" enchant="0"/>  <!-- Тело Доспехи Ангела Lite -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="63">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13546" count="1" enchant="0"/>  <!-- Штаны Доспехи Ангела Lite -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="64">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13547" count="1" enchant="0"/>  <!-- Перчатки Доспехи Ангела Lite -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="65">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16416" count="1" enchant="0"/>  <!-- Уникальные Ботинки Доспехи Ангела Lite -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Доспехи Ангела Lite на Seraph Lite -->
+ <item id="66">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13554" count="1" enchant="0"/>  <!-- Шлем Доспехи Ангела Lite -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="67">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13545" count="1" enchant="0"/>  <!-- Тело Доспехи Ангела Lite -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="68">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13546" count="1" enchant="0"/>  <!-- Штаны Доспехи Ангела Lite -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="69">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13547" count="1" enchant="0"/>  <!-- Перчатки Доспехи Ангела Lite -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="70">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16416" count="1" enchant="0"/>  <!-- Уникальные Ботинки Доспехи Ангела Lite -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item>  
+
+<!-- Доспехи Ангела Роба на Seraph Роба -->
+ <item id="71">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13555" count="1" enchant="0"/>  <!-- Шлем Доспехи Ангела Роба -->
+   
+   <production id="17634" count="1" enchant="0"/>   <!-- Шлем Seraph Роба -->
+   </item> 
+<item id="72">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13549" count="1" enchant="0"/>  <!-- Тело Доспехи Ангела Роба -->
+   
+   <production id="17635" count="1" enchant="0"/>   <!-- Тело Seraph Роба -->
+   </item> 
+
+<item id="73">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13550" count="1" enchant="0"/>  <!-- Штаны Доспехи Ангела Роба -->
+   
+   <production id="17636" count="1" enchant="0"/>   <!-- Штаны Seraph Роба -->
+   </item> 
+<item id="74">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13551" count="1" enchant="0"/>  <!-- Перчатки Доспехи Ангела Роба -->
+   
+   <production id="17637" count="1" enchant="0"/>   <!-- Перчатки Seraph Роба -->
+   </item> 
+<item id="75">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16417" count="1" enchant="0"/>  <!-- Уникальные Ботинки Доспехи Ангела Роба -->
+   
+   <production id="17638" count="1" enchant="0"/>   <!-- Ботинки Seraph Роба -->
+   </item>    
+
+
+<!-- Бога Hevy на Seraph Hevy -->
+ <item id="76">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10071" count="1" enchant="0"/>  <!-- Шлем Бога  Hevy -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="77">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10072" count="1" enchant="0"/>  <!-- Тело Бога  Hevy -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="78">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10073" count="1" enchant="0"/>  <!-- Штаны Бога  Hevy -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="79">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10074" count="1" enchant="0"/>  <!-- Перчатки Бога  Hevy -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="80">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16400" count="1" enchant="0"/>  <!-- Уникальные Ботинки Бога  Hevy -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Бога Hevy на Seraph Lite -->
+ <item id="81">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10071" count="1" enchant="0"/>  <!-- Шлем Бога  Hevy -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="82">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10072" count="1" enchant="0"/>  <!-- Тело Бога  Hevy -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="83">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10073" count="1" enchant="0"/>  <!-- Штаны Бога  Hevy -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="84">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10074" count="1" enchant="0"/>  <!-- Перчатки Бога  Hevy -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Lite -->
+   </item> 
+<item id="85">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16400" count="1" enchant="0"/>  <!-- Уникальные Ботинки Бога  Hevy -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item> 
+
+<!-- Бога Lite на Seraph Hevy -->
+ <item id="85">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10076" count="1" enchant="0"/>  <!-- Шлем Бога Lite -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="87">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10077" count="1" enchant="0"/>  <!-- Тело Бога Lite -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="88">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10078" count="1" enchant="0"/>  <!-- Штаны Бога Lite -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="89">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10079" count="1" enchant="0"/>  <!-- Перчатки Бога Lite -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="90">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16401" count="1" enchant="0"/>  <!-- Уникальные Ботинки Бога Lite -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Бога Lite на Seraph Lite -->
+ <item id="91">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10076" count="1" enchant="0"/>  <!-- Шлем Бога Lite -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="92">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10077" count="1" enchant="0"/>  <!-- Тело Бога Lite -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="93">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10078" count="1" enchant="0"/>  <!-- Штаны Бога Lite -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="94">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10079" count="1" enchant="0"/>  <!-- Перчатки Бога Lite -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="95">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16401" count="1" enchant="0"/>  <!-- Уникальные Ботинки Бога Lite -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item>  
+
+<!-- Бога Роба на Seraph Роба -->
+ <item id="96">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10081" count="1" enchant="0"/>  <!-- Шлем Бога Роба -->
+   
+   <production id="17634" count="1" enchant="0"/>   <!-- Шлем Seraph Роба -->
+   </item> 
+<item id="97">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10082" count="1" enchant="0"/>  <!-- Тело Бога Роба -->
+   
+   <production id="17635" count="1" enchant="0"/>   <!-- Тело Seraph Роба -->
+   </item> 
+
+<item id="98">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10083" count="1" enchant="0"/>  <!-- Штаны Бога Роба -->
+   
+   <production id="17636" count="1" enchant="0"/>   <!-- Штаны Seraph Роба -->
+   </item> 
+<item id="99">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="10084" count="1" enchant="0"/>  <!-- Перчатки Бога Роба -->
+   
+   <production id="17637" count="1" enchant="0"/>   <!-- Перчатки Seraph Роба -->
+   </item> 
+<item id="100">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16402" count="1" enchant="0"/>  <!-- Уникальные Ботинки Бога Роба -->
+   
+   <production id="17638" count="1" enchant="0"/>   <!-- Ботинки Seraph Роба -->
+   </item>
+   
+ <!-- Арес Hevy на Seraph Hevy -->  
+<item id="101">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25026" count="1" enchant="0"/>  <!-- Шлем Арес  Hevy -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="102">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25022" count="1" enchant="0"/>  <!-- Тело Арес  Hevy -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="103">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25023" count="1" enchant="0"/>  <!-- Штаны Арес  Hevy -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="104">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25024" count="1" enchant="0"/>  <!-- Перчатки Арес  Hevy -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="105">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16403" count="1" enchant="0"/>  <!-- Уникальные Ботинки Арес  Hevy -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Арес Hevy на Seraph Lite -->
+ <item id="106">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25026" count="1" enchant="0"/>  <!-- Шлем Арес  Hevy -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="107">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25022" count="1" enchant="0"/>  <!-- Тело Арес  Hevy -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="108">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25023" count="1" enchant="0"/>  <!-- Штаны Арес  Hevy -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="109">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25024" count="1" enchant="0"/>  <!-- Перчатки Арес  Hevy -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Lite -->
+   </item> 
+<item id="110">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16403" count="1" enchant="0"/>  <!-- Уникальные Ботинки Арес  Hevy -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item> 
+
+<!-- Арес Lite на Seraph Hevy -->
+ <item id="111">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25031" count="1" enchant="0"/>  <!-- Шлем Арес Lite -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="112">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25027" count="1" enchant="0"/>  <!-- Тело Арес Lite -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="113">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25028" count="1" enchant="0"/>  <!-- Штаны Арес Lite -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="114">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25029" count="1" enchant="0"/>  <!-- Перчатки Арес Lite -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="115">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16404" count="1" enchant="0"/>  <!-- Уникальные Ботинки Арес Lite -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Арес Lite на Seraph Lite -->
+ <item id="116">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25031" count="1" enchant="0"/>  <!-- Шлем Арес Lite -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="117">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25027" count="1" enchant="0"/>  <!-- Тело Арес Lite -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="118">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25028" count="1" enchant="0"/>  <!-- Штаны Арес Lite -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="119">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25029" count="1" enchant="0"/>  <!-- Перчатки Арес Lite -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="120">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16404" count="1" enchant="0"/>  <!-- Уникальные Ботинки Арес Lite -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item>  
+
+<!-- Арес Роба на Seraph Роба -->
+ <item id="121">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25036" count="1" enchant="0"/>  <!-- Шлем Арес Роба -->
+   
+   <production id="17634" count="1" enchant="0"/>   <!-- Шлем Seraph Роба -->
+   </item> 
+<item id="122">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25032" count="1" enchant="0"/>  <!-- Тело Арес Роба -->
+   
+   <production id="17635" count="1" enchant="0"/>   <!-- Тело Seraph Роба -->
+   </item> 
+
+<item id="123">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25033" count="1" enchant="0"/>  <!-- Штаны Арес Роба -->
+   
+   <production id="17636" count="1" enchant="0"/>   <!-- Штаны Seraph Роба -->
+   </item> 
+<item id="124">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="25034" count="1" enchant="0"/>  <!-- Перчатки Арес Роба -->
+   
+   <production id="17637" count="1" enchant="0"/>   <!-- Перчатки Seraph Роба -->
+   </item> 
+<item id="125">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16405" count="1" enchant="0"/>  <!-- Уникальные Ботинки Арес Роба -->
+   
+   <production id="17638" count="1" enchant="0"/>   <!-- Ботинки Seraph Роба -->
+   </item>
+   
+   
+    <!-- Аид Hevy на Seraph Hevy -->  
+<item id="126">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13453" count="1" enchant="0"/>  <!-- Шлем Аид  Hevy -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="127">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13441" count="1" enchant="0"/>  <!-- Тело Аид  Hevy -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="128">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13442" count="1" enchant="0"/>  <!-- Штаны Аид  Hevy -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="129">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13443" count="1" enchant="0"/>  <!-- Перчатки Аид  Hevy -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="130">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16418" count="1" enchant="0"/>  <!-- Уникальные Ботинки Аид  Hevy -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Аид Hevy на Seraph Lite -->
+ <item id="131">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13453" count="1" enchant="0"/>  <!-- Шлем Аид  Hevy -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="132">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13441" count="1" enchant="0"/>  <!-- Тело Аид  Hevy -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="133">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13442" count="1" enchant="0"/>  <!-- Штаны Аид  Hevy -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="134">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13443" count="1" enchant="0"/>  <!-- Перчатки Аид  Hevy -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Lite -->
+   </item> 
+<item id="135">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16418" count="1" enchant="0"/>  <!-- Уникальные Ботинки Аид  Hevy -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item> 
+
+<!-- Аид Lite на Seraph Hevy -->
+ <item id="136">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13454" count="1" enchant="0"/>  <!-- Шлем Аид Lite -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="137">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13445" count="1" enchant="0"/>  <!-- Тело Аид Lite -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="138">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13446" count="1" enchant="0"/>  <!-- Штаны Аид Lite -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="139">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13447" count="1" enchant="0"/>  <!-- Перчатки Аид Lite -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="140">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16419" count="1" enchant="0"/>  <!-- Уникальные Ботинки Аид Lite -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- Аид Lite на Seraph Lite -->
+ <item id="141">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13454" count="1" enchant="0"/>  <!-- Шлем Аид Lite -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="142">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13445" count="1" enchant="0"/>  <!-- Тело Аид Lite -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="143">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13446" count="1" enchant="0"/>  <!-- Штаны Аид Lite -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="144">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13447" count="1" enchant="0"/>  <!-- Перчатки Аид Lite -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="145">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16419" count="1" enchant="0"/>  <!-- Уникальные Ботинки Аид Lite -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item>  
+
+<!-- Аид Роба на Seraph Роба -->
+ <item id="146">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13455" count="1" enchant="0"/>  <!-- Шлем Аид Роба -->
+   
+   <production id="17634" count="1" enchant="0"/>   <!-- Шлем Seraph Роба -->
+   </item> 
+<item id="147">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13449" count="1" enchant="0"/>  <!-- Тело Аид Роба -->
+   
+   <production id="17635" count="1" enchant="0"/>   <!-- Тело Seraph Роба -->
+   </item> 
+
+<item id="148">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13450" count="1" enchant="0"/>  <!-- Штаны Аид Роба -->
+   
+   <production id="17636" count="1" enchant="0"/>   <!-- Штаны Seraph Роба -->
+   </item> 
+<item id="149">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="13451" count="1" enchant="0"/>  <!-- Перчатки Аид Роба -->
+   
+   <production id="17637" count="1" enchant="0"/>   <!-- Перчатки Seraph Роба -->
+   </item> 
+<item id="150">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16420" count="1" enchant="0"/>  <!-- Уникальные Ботинки Аид Роба -->
+   
+   <production id="17638" count="1" enchant="0"/>   <!-- Ботинки Seraph Роба -->
+   </item>
+   
+   
+<!-- White Hevy на Seraph Hevy -->  
+<item id="151">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9316" count="1" enchant="0"/>  <!-- Шлем White  Hevy -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="152">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9312" count="1" enchant="0"/>  <!-- Тело White  Hevy -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="153">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9313" count="1" enchant="0"/>  <!-- Штаны White  Hevy -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="154">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9314" count="1" enchant="0"/>  <!-- Перчатки White  Hevy -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="155">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16409" count="1" enchant="0"/>  <!-- Уникальные Ботинки White  Hevy -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- White Hevy на Seraph Lite -->
+ <item id="156">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9316" count="1" enchant="0"/>  <!-- Шлем White  Hevy -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="157">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9312" count="1" enchant="0"/>  <!-- Тело White  Hevy -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="158">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9313" count="1" enchant="0"/>  <!-- Штаны White  Hevy -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="159">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9314" count="1" enchant="0"/>  <!-- Перчатки White  Hevy -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Lite -->
+   </item> 
+<item id="160">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16409" count="1" enchant="0"/>  <!-- Уникальные Ботинки White  Hevy -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item> 
+
+<!-- White Lite на Seraph Hevy -->
+ <item id="161">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9321" count="1" enchant="0"/>  <!-- Шлем White Lite -->
+   
+   <production id="17615" count="1" enchant="0"/>   <!-- Шлем Seraph Hevy -->
+   </item> 
+<item id="162">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9317" count="1" enchant="0"/>  <!-- Тело White Lite -->
+   
+   <production id="17616" count="1" enchant="0"/>   <!-- Тело Seraph Hevy -->
+   </item> 
+
+<item id="163">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9318" count="1" enchant="0"/>  <!-- Штаны White Lite -->
+   
+   <production id="17617" count="1" enchant="0"/>   <!-- Штаны Seraph Hevy -->
+   </item> 
+<item id="164">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9319" count="1" enchant="0"/>  <!-- Перчатки White Lite -->
+   
+   <production id="17618" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="165">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16410" count="1" enchant="0"/>  <!-- Уникальные Ботинки White Lite -->
+   
+   <production id="17619" count="1" enchant="0"/>   <!-- Ботинки Seraph Hevy -->
+   </item> 
+   
+   
+<!-- White Lite на Seraph Lite -->
+ <item id="166">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9321" count="1" enchant="0"/>  <!-- Шлем White Lite -->
+   
+   <production id="17620" count="1" enchant="0"/>   <!-- Шлем Seraph Lite -->
+   </item> 
+<item id="167">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9317" count="1" enchant="0"/>  <!-- Тело White Lite -->
+   
+   <production id="17630" count="1" enchant="0"/>   <!-- Тело Seraph Lite -->
+   </item> 
+
+<item id="168">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9318" count="1" enchant="0"/>  <!-- Штаны White Lite -->
+   
+   <production id="17631" count="1" enchant="0"/>   <!-- Штаны Seraph Lite -->
+   </item> 
+<item id="169">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9319" count="1" enchant="0"/>  <!-- Перчатки White Lite -->
+   
+   <production id="17632" count="1" enchant="0"/>   <!-- Перчатки Seraph Hevy -->
+   </item> 
+<item id="170">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16410" count="1" enchant="0"/>  <!-- Уникальные Ботинки White Lite -->
+   
+   <production id="17633" count="1" enchant="0"/>   <!-- Ботинки Seraph Lite -->
+   </item>  
+
+<!-- White Роба на Seraph Роба -->
+ <item id="171">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9341" count="1" enchant="0"/>  <!-- Шлем White Роба -->
+   
+   <production id="17634" count="1" enchant="0"/>   <!-- Шлем Seraph Роба -->
+   </item> 
+<item id="172">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9322" count="1" enchant="0"/>  <!-- Тело White Роба -->
+   
+   <production id="17635" count="1" enchant="0"/>   <!-- Тело Seraph Роба -->
+   </item> 
+
+<item id="173">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9323" count="1" enchant="0"/>  <!-- Штаны White Роба -->
+   
+   <production id="17636" count="1" enchant="0"/>   <!-- Штаны Seraph Роба -->
+   </item> 
+<item id="174">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="9324" count="1" enchant="0"/>  <!-- Перчатки White Роба -->
+   
+   <production id="17637" count="1" enchant="0"/>   <!-- Перчатки Seraph Роба -->
+   </item> 
+<item id="175">
+   <ingredient id="11975" count="5000" enchant="0"/> <!-- РБК -->
+   <ingredient id="11974" count="10" enchant="0"/> <!-- Эвент -->
+   <ingredient id="11973" count="3000" enchant="0"/> <!-- Апгрейд -->
+   <ingredient id="13017" count="30" enchant="0"/> <!-- Глаза Дракона -->
+   <ingredient id="14555" count="15" enchant="0"/> <!-- Монеты Убийц -->
+   <ingredient id="16411" count="1" enchant="0"/>  <!-- Уникальные Ботинки White Роба -->
+   
+   <production id="17638" count="1" enchant="0"/>   <!-- Ботинки Seraph Роба -->
+   </item>
+</list>

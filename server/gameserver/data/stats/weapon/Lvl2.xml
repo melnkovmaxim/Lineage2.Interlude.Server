@@ -1,0 +1,583 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<item id="9400" name="Icarus Sawsword">
+		<for>
+      <mul order="0x30" stat="pAtk" val="1.34"/> 
+    <set val='367' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+		<add val='88' order='0x10' stat='rCrit'/>
+		</for>
+	</item>
+	<item id="9401" name="Icarus Disperser">
+		<for>
+      <mul order="0x30" stat="pAtk" val="1.34"/> 
+    <set val='260' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+		</for>
+	</item>
+	<item id="9402" name="Icarus Spirit">
+		<for>
+      <mul order="0x30" stat="mAtk" val="1.34"/> 
+    <set val='238' order='0x08' stat='pAtk'/>
+    <set val='192' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+		<mul val='1.05' order='0x30' stat='mAtk'/>
+		</for>
+	</item>
+	<item id="9403" name="Icarus Heavy Arms">
+		<for>
+      <mul order="0x30" stat="pAtk" val="1.34"/> 
+    <set val='361' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<add val='50' order='0x10' stat='rCrit'/>
+		</for>
+	</item>
+	<item id="9404" name="Icarus Trident">
+		<for>
+      <mul order="0x30" stat="pAtk" val="1.34"/> 
+    <set val='361' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+		</for>
+	</item>
+	<item id="9405" name="Icarus Hammer">
+		<for>
+      <mul order="0x30" stat="pAtk" val="1.34"/> 
+    <set val='361' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<add val='50' order='0x10' stat='rCrit'/>
+		</for>
+	</item>
+	<item id="9406" name="Icarus Hand">
+		<for>
+    <mul order="0x30" stat="pAtk" val="1.34"/> 
+	    <set val='367' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	<add val='50' order='0x10' stat='rCrit'/>
+		</for>
+	</item>
+	<item id="9407" name="Icarus Hall">
+		<for>
+  <mul val='1.05' order='0x30' stat='pAtk'/>
+  <mul val='1.10' order='0x30' stat='maxHp'/>
+  <mul val='1.10' order='0x30' stat='maxCp'/>
+  <mul val='1.10' order='0x30' stat='pDef'/>
+    <add val='30' order='0x40' stat='rCrit'/>
+    <mul order="0x30" stat="pAtkSpd" val="1.10"/>
+			<set order="0x08" stat="pAtk" val="790" />
+			<set order="0x08" stat="mAtk" val="217" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9408" name="Icarus Spitter">
+		<for>
+      <mul order="0x30" stat="pAtk" val="1.34"/> 
+    <set val='614' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+	    <add val='88' order='0x10' stat='rCrit'/>
+		</for>
+	</item>
+	<item id="9409" name="Icarus Dual Sword">
+		<for>
+      <mul order="0x30" stat="pAtk" val="1.34"/> 
+    <set val='361' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+		</for>
+	</item>
+    <item id="9410" name="Icarus Sawsword - Focus">
+		<for>
+  <mul val='1.05' order='0x30' stat='pAtk'/>
+  <mul val='1.10' order='0x30' stat='maxHp'/>
+  <mul val='1.10' order='0x30' stat='maxCp'/>
+  <mul val='1.10' order='0x30' stat='pDef'/>
+    <add val='30' order='0x40' stat='rCrit'/>
+    <mul order="0x30" stat="pAtkSpd" val="1.10"/>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Focus -->			
+			<add order="0x40" stat="rCrit" val="111.5" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9411" name="Icarus Sawsword - Health">
+		<for>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Health -->
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			<add order="0x40" stat="atkCountMax" val="0" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9412" name="Icarus Sawsword - Light">
+		<for>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+            <!-- Special Ability: Light -->
+			<mul order="0x30" stat="maxLoad" val="1.2" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9413" name="Icarus Disperser - Focus">
+		<for>
+			<set order="0x08" stat="pAtk" val="318" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="12" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="433" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Focus --> 
+			<add order="0x40" stat="rCrit" val="116" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9414" name="Icarus Disperser - Evasion">
+		<for>
+			<set order="0x08" stat="pAtk" val="318" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="12" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="433" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Evasion -->
+			<add order="0x40" stat="rEvas" val="5.31" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9415" name="Icarus Disperser - Critical Damage">
+		<for>
+			<set order="0x08" stat="pAtk" val="318" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="12" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="433" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Critical Damage -->
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>	
+	<item id="9416" name="Icarus Spirit - Acumen">
+		<for>
+			<set order="0x08" stat="pAtk" val="290" />
+			<set order="0x08" stat="mAtk" val="217" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Acumen -->
+			<mul order="0x30" stat="mAtkSpd" val="1.05" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9417" name="Icarus Spirit - Mana Up">
+		<for>
+			<set order="0x08" stat="pAtk" val="290" />
+			<set order="0x08" stat="mAtk" val="217" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Mana Up -->
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9418" name="Icarus Spirit - Conversion">
+		<for>
+			<set order="0x08" stat="pAtk" val="290" />
+			<set order="0x08" stat="mAtk" val="217" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Conversion-->
+			<mul order="0x30" stat="maxMp" val="1.6" />
+			<mul order="0x30" stat="maxHp" val="0.6" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>	
+	<item id="9419" name="Icarus Heavy Arms - Focus">
+		<for>
+			<set order="0x08" stat="pAtk" val="442" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="325" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Focus -->
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9420" name="Icarus Heavy Arms - Health">
+		<for>
+			<set order="0x08" stat="pAtk" val="442" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="325" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Health -->
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			<add order="0x40" stat="atkCountMax" val="0" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9421" name="Icarus Heavy Arms - Light">
+		<for>
+			<set order="0x08" stat="pAtk" val="442" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<set order="0x08" stat="pAtkSpd" val="325" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Light -->
+			<mul order="0x30" stat="maxLoad" val="1.2" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9422" name="Icarus Trident - Anger">
+		<for>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="325" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Anger -->
+			<add order="0x40" stat="pAtk" val="78.33" />
+			<mul order="0x30" stat="maxHp" val="0.85" />
+			<add order="0x40" stat="atkCountMax" val="4" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9423" name="Icarus Trident - Critical Stun">
+		<for>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="325" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: In SQL -->
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9424" name="Icarus Trident - Light">
+		<for>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="8" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="325" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Light -->
+			<mul order="0x30" stat="maxLoad" val="1.2" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9425" name="Icarus Hammer - Anger">
+		<for>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Anger -->
+			<add order="0x40" stat="pAtk" val="78.33" />
+			<mul order="0x30" stat="maxHp" val="0.85" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9426" name="Icarus Hammer - Health">
+		<for>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Health -->
+			<mul order="0x30" stat="maxHp" val="1.25" />
+			<add order="0x40" stat="atkCountMax" val="0" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9427" name="Icarus Hammer - Rsk. Focus">
+		<for>
+			<set order="0x08" stat="pAtk" val="363" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Rsk. Focus -->
+			<add order="0x40" stat="rCrit" val="164">
+                <and>
+    	            <player hp="60"/>
+                </and>
+  	        </add>
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9428" name="Icarus Hand - Rsk. Evasion">
+		<for>
+			<set order="0x08" stat="pAtk" val="442" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="325" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Evasion -->
+			<add order="0x40" stat="rEvas" val="6.8">
+                <and>
+    	            <player hp="60"/>
+                </and>
+  	        </add>
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9429" name="Icarus Hand - Focus">
+		<for>
+			<set order="0x08" stat="pAtk" val="3442" />
+			<set order="0x08" stat="mAtk" val="1163" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="425" />
+			<enchant val="2" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Focus -->
+			<add order="0x40" stat="rCrit" val="107" />
+			<mul order="0x30" stat="pvpPhysDmg" val="2.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="2.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="2.05" />			
+		</for>
+	</item>
+	<item id="9430" name="Icarus Hand - Haste">
+		<for>
+			<set order="0x08" stat="pAtk" val="442" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="325" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Haste -->
+			<mul order="0x30" stat="pAtkSpd" val="1.1" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>	
+	<item id="9431" name="Icarus Hall - Mana Up">
+		<for>
+			<set order="0x08" stat="pAtk" val="290" />
+			<set order="0x08" stat="mAtk" val="217" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Mana Up -->
+			<mul order="0x30" stat="maxMp" val="1.3" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9432" name="Icarus Hall - Conversion">
+		<for>
+			<set order="0x08" stat="pAtk" val="290" />
+			<set order="0x08" stat="mAtk" val="217" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Conversion -->
+			<mul order="0x30" stat="maxMp" val="1.6" />
+			<mul order="0x30" stat="maxHp" val="0.6" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9433" name="Icarus Hall - Acumen">
+		<for>
+			<set order="0x08" stat="pAtk" val="290" />
+			<set order="0x08" stat="mAtk" val="217" />
+			<set order="0x08" stat="rCrit" val="4" />
+			<add order="0x10" stat="accCombat" val="4.75" />
+			<set order="0x08" stat="pAtkSpd" val="379" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Acumen -->
+			<mul order="0x30" stat="mAtkSpd" val="1.05" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9434" name="Icarus Spitter - Cheap Shot">
+		<for>
+			<set order="0x08" stat="pAtk" val="689" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="12" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="293" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set order="0x08" stat="MpConsume" val="1">
+				<and>
+					<game skill="false" chance="26" />
+				</and>
+			</set>
+			<!-- Special Ability: Cheap Shot-->
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9435" name="Icarus Spitter - Guidance">
+		<for>
+			<set order="0x08" stat="pAtk" val="689" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="12" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="293" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+            <!-- Special Ability: Guidance -->
+			<add order="0x40" stat="accCombat" val="5.32" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+	<item id="9436" name="Icarus Spitter - Focus">
+		<for>
+			<set order="0x08" stat="pAtk" val="689" />
+			<set order="0x08" stat="mAtk" val="163" />
+			<set order="0x08" stat="rCrit" val="12" />
+			<add order="0x10" stat="accCombat" val="-3.75" />
+			<set order="0x08" stat="pAtkSpd" val="293" />
+			<enchant val="0" order="0x0C" stat="pAtk" />
+			<enchant val="0" order="0x0C" stat="mAtk" />
+			<!-- Special Ability: Focus -->
+			<add order="0x40" stat="rCrit" val="116" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />			
+		</for>
+	</item>
+</list>
