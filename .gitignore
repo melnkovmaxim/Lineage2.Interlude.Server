@@ -1,7 +1,10 @@
+/L2J_Mobius_CT_0_Interlude/L2J_Mobius_CT_0_Interlude.iml
 /local_setup/sql_volume/*
+/local_setup/log/*
 /src/build
 /src/build-login
 /server/gameserver/log/*
 /server/loginserver/log/*
+/sql_backup/all.sql
 it_mantaray_login.jar
 core-gs.jar
